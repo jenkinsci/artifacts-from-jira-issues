@@ -8183,6 +8183,7 @@ JENKINS-31256:jenkinsci/jenkins#21535
 JENKINS-31267:jenkinsci/git-plugin#2753
 JENKINS-31302:jenkinsci/packaging#591
 JENKINS-31307:jenkinsci/jenkins#21536
+JENKINS-31319:jenkinsci/github-branch-source-plugin#922
 JENKINS-31321:jenkinsci/jenkins#21537
 JENKINS-31328:jenkinsci/git-plugin#2754
 JENKINS-31329:jenkinsci/jenkins#21538
@@ -8202,15 +8203,19 @@ JENKINS-31404:jenkinsci/jenkins#21549
 JENKINS-31417:jenkinsci/jenkins#21550
 JENKINS-31429:jenkinsci/git-plugin#2756
 JENKINS-31434:jenkinsci/jenkins#21551
+JENKINS-31445:jenkinsci/github-branch-source-plugin#923
 JENKINS-31446:jenkinsci/junit-plugin#1004
 JENKINS-31448:jenkinsci/jenkins#21552
 JENKINS-31456:jenkinsci/git-plugin#2757
 JENKINS-31458:jenkinsci/jenkins#21553
+JENKINS-31462:jenkinsci/github-branch-source-plugin#924
 JENKINS-31467:jenkinsci/remoting#1137
 JENKINS-31471:jenkinsci/jenkins#21554
 JENKINS-31476:jenkinsci/jenkins#21555
+JENKINS-31477:jenkinsci/github-branch-source-plugin#925
 JENKINS-31480:jenkinsci/packaging#593
 JENKINS-31481:jenkinsci/jenkins#21556
+JENKINS-31482:jenkinsci/github-branch-source-plugin#926
 JENKINS-31487:jenkinsci/jenkins#21557
 JENKINS-31495:jenkinsci/junit-plugin#1005
 JENKINS-31496:jenkinsci/jenkins#21558
@@ -8229,6 +8234,7 @@ JENKINS-31535:jenkinsci/jenkins#21568
 JENKINS-31536:jenkinsci/jenkins#21569
 JENKINS-31538:jenkinsci/jenkins#21570
 JENKINS-31539:jenkinsci/git-plugin#2759
+JENKINS-31552:jenkinsci/github-branch-source-plugin#927
 JENKINS-31554:jenkinsci/jenkins#21571
 JENKINS-31555:jenkinsci/jenkins#21572
 JENKINS-31559:jenkinsci/jenkins#21573
@@ -8237,6 +8243,7 @@ JENKINS-31562:jenkinsci/jenkins#21575
 JENKINS-31564:jenkinsci/jenkins#21576
 JENKINS-31567:jenkinsci/jenkins#21577
 JENKINS-31568:jenkinsci/jenkins#21578
+JENKINS-31574:jenkinsci/github-branch-source-plugin#928
 JENKINS-31578:jenkinsci/jenkins#21579
 JENKINS-31583:jenkinsci/packaging#594
 JENKINS-31584:jenkinsci/packaging#595
@@ -8323,6 +8330,7 @@ JENKINS-31981:jenkinsci/jenkins#21628
 JENKINS-31989:jenkinsci/jenkins#21629
 JENKINS-31997:jenkinsci/jenkins#21630
 JENKINS-31998:jenkinsci/git-plugin#2772
+JENKINS-32007:jenkinsci/github-branch-source-plugin#929
 JENKINS-32016:jenkinsci/jenkins#21631
 JENKINS-32023:jenkinsci/git-plugin#2773
 JENKINS-32024:jenkinsci/jenkins#21632
@@ -8400,6 +8408,7 @@ JENKINS-32403:jenkinsci/remoting#1146
 JENKINS-32404:jenkinsci/git-plugin#2788
 JENKINS-32418:jenkinsci/jenkins#21685
 JENKINS-32425:jenkinsci/jenkins#21686
+JENKINS-32429:jenkinsci/github-branch-source-plugin#930
 JENKINS-32435:jenkinsci/git-plugin#2789
 JENKINS-32436:jenkinsci/git-plugin#2790
 JENKINS-32442:jenkinsci/jenkins#21687
@@ -8456,6 +8465,7 @@ JENKINS-32705:jenkinsci/jenkins#21725
 JENKINS-32707:jenkinsci/git-plugin#2800
 JENKINS-32716:jenkinsci/jenkins#21726
 JENKINS-32735:jenkinsci/jenkins#21727
+JENKINS-32749:jenkinsci/github-branch-source-plugin#931
 JENKINS-32751:jenkinsci/jenkins#21728
 JENKINS-32752:jenkinsci/jenkins#21729
 JENKINS-32759:jenkinsci/jenkins#21730
@@ -8533,12 +8543,15 @@ JENKINS-33138:jenkinsci/jenkins#21788
 JENKINS-33139:jenkinsci/jenkins#21789
 JENKINS-33140:jenkinsci/git-plugin#2809
 JENKINS-33146:jenkinsci/jenkins#21790
+JENKINS-33151:jenkinsci/github-branch-source-plugin#932
 JENKINS-33155:jenkinsci/jenkins#21791
 JENKINS-33159:jenkinsci/jenkins#21792
 JENKINS-33160:jenkinsci/jenkins#21793
+JENKINS-33161:jenkinsci/github-branch-source-plugin#933
 JENKINS-33168:jenkinsci/junit-plugin#1016
 JENKINS-33177:jenkinsci/jenkins#21794
 JENKINS-33180:jenkinsci/jenkins#21795
+JENKINS-33183:jenkinsci/github-branch-source-plugin#934
 JENKINS-33192:jenkinsci/jenkins#21796
 JENKINS-33195:jenkinsci/jenkins#21797
 JENKINS-33201:jenkinsci/jenkins#21798
@@ -8546,13 +8559,17 @@ JENKINS-33202:jenkinsci/git-plugin#2810
 JENKINS-33210:jenkinsci/remoting#1151
 JENKINS-33215:jenkinsci/jenkins#21799
 JENKINS-33223:jenkinsci/jenkins#21800
+JENKINS-33228:jenkinsci/github-branch-source-plugin#935
+JENKINS-33237:jenkinsci/github-branch-source-plugin#936
 JENKINS-33238:jenkinsci/git-plugin#2811
 JENKINS-33239:jenkinsci/jenkins#21801
 JENKINS-33240:jenkinsci/jenkins#21802
 JENKINS-33244:jenkinsci/jenkins#21803
 JENKINS-33246:jenkinsci/jenkins#21804
+JENKINS-33256:jenkinsci/github-branch-source-plugin#937
 JENKINS-33268:jenkinsci/jenkins#21805
 JENKINS-33270:jenkinsci/jenkins#21806
+JENKINS-33272:jenkinsci/github-branch-source-plugin#938
 JENKINS-33281:jenkinsci/jenkins#21807
 JENKINS-33285:jenkinsci/packaging#606
 JENKINS-33287:jenkinsci/jenkins#21808
@@ -8561,7 +8578,10 @@ JENKINS-33296:jenkinsci/jenkins#21810
 JENKINS-33299:jenkinsci/jenkins#21811
 JENKINS-33303:jenkinsci/jenkins#21812
 JENKINS-33304:jenkinsci/jenkins#21813
+JENKINS-33305:jenkinsci/github-branch-source-plugin#939
+JENKINS-33306:jenkinsci/github-branch-source-plugin#940
 JENKINS-33308:jenkinsci/jenkins#21814
+JENKINS-33318:jenkinsci/github-branch-source-plugin#941
 JENKINS-33319:jenkinsci/jenkins#21815
 JENKINS-33327:jenkinsci/jenkins#21816
 JENKINS-33330:jenkinsci/jenkins#21817
@@ -8604,11 +8624,13 @@ JENKINS-33471:jenkinsci/jenkins#21846
 JENKINS-33478:jenkinsci/jenkins#21847
 JENKINS-33481:jenkinsci/jenkins#21848
 JENKINS-33483:jenkinsci/git-plugin#2816
+JENKINS-33490:jenkinsci/github-branch-source-plugin#942
 JENKINS-33491:jenkinsci/jenkins#21849
 JENKINS-33495:jenkinsci/jenkins#21850
 JENKINS-33496:jenkinsci/jenkins#21851
 JENKINS-33516:jenkinsci/junit-plugin#1018
 JENKINS-33524:jenkinsci/remoting#1153
+JENKINS-33530:jenkinsci/github-branch-source-plugin#943
 JENKINS-33534:jenkinsci/jenkins#16848
 JENKINS-33535:jenkinsci/jenkins#16849
 JENKINS-33536:jenkinsci/jenkins#16850
@@ -8642,7 +8664,9 @@ JENKINS-33605:jenkinsci/jenkins#16876
 JENKINS-33619:jenkinsci/jenkins#16877
 JENKINS-33620:jenkinsci/jenkins#16878
 JENKINS-33621:jenkinsci/jenkins#16879
+JENKINS-33623:jenkinsci/github-branch-source-plugin#944
 JENKINS-33631:jenkinsci/git-plugin#2818
+JENKINS-33637:jenkinsci/github-branch-source-plugin#945
 JENKINS-33643:jenkinsci/jenkins#16880
 JENKINS-33647:jenkinsci/jenkins#16881
 JENKINS-33652:jenkinsci/jenkins#16882
@@ -8679,6 +8703,7 @@ JENKINS-33754:jenkinsci/jenkins#16907
 JENKINS-33755:jenkinsci/jenkins#16908
 JENKINS-33766:jenkinsci/jenkins#16909
 JENKINS-33767:jenkinsci/jenkins#16910
+JENKINS-33768:jenkinsci/github-branch-source-plugin#946
 JENKINS-33769:jenkinsci/jenkins#16911
 JENKINS-33770:jenkinsci/jenkins#16912
 JENKINS-33771:jenkinsci/jenkins#16913
@@ -8707,6 +8732,7 @@ JENKINS-33810:jenkinsci/jenkins#16934
 JENKINS-33811:jenkinsci/git-plugin#2821
 JENKINS-33812:jenkinsci/jenkins#16935
 JENKINS-33813:jenkinsci/jenkins#16936
+JENKINS-33815:jenkinsci/github-branch-source-plugin#947
 JENKINS-33816:jenkinsci/jenkins#16937
 JENKINS-33818:jenkinsci/jenkins#16938
 JENKINS-33820:jenkinsci/jenkins#16939
@@ -8734,6 +8760,7 @@ JENKINS-33889:jenkinsci/jenkins#16954
 JENKINS-33891:jenkinsci/jenkins#16955
 JENKINS-33893:jenkinsci/jenkins#16956
 JENKINS-33907:jenkinsci/git-plugin#2827
+JENKINS-33909:jenkinsci/github-branch-source-plugin#948
 JENKINS-33915:jenkinsci/remoting#1155
 JENKINS-33916:jenkinsci/jenkins#16957
 JENKINS-33919:jenkinsci/jenkins#16958
@@ -8777,6 +8804,7 @@ JENKINS-34029:jenkinsci/jenkins#16990
 JENKINS-34035:jenkinsci/jenkins#16991
 JENKINS-34042:jenkinsci/git-plugin#2832
 JENKINS-34045:jenkinsci/git-plugin#2833
+JENKINS-34047:jenkinsci/github-branch-source-plugin#949
 JENKINS-34048:jenkinsci/jenkins#16992
 JENKINS-34055:jenkinsci/jenkins#16993
 JENKINS-34058:jenkinsci/jenkins#16994
@@ -8797,6 +8825,7 @@ JENKINS-34108:jenkinsci/junit-plugin#1019
 JENKINS-34113:jenkinsci/jenkins#17007
 JENKINS-34115:jenkinsci/jenkins#17008
 JENKINS-34118:jenkinsci/jenkins#17009
+JENKINS-34120:jenkinsci/github-branch-source-plugin#950
 JENKINS-34121:jenkinsci/remoting#1157
 JENKINS-34126:jenkinsci/git-plugin#2835
 JENKINS-34127:jenkinsci/jenkins#17010
@@ -8804,6 +8833,7 @@ JENKINS-34129:jenkinsci/jenkins#17011
 JENKINS-34137:jenkinsci/jenkins#17012
 JENKINS-34146:jenkinsci/jenkins#17013
 JENKINS-34148:jenkinsci/junit-plugin#1020
+JENKINS-34154:jenkinsci/github-branch-source-plugin#951
 JENKINS-34164:jenkinsci/jenkins#17014
 JENKINS-34165:jenkinsci/git-plugin#2836
 JENKINS-34167:jenkinsci/jenkins#17015
@@ -8812,23 +8842,29 @@ JENKINS-34171:jenkinsci/git-plugin#2837
 JENKINS-34172:jenkinsci/jenkins#17017
 JENKINS-34174:jenkinsci/jenkins#17018
 JENKINS-34177:jenkinsci/jenkins#17019
+JENKINS-34180:jenkinsci/github-branch-source-plugin#952
 JENKINS-34183:jenkinsci/jenkins#17020
 JENKINS-34189:jenkinsci/jenkins#17021
 JENKINS-34197:jenkinsci/jenkins#17022
+JENKINS-34202:jenkinsci/github-branch-source-plugin#953
 JENKINS-34209:jenkinsci/jenkins#17023
 JENKINS-34210:jenkinsci/jenkins#17024
 JENKINS-34213:jenkinsci/remoting#1158
 JENKINS-34217:jenkinsci/junit-plugin#1021
 JENKINS-34218:jenkinsci/git-plugin#2838
+JENKINS-34219:jenkinsci/github-branch-source-plugin#954
 JENKINS-34223:jenkinsci/git-plugin#2839
 JENKINS-34226:jenkinsci/jenkins#17025
 JENKINS-34228:jenkinsci/jenkins#17026
+JENKINS-34237:jenkinsci/github-branch-source-plugin#955
+JENKINS-34242:jenkinsci/github-branch-source-plugin#956
 JENKINS-34243:jenkinsci/jenkins#17027
 JENKINS-34244:jenkinsci/jenkins#17028
 JENKINS-34245:jenkinsci/jenkins#17029
 JENKINS-34250:jenkinsci/jenkins#17030
 JENKINS-34254:jenkinsci/jenkins#17031
 JENKINS-34255:jenkinsci/jenkins#17032
+JENKINS-34259:jenkinsci/github-branch-source-plugin#957
 JENKINS-34260:jenkinsci/jenkins#17033
 JENKINS-34265:jenkinsci/jenkins#17034
 JENKINS-34274:jenkinsci/junit-plugin#1022
@@ -8852,11 +8888,13 @@ JENKINS-34370:jenkinsci/jenkins#17043
 JENKINS-34372:jenkinsci/junit-plugin#1024
 JENKINS-34374:jenkinsci/git-plugin#2844
 JENKINS-34375:jenkinsci/remoting#1161
+JENKINS-34395:jenkinsci/github-branch-source-plugin#958
 JENKINS-34400:jenkinsci/jenkins#17044
 JENKINS-34402:jenkinsci/jenkins#17045
 JENKINS-34406:jenkinsci/jenkins#17046
 JENKINS-34407:jenkinsci/junit-plugin#1025
 JENKINS-34409:jenkinsci/git-plugin#2845
+JENKINS-34410:jenkinsci/github-branch-source-plugin#959
 JENKINS-34423:jenkinsci/jenkins#17047
 JENKINS-34424:jenkinsci/jenkins#17048
 JENKINS-34434:jenkinsci/jenkins#17049
@@ -8894,6 +8932,7 @@ JENKINS-34530:jenkinsci/jenkins#17076
 JENKINS-34531:jenkinsci/jenkins#17077
 JENKINS-34532:jenkinsci/jenkins#17078
 JENKINS-34540:jenkinsci/git-plugin#2849
+JENKINS-34548:jenkinsci/github-branch-source-plugin#960
 JENKINS-34568:jenkinsci/jenkins#17079
 JENKINS-34571:jenkinsci/jenkins#17080
 JENKINS-34573:jenkinsci/jenkins#17081
@@ -8906,6 +8945,7 @@ JENKINS-34601:jenkinsci/jenkins#17085
 JENKINS-34603:jenkinsci/git-plugin#2850
 JENKINS-34604:jenkinsci/jenkins#17086
 JENKINS-34611:jenkinsci/jenkins#17087
+JENKINS-34612:jenkinsci/github-branch-source-plugin#961
 JENKINS-34628:jenkinsci/jenkins#17088
 JENKINS-34629:jenkinsci/jenkins#17089
 JENKINS-34631:jenkinsci/git-plugin#2851
@@ -8931,6 +8971,8 @@ JENKINS-34708:jenkinsci/jenkins#17106
 JENKINS-34710:jenkinsci/jenkins#17107
 JENKINS-34712:jenkinsci/jenkins#17108
 JENKINS-34721:jenkinsci/jenkins#17109
+JENKINS-34727:jenkinsci/github-branch-source-plugin#962
+JENKINS-34728:jenkinsci/github-branch-source-plugin#963
 JENKINS-34730:jenkinsci/jenkins#17110
 JENKINS-34733:jenkinsci/jenkins#17111
 JENKINS-34740:jenkinsci/jenkins#17112
@@ -8941,11 +8983,13 @@ JENKINS-34747:jenkinsci/git-plugin#2853
 JENKINS-34748:jenkinsci/jenkins#17116
 JENKINS-34749:jenkinsci/jenkins#17117
 JENKINS-34751:jenkinsci/jenkins#17118
+JENKINS-34752:jenkinsci/github-branch-source-plugin#964
 JENKINS-34755:jenkinsci/jenkins#17119
 JENKINS-34759:jenkinsci/jenkins#17120
 JENKINS-34760:jenkinsci/jenkins#17121
 JENKINS-34767:jenkinsci/jenkins#17122
 JENKINS-34768:jenkinsci/jenkins#17123
+JENKINS-34776:jenkinsci/github-branch-source-plugin#965
 JENKINS-34778:jenkinsci/jenkins#17124
 JENKINS-34781:jenkinsci/jenkins#17125
 JENKINS-34782:jenkinsci/git-plugin#2854
@@ -8983,6 +9027,7 @@ JENKINS-34915:jenkinsci/jenkins#17148
 JENKINS-34919:jenkinsci/jenkins#17149
 JENKINS-34923:jenkinsci/jenkins#17150
 JENKINS-34925:jenkinsci/git-plugin#2860
+JENKINS-34938:jenkinsci/github-branch-source-plugin#966
 JENKINS-34947:jenkinsci/jenkins#17151
 JENKINS-34948:jenkinsci/jenkins#17152
 JENKINS-34950:jenkinsci/jenkins#17153
@@ -8990,6 +9035,7 @@ JENKINS-34951:jenkinsci/jenkins#17154
 JENKINS-34952:jenkinsci/jenkins#17155
 JENKINS-34957:jenkinsci/git-plugin#2861
 JENKINS-34965:jenkinsci/jenkins#17156
+JENKINS-34966:jenkinsci/github-branch-source-plugin#967
 JENKINS-34975:jenkinsci/jenkins#17157
 JENKINS-34986:jenkinsci/jenkins#17158
 JENKINS-34990:jenkinsci/jenkins#17159
@@ -9010,6 +9056,7 @@ JENKINS-35093:jenkinsci/jenkins#17172
 JENKINS-35098:jenkinsci/jenkins#17173
 JENKINS-35104:jenkinsci/git-plugin#2863
 JENKINS-35105:jenkinsci/git-plugin#2864
+JENKINS-35111:jenkinsci/github-branch-source-plugin#968
 JENKINS-35114:jenkinsci/jenkins#17174
 JENKINS-35115:jenkinsci/jenkins#17175
 JENKINS-35116:jenkinsci/jenkins#17176
@@ -9073,6 +9120,7 @@ JENKINS-35340:jenkinsci/git-plugin#2873
 JENKINS-35350:jenkinsci/jenkins#17213
 JENKINS-35351:jenkinsci/jenkins#17214
 JENKINS-35356:jenkinsci/git-plugin#2874
+JENKINS-35359:jenkinsci/github-branch-source-plugin#969
 JENKINS-35377:jenkinsci/jenkins#17215
 JENKINS-35381:jenkinsci/jenkins#17216
 JENKINS-35402:jenkinsci/jenkins#17217
@@ -9088,6 +9136,7 @@ JENKINS-35449:jenkinsci/jenkins#17226
 JENKINS-35450:jenkinsci/jenkins#17227
 JENKINS-35451:jenkinsci/jenkins#17228
 JENKINS-35452:jenkinsci/jenkins#17229
+JENKINS-35453:jenkinsci/github-branch-source-plugin#970
 JENKINS-35459:jenkinsci/jenkins#17230
 JENKINS-35460:jenkinsci/git-plugin#2875
 JENKINS-35468:jenkinsci/jenkins#17231
@@ -9110,6 +9159,7 @@ JENKINS-35514:jenkinsci/jenkins#17240
 JENKINS-35517:jenkinsci/jenkins#17241
 JENKINS-35523:jenkinsci/jenkins#17242
 JENKINS-35525:jenkinsci/git-plugin#2880
+JENKINS-35552:jenkinsci/github-branch-source-plugin#971
 JENKINS-35565:jenkinsci/git-plugin#2881
 JENKINS-35566:jenkinsci/jenkins#17243
 JENKINS-35567:jenkinsci/git-plugin#2882
@@ -9119,6 +9169,8 @@ JENKINS-35585:jenkinsci/jenkins#17246
 JENKINS-35618:jenkinsci/jenkins#17247
 JENKINS-35620:jenkinsci/jenkins#17248
 JENKINS-35641:jenkinsci/jenkins#17249
+JENKINS-35657:jenkinsci/github-branch-source-plugin#972
+JENKINS-35668:jenkinsci/github-branch-source-plugin#973
 JENKINS-35670:jenkinsci/jenkins#17250
 JENKINS-35671:jenkinsci/jenkins#17251
 JENKINS-35673:jenkinsci/jenkins#17252
@@ -9127,6 +9179,7 @@ JENKINS-35687:jenkinsci/git-plugin#2884
 JENKINS-35688:jenkinsci/blueocean-plugin#2679
 JENKINS-35690:jenkinsci/blueocean-plugin#2680
 JENKINS-35693:jenkinsci/blueocean-plugin#2681
+JENKINS-35694:jenkinsci/github-branch-source-plugin#974
 JENKINS-35695:jenkinsci/jenkins#17253
 JENKINS-35713:jenkinsci/blueocean-plugin#2682
 JENKINS-35714:jenkinsci/blueocean-plugin#2683
@@ -9331,6 +9384,7 @@ JENKINS-35967:jenkinsci/jenkins#17260
 JENKINS-35980:jenkinsci/blueocean-plugin#2875
 JENKINS-35981:jenkinsci/jenkins#17261
 JENKINS-35990:jenkinsci/blueocean-plugin#2876
+JENKINS-35992:jenkinsci/github-branch-source-plugin#975
 JENKINS-35993:jenkinsci/blueocean-plugin#2877
 JENKINS-35994:jenkinsci/blueocean-plugin#2878
 JENKINS-35995:jenkinsci/blueocean-plugin#2879
@@ -9382,6 +9436,7 @@ JENKINS-36107:jenkinsci/blueocean-plugin#2910
 JENKINS-36113:jenkinsci/git-plugin#2888
 JENKINS-36115:jenkinsci/jenkins#17272
 JENKINS-36118:jenkinsci/jenkins#17273
+JENKINS-36121:jenkinsci/github-branch-source-plugin#976
 JENKINS-36123:jenkinsci/jenkins#17274
 JENKINS-36128:jenkinsci/blueocean-plugin#2911
 JENKINS-36130:jenkinsci/blueocean-plugin#2912
@@ -9409,6 +9464,7 @@ JENKINS-36191:jenkinsci/jenkins#17277
 JENKINS-36193:jenkinsci/jenkins#17278
 JENKINS-36194:jenkinsci/jenkins#17279
 JENKINS-36195:jenkinsci/git-plugin#2891
+JENKINS-36196:jenkinsci/github-branch-source-plugin#977
 JENKINS-36198:jenkinsci/blueocean-plugin#2927
 JENKINS-36199:jenkinsci/blueocean-plugin#2928
 JENKINS-36207:jenkinsci/blueocean-plugin#2929
@@ -9424,6 +9480,7 @@ JENKINS-36232:jenkinsci/jenkins#17281
 JENKINS-36233:jenkinsci/blueocean-plugin#2936
 JENKINS-36234:jenkinsci/blueocean-plugin#2937
 JENKINS-36239:jenkinsci/jenkins#17282
+JENKINS-36240:jenkinsci/github-branch-source-plugin#978
 JENKINS-36245:jenkinsci/jenkins#17283
 JENKINS-36249:jenkinsci/jenkins#17284
 JENKINS-36251:jenkinsci/jenkins#17285
@@ -9463,8 +9520,10 @@ JENKINS-36340:jenkinsci/blueocean-plugin#2956
 JENKINS-36341:jenkinsci/jenkins#17295
 JENKINS-36344:jenkinsci/git-plugin#2896
 JENKINS-36351:jenkinsci/jenkins#17296
+JENKINS-36352:jenkinsci/github-branch-source-plugin#979
 JENKINS-36353:jenkinsci/junit-plugin#1034
 JENKINS-36354:jenkinsci/jenkins#17297
+JENKINS-36357:jenkinsci/github-branch-source-plugin#980
 JENKINS-36361:jenkinsci/jenkins#17298
 JENKINS-36363:jenkinsci/jenkins#17299
 JENKINS-36368:jenkinsci/blueocean-plugin#2957
@@ -9514,6 +9573,7 @@ JENKINS-36539:jenkinsci/jenkins#17316
 JENKINS-36541:jenkinsci/blueocean-plugin#2977
 JENKINS-36542:jenkinsci/blueocean-plugin#2978
 JENKINS-36547:jenkinsci/jenkins#17317
+JENKINS-36548:jenkinsci/github-branch-source-plugin#981
 JENKINS-36555:jenkinsci/blueocean-plugin#2979
 JENKINS-36558:jenkinsci/blueocean-plugin#2980
 JENKINS-36559:jenkinsci/jenkins#17318
@@ -9521,6 +9581,7 @@ JENKINS-36563:jenkinsci/git-plugin#2903
 JENKINS-36564:jenkinsci/blueocean-plugin#2981
 JENKINS-36565:jenkinsci/blueocean-plugin#2982
 JENKINS-36573:jenkinsci/blueocean-plugin#2983
+JENKINS-36574:jenkinsci/github-branch-source-plugin#982
 JENKINS-36580:jenkinsci/blueocean-plugin#2984
 JENKINS-36581:jenkinsci/jenkins#17319
 JENKINS-36582:jenkinsci/blueocean-plugin#2985
@@ -9528,6 +9589,7 @@ JENKINS-36583:jenkinsci/jenkins#17320
 JENKINS-36586:jenkinsci/blueocean-plugin#2986
 JENKINS-36587:jenkinsci/blueocean-plugin#2987
 JENKINS-36588:jenkinsci/blueocean-plugin#2988
+JENKINS-36591:jenkinsci/github-branch-source-plugin#983
 JENKINS-36592:jenkinsci/jenkins#17321
 JENKINS-36593:jenkinsci/jenkins#17322
 JENKINS-36594:jenkinsci/jenkins#17323
@@ -9537,6 +9599,7 @@ JENKINS-36597:jenkinsci/blueocean-plugin#2991
 JENKINS-36599:jenkinsci/blueocean-plugin#2992
 JENKINS-36600:jenkinsci/blueocean-plugin#2993
 JENKINS-36601:jenkinsci/blueocean-plugin#2994
+JENKINS-36602:jenkinsci/github-branch-source-plugin#984
 JENKINS-36603:jenkinsci/blueocean-plugin#2995
 JENKINS-36610:jenkinsci/blueocean-plugin#2996
 JENKINS-36612:jenkinsci/jenkins#17324
@@ -9589,6 +9652,7 @@ JENKINS-36718:jenkinsci/jenkins#17339
 JENKINS-36720:jenkinsci/jenkins#17340
 JENKINS-36721:jenkinsci/jenkins#17341
 JENKINS-36722:jenkinsci/jenkins#17342
+JENKINS-36724:jenkinsci/github-branch-source-plugin#985
 JENKINS-36727:jenkinsci/git-plugin#2905
 JENKINS-36728:jenkinsci/blueocean-plugin#3027
 JENKINS-36729:jenkinsci/jenkins#17343
@@ -9658,6 +9722,7 @@ JENKINS-36918:jenkinsci/jenkins#17369
 JENKINS-36921:jenkinsci/blueocean-plugin#3058
 JENKINS-36922:jenkinsci/jenkins#17370
 JENKINS-36923:jenkinsci/jenkins#17371
+JENKINS-36924:jenkinsci/github-branch-source-plugin#986
 JENKINS-36927:jenkinsci/jenkins#17372
 JENKINS-36930:jenkinsci/blueocean-plugin#3059
 JENKINS-36931:jenkinsci/jenkins#17373
@@ -9701,6 +9766,7 @@ JENKINS-37021:jenkinsci/blueocean-plugin#3080
 JENKINS-37022:jenkinsci/blueocean-plugin#3081
 JENKINS-37023:jenkinsci/blueocean-plugin#3082
 JENKINS-37024:jenkinsci/blueocean-plugin#3083
+JENKINS-37028:jenkinsci/github-branch-source-plugin#987
 JENKINS-37031:jenkinsci/jenkins#17384
 JENKINS-37032:jenkinsci/jenkins#17385
 JENKINS-37034:jenkinsci/jenkins#17386
@@ -9735,6 +9801,7 @@ JENKINS-37132:jenkinsci/jenkins#17401
 JENKINS-37137:jenkinsci/blueocean-plugin#3088
 JENKINS-37140:jenkinsci/remoting#1173
 JENKINS-37141:jenkinsci/blueocean-plugin#3089
+JENKINS-37144:jenkinsci/github-branch-source-plugin#988
 JENKINS-37145:jenkinsci/jenkins#17402
 JENKINS-37150:jenkinsci/jenkins#17403
 JENKINS-37155:jenkinsci/jenkins#17404
@@ -9771,6 +9838,7 @@ JENKINS-37249:jenkinsci/blueocean-plugin#3103
 JENKINS-37250:jenkinsci/blueocean-plugin#3104
 JENKINS-37251:jenkinsci/blueocean-plugin#3105
 JENKINS-37252:jenkinsci/git-plugin#2921
+JENKINS-37253:jenkinsci/github-branch-source-plugin#989
 JENKINS-37257:jenkinsci/jenkins#17418
 JENKINS-37263:jenkinsci/git-plugin#2922
 JENKINS-37266:jenkinsci/blueocean-plugin#3106
@@ -9801,6 +9869,7 @@ JENKINS-37338:jenkinsci/blueocean-plugin#3116
 JENKINS-37340:jenkinsci/blueocean-plugin#3117
 JENKINS-37353:jenkinsci/jenkins#17429
 JENKINS-37355:jenkinsci/jenkins#17430
+JENKINS-37359:jenkinsci/github-branch-source-plugin#990
 JENKINS-37360:jenkinsci/jenkins#17431
 JENKINS-37371:jenkinsci/jenkins#17432
 JENKINS-37372:jenkinsci/jenkins#17433
@@ -9822,6 +9891,7 @@ JENKINS-37460:jenkinsci/jenkins#17441
 JENKINS-37469:jenkinsci/jenkins#17442
 JENKINS-37482:jenkinsci/git-plugin#2928
 JENKINS-37489:jenkinsci/jenkins#17443
+JENKINS-37491:jenkinsci/github-branch-source-plugin#991
 JENKINS-37495:jenkinsci/git-plugin#2929
 JENKINS-37496:jenkinsci/git-plugin#2930
 JENKINS-37498:jenkinsci/jenkins#17444
@@ -9866,6 +9936,7 @@ JENKINS-37602:jenkinsci/blueocean-plugin#3132
 JENKINS-37603:jenkinsci/blueocean-plugin#3133
 JENKINS-37604:jenkinsci/blueocean-plugin#3134
 JENKINS-37605:jenkinsci/blueocean-plugin#3135
+JENKINS-37608:jenkinsci/github-branch-source-plugin#992
 JENKINS-37612:jenkinsci/blueocean-plugin#3136
 JENKINS-37616:jenkinsci/jenkins#17462
 JENKINS-37619:jenkinsci/jenkins#17463
@@ -9875,6 +9946,7 @@ JENKINS-37640:jenkinsci/blueocean-plugin#3137
 JENKINS-37646:jenkinsci/jenkins#17464
 JENKINS-37648:jenkinsci/blueocean-plugin#3138
 JENKINS-37653:jenkinsci/git-plugin#2935
+JENKINS-37658:jenkinsci/github-branch-source-plugin#993
 JENKINS-37663:jenkinsci/junit-plugin#1040
 JENKINS-37664:jenkinsci/jenkins#17465
 JENKINS-37666:jenkinsci/blueocean-plugin#3139
@@ -9947,6 +10019,7 @@ JENKINS-37840:jenkinsci/blueocean-plugin#3177
 JENKINS-37841:jenkinsci/blueocean-plugin#3178
 JENKINS-37842:jenkinsci/blueocean-plugin#3179
 JENKINS-37843:jenkinsci/blueocean-plugin#3180
+JENKINS-37845:jenkinsci/github-branch-source-plugin#994
 JENKINS-37847:jenkinsci/blueocean-plugin#3181
 JENKINS-37853:jenkinsci/jenkins#17489
 JENKINS-37857:jenkinsci/jenkins#17490
@@ -9959,6 +10032,7 @@ JENKINS-37877:jenkinsci/blueocean-plugin#3185
 JENKINS-37878:jenkinsci/blueocean-plugin#3186
 JENKINS-37880:jenkinsci/blueocean-plugin#3187
 JENKINS-37905:jenkinsci/jenkins#17493
+JENKINS-37907:jenkinsci/github-branch-source-plugin#995
 JENKINS-37909:jenkinsci/blueocean-plugin#3188
 JENKINS-37911:jenkinsci/jenkins#17494
 JENKINS-37913:jenkinsci/blueocean-plugin#3189
@@ -9970,6 +10044,7 @@ JENKINS-37919:jenkinsci/jenkins#17497
 JENKINS-37921:jenkinsci/blueocean-plugin#3192
 JENKINS-37925:jenkinsci/blueocean-plugin#3193
 JENKINS-37926:jenkinsci/jenkins#17498
+JENKINS-37939:jenkinsci/github-branch-source-plugin#996
 JENKINS-37954:jenkinsci/blueocean-plugin#3194
 JENKINS-37955:jenkinsci/blueocean-plugin#3195
 JENKINS-37957:jenkinsci/blueocean-plugin#3196
@@ -9988,6 +10063,7 @@ JENKINS-37993:jenkinsci/jenkins#17502
 JENKINS-37996:jenkinsci/junit-plugin#1042
 JENKINS-37997:jenkinsci/jenkins#17503
 JENKINS-37999:jenkinsci/packaging#619
+JENKINS-38001:jenkinsci/github-branch-source-plugin#997
 JENKINS-38004:jenkinsci/junit-plugin#1043
 JENKINS-38005:jenkinsci/jenkins#17504
 JENKINS-38006:jenkinsci/blueocean-plugin#3204
@@ -10060,6 +10136,7 @@ JENKINS-38229:jenkinsci/jenkins#17526
 JENKINS-38240:jenkinsci/blueocean-plugin#3240
 JENKINS-38241:jenkinsci/git-plugin#2947
 JENKINS-38244:jenkinsci/git-plugin#2948
+JENKINS-38246:jenkinsci/github-branch-source-plugin#998
 JENKINS-38247:jenkinsci/blueocean-plugin#3241
 JENKINS-38248:jenkinsci/blueocean-plugin#3242
 JENKINS-38251:jenkinsci/blueocean-plugin#3243
@@ -10267,6 +10344,8 @@ JENKINS-38922:jenkinsci/jenkins#17598
 JENKINS-38925:jenkinsci/blueocean-plugin#3333
 JENKINS-38931:jenkinsci/jenkins#17599
 JENKINS-38934:jenkinsci/junit-plugin#1048
+JENKINS-38937:jenkinsci/github-branch-source-plugin#999
+JENKINS-38944:jenkinsci/github-branch-source-plugin#1000
 JENKINS-38946:jenkinsci/blueocean-plugin#3334
 JENKINS-38947:jenkinsci/blueocean-plugin#3335
 JENKINS-38954:jenkinsci/jenkins#17600
@@ -10275,6 +10354,7 @@ JENKINS-38958:jenkinsci/jenkins#17601
 JENKINS-38960:jenkinsci/jenkins#17602
 JENKINS-38966:jenkinsci/jenkins#17603
 JENKINS-38973:jenkinsci/git-plugin#2972
+JENKINS-38975:jenkinsci/github-branch-source-plugin#1001
 JENKINS-38977:jenkinsci/jenkins#17604
 JENKINS-38979:jenkinsci/blueocean-plugin#3337
 JENKINS-38980:jenkinsci/blueocean-plugin#3338
@@ -10289,6 +10369,7 @@ JENKINS-39009:jenkinsci/jenkins#17608
 JENKINS-39016:jenkinsci/blueocean-plugin#3342
 JENKINS-39017:jenkinsci/blueocean-plugin#3343
 JENKINS-39024:jenkinsci/jenkins#17609
+JENKINS-39025:jenkinsci/github-branch-source-plugin#1002
 JENKINS-39027:jenkinsci/blueocean-plugin#3344
 JENKINS-39034:jenkinsci/jenkins#17610
 JENKINS-39037:jenkinsci/junit-plugin#1049
@@ -10300,11 +10381,16 @@ JENKINS-39054:jenkinsci/jenkins#17613
 JENKINS-39055:jenkinsci/blueocean-plugin#3347
 JENKINS-39056:jenkinsci/blueocean-plugin#3348
 JENKINS-39057:jenkinsci/blueocean-plugin#3349
+JENKINS-39062:jenkinsci/github-branch-source-plugin#1003
 JENKINS-39066:jenkinsci/jenkins#17614
+JENKINS-39067:jenkinsci/github-branch-source-plugin#1004
 JENKINS-39071:jenkinsci/packaging#623
+JENKINS-39082:jenkinsci/github-branch-source-plugin#1005
+JENKINS-39086:jenkinsci/github-branch-source-plugin#1006
 JENKINS-39087:jenkinsci/blueocean-plugin#3350
 JENKINS-39098:jenkinsci/git-plugin#2974
 JENKINS-39111:jenkinsci/git-plugin#2975
+JENKINS-39114:jenkinsci/github-branch-source-plugin#1007
 JENKINS-39116:jenkinsci/jenkins#17615
 JENKINS-39118:jenkinsci/jenkins#17616
 JENKINS-39124:jenkinsci/blueocean-plugin#3351
@@ -10349,6 +10435,7 @@ JENKINS-39255:jenkinsci/git-plugin#2980
 JENKINS-39262:jenkinsci/jenkins#17632
 JENKINS-39264:jenkinsci/git-plugin#2981
 JENKINS-39268:jenkinsci/jenkins#17633
+JENKINS-39285:jenkinsci/github-branch-source-plugin#1008
 JENKINS-39286:jenkinsci/jenkins#17634
 JENKINS-39289:jenkinsci/remoting#1200
 JENKINS-39290:jenkinsci/remoting#1201
@@ -10412,6 +10499,7 @@ JENKINS-39478:jenkinsci/blueocean-plugin#3388
 JENKINS-39483:jenkinsci/jenkins#17663
 JENKINS-39486:jenkinsci/jenkins#17664
 JENKINS-39495:jenkinsci/jenkins#17665
+JENKINS-39496:jenkinsci/github-branch-source-plugin#1009
 JENKINS-39512:jenkinsci/blueocean-plugin#3389
 JENKINS-39513:jenkinsci/blueocean-plugin#3390
 JENKINS-39514:jenkinsci/git-plugin#2983
@@ -10487,6 +10575,7 @@ JENKINS-39738:jenkinsci/jenkins#17683
 JENKINS-39741:jenkinsci/jenkins#17684
 JENKINS-39747:jenkinsci/blueocean-plugin#3427
 JENKINS-39749:jenkinsci/git-plugin#2991
+JENKINS-39750:jenkinsci/github-branch-source-plugin#1010
 JENKINS-39757:jenkinsci/blueocean-plugin#3428
 JENKINS-39760:jenkinsci/jenkins#17685
 JENKINS-39761:jenkinsci/blueocean-plugin#3429
@@ -10520,6 +10609,8 @@ JENKINS-39818:jenkinsci/git-plugin#2994
 JENKINS-39819:jenkinsci/packaging#625
 JENKINS-39832:jenkinsci/blueocean-plugin#3446
 JENKINS-39835:jenkinsci/remoting#1211
+JENKINS-39837:jenkinsci/github-branch-source-plugin#1011
+JENKINS-39838:jenkinsci/github-branch-source-plugin#1012
 JENKINS-39842:jenkinsci/blueocean-plugin#3447
 JENKINS-39843:jenkinsci/blueocean-plugin#3448
 JENKINS-39846:jenkinsci/blueocean-plugin#3449
@@ -10624,6 +10715,7 @@ JENKINS-40227:jenkinsci/blueocean-plugin#3506
 JENKINS-40228:jenkinsci/jenkins#17712
 JENKINS-40231:jenkinsci/git-plugin#3005
 JENKINS-40233:jenkinsci/git-plugin#3006
+JENKINS-40235:jenkinsci/github-branch-source-plugin#1013
 JENKINS-40237:jenkinsci/blueocean-plugin#5208
 JENKINS-40238:jenkinsci/blueocean-plugin#5209
 JENKINS-40239:jenkinsci/blueocean-plugin#5210
@@ -10699,6 +10791,7 @@ JENKINS-40437:jenkinsci/git-plugin#3012
 JENKINS-40441:jenkinsci/blueocean-plugin#3541
 JENKINS-40444:jenkinsci/git-plugin#3013
 JENKINS-40446:jenkinsci/blueocean-plugin#5213
+JENKINS-40451:jenkinsci/github-branch-source-plugin#1014
 JENKINS-40458:jenkinsci/blueocean-plugin#3542
 JENKINS-40463:jenkinsci/blueocean-plugin#3543
 JENKINS-40466:jenkinsci/blueocean-plugin#3544
@@ -10729,6 +10822,8 @@ JENKINS-40622:jenkinsci/git-plugin#3016
 JENKINS-40627:jenkinsci/blueocean-plugin#3558
 JENKINS-40638:jenkinsci/blueocean-plugin#3559
 JENKINS-40648:jenkinsci/blueocean-plugin#3560
+JENKINS-40652:jenkinsci/github-branch-source-plugin#1015
+JENKINS-40655:jenkinsci/github-branch-source-plugin#1016
 JENKINS-40660:jenkinsci/blueocean-plugin#3561
 JENKINS-40662:jenkinsci/blueocean-plugin#3562
 JENKINS-40663:jenkinsci/jenkins#17745
@@ -10745,10 +10840,12 @@ JENKINS-40680:jenkinsci/blueocean-plugin#3568
 JENKINS-40689:jenkinsci/jenkins#17749
 JENKINS-40693:jenkinsci/jenkins#17750
 JENKINS-40700:jenkinsci/remoting#1217
+JENKINS-40705:jenkinsci/github-branch-source-plugin#1017
 JENKINS-40710:jenkinsci/remoting#1218
 JENKINS-40711:jenkinsci/blueocean-plugin#3569
 JENKINS-40716:jenkinsci/jenkins#17751
 JENKINS-40718:jenkinsci/jenkins#17752
+JENKINS-40722:jenkinsci/github-branch-source-plugin#1018
 JENKINS-40724:jenkinsci/junit-plugin#1057
 JENKINS-40729:jenkinsci/jenkins#17753
 JENKINS-40730:jenkinsci/blueocean-plugin#3570
@@ -10776,6 +10873,8 @@ JENKINS-40810:jenkinsci/remoting#1220
 JENKINS-40813:jenkinsci/jenkins#17763
 JENKINS-40817:jenkinsci/jenkins#17764
 JENKINS-40818:jenkinsci/junit-plugin#1058
+JENKINS-40826:jenkinsci/github-branch-source-plugin#1019
+JENKINS-40833:jenkinsci/github-branch-source-plugin#1020
 JENKINS-40834:jenkinsci/git-plugin#3019
 JENKINS-40841:jenkinsci/blueocean-plugin#5215
 JENKINS-40845:jenkinsci/jenkins#17765
@@ -10794,6 +10893,8 @@ JENKINS-40863:jenkinsci/jenkins#17767
 JENKINS-40869:jenkinsci/junit-plugin#1059
 JENKINS-40871:jenkinsci/blueocean-plugin#3586
 JENKINS-40872:jenkinsci/jenkins#17768
+JENKINS-40875:jenkinsci/github-branch-source-plugin#1021
+JENKINS-40876:jenkinsci/github-branch-source-plugin#1022
 JENKINS-40877:jenkinsci/blueocean-plugin#3587
 JENKINS-40880:jenkinsci/blueocean-plugin#3588
 JENKINS-40881:jenkinsci/blueocean-plugin#3589
@@ -10837,6 +10938,7 @@ JENKINS-41015:jenkinsci/jenkins#17779
 JENKINS-41016:jenkinsci/blueocean-plugin#3614
 JENKINS-41017:jenkinsci/blueocean-plugin#3615
 JENKINS-41021:jenkinsci/jenkins#17780
+JENKINS-41028:jenkinsci/github-branch-source-plugin#1023
 JENKINS-41030:jenkinsci/blueocean-plugin#3616
 JENKINS-41031:jenkinsci/junit-plugin#1060
 JENKINS-41042:jenkinsci/blueocean-plugin#3617
@@ -10844,11 +10946,13 @@ JENKINS-41043:jenkinsci/blueocean-plugin#3618
 JENKINS-41044:jenkinsci/blueocean-plugin#3619
 JENKINS-41045:jenkinsci/blueocean-plugin#3620
 JENKINS-41047:jenkinsci/blueocean-plugin#3621
+JENKINS-41048:jenkinsci/github-branch-source-plugin#1024
 JENKINS-41053:jenkinsci/blueocean-plugin#3622
 JENKINS-41055:jenkinsci/blueocean-plugin#3623
 JENKINS-41057:jenkinsci/blueocean-plugin#3624
 JENKINS-41064:jenkinsci/jenkins#17781
 JENKINS-41065:jenkinsci/jenkins#17782
+JENKINS-41072:jenkinsci/github-branch-source-plugin#1025
 JENKINS-41083:jenkinsci/jenkins#17783
 JENKINS-41085:jenkinsci/jenkins#17784
 JENKINS-41087:jenkinsci/blueocean-plugin#3625
@@ -10856,6 +10960,7 @@ JENKINS-41088:jenkinsci/blueocean-plugin#3626
 JENKINS-41096:jenkinsci/blueocean-plugin#3627
 JENKINS-41100:jenkinsci/jenkins#17785
 JENKINS-41101:jenkinsci/packaging#627
+JENKINS-41112:jenkinsci/github-branch-source-plugin#1026
 JENKINS-41114:jenkinsci/blueocean-plugin#3628
 JENKINS-41127:jenkinsci/jenkins#17786
 JENKINS-41128:jenkinsci/jenkins#17787
@@ -10883,16 +10988,21 @@ JENKINS-41193:jenkinsci/blueocean-plugin#3639
 JENKINS-41196:jenkinsci/jenkins#17794
 JENKINS-41200:jenkinsci/blueocean-plugin#3640
 JENKINS-41205:jenkinsci/blueocean-plugin#3641
+JENKINS-41207:jenkinsci/github-branch-source-plugin#1027
 JENKINS-41208:jenkinsci/jenkins#17795
+JENKINS-41209:jenkinsci/github-branch-source-plugin#1028
 JENKINS-41212:jenkinsci/blueocean-plugin#3642
 JENKINS-41218:jenkinsci/packaging#628
 JENKINS-41220:jenkinsci/jenkins#17796
 JENKINS-41222:jenkinsci/jenkins#17797
 JENKINS-41230:jenkinsci/jenkins#17798
 JENKINS-41231:jenkinsci/jenkins#17799
+JENKINS-41234:jenkinsci/github-branch-source-plugin#1029
 JENKINS-41237:jenkinsci/blueocean-plugin#3643
 JENKINS-41238:jenkinsci/blueocean-plugin#3644
 JENKINS-41242:jenkinsci/blueocean-plugin#3645
+JENKINS-41244:jenkinsci/github-branch-source-plugin#1030
+JENKINS-41246:jenkinsci/github-branch-source-plugin#1031
 JENKINS-41252:jenkinsci/blueocean-plugin#3646
 JENKINS-41264:jenkinsci/jenkins#17800
 JENKINS-41280:jenkinsci/blueocean-plugin#3647
@@ -10912,6 +11022,7 @@ JENKINS-41321:jenkinsci/git-plugin#3028
 JENKINS-41322:jenkinsci/jenkins#17803
 JENKINS-41327:jenkinsci/jenkins#17804
 JENKINS-41331:jenkinsci/blueocean-plugin#3656
+JENKINS-41332:jenkinsci/github-branch-source-plugin#1032
 JENKINS-41340:jenkinsci/blueocean-plugin#3657
 JENKINS-41341:jenkinsci/blueocean-plugin#3658
 JENKINS-41343:jenkinsci/jenkins#17805
@@ -10955,10 +11066,13 @@ JENKINS-41433:jenkinsci/blueocean-plugin#3682
 JENKINS-41434:jenkinsci/blueocean-plugin#3683
 JENKINS-41439:jenkinsci/blueocean-plugin#3684
 JENKINS-41451:jenkinsci/git-plugin#3031
+JENKINS-41453:jenkinsci/github-branch-source-plugin#1033
 JENKINS-41457:jenkinsci/jenkins#17814
 JENKINS-41459:jenkinsci/blueocean-plugin#3685
 JENKINS-41460:jenkinsci/blueocean-plugin#3686
 JENKINS-41462:jenkinsci/blueocean-plugin#3687
+JENKINS-41464:jenkinsci/github-branch-source-plugin#1034
+JENKINS-41471:jenkinsci/github-branch-source-plugin#1035
 JENKINS-41472:jenkinsci/jenkins#17815
 JENKINS-41487:jenkinsci/blueocean-plugin#3688
 JENKINS-41488:jenkinsci/blueocean-plugin#3689
@@ -10975,6 +11089,7 @@ JENKINS-41509:jenkinsci/blueocean-plugin#3696
 JENKINS-41511:jenkinsci/jenkins#17817
 JENKINS-41513:jenkinsci/remoting#1221
 JENKINS-41516:jenkinsci/jenkins#17818
+JENKINS-41522:jenkinsci/github-branch-source-plugin#1036
 JENKINS-41527:jenkinsci/jenkins#17819
 JENKINS-41531:jenkinsci/jenkins#17820
 JENKINS-41533:jenkinsci/blueocean-plugin#3697
@@ -11002,6 +11117,7 @@ JENKINS-41573:jenkinsci/blueocean-plugin#3714
 JENKINS-41576:jenkinsci/blueocean-plugin#3715
 JENKINS-41577:jenkinsci/jenkins#17824
 JENKINS-41579:jenkinsci/blueocean-plugin#3716
+JENKINS-41580:jenkinsci/github-branch-source-plugin#1037
 JENKINS-41582:jenkinsci/blueocean-plugin#3717
 JENKINS-41585:jenkinsci/blueocean-plugin#3718
 JENKINS-41586:jenkinsci/blueocean-plugin#5221
@@ -11016,6 +11132,7 @@ JENKINS-41603:jenkinsci/blueocean-plugin#3723
 JENKINS-41606:jenkinsci/jenkins#17828
 JENKINS-41611:jenkinsci/blueocean-plugin#3724
 JENKINS-41613:jenkinsci/blueocean-plugin#3725
+JENKINS-41616:jenkinsci/github-branch-source-plugin#1038
 JENKINS-41617:jenkinsci/jenkins#17829
 JENKINS-41628:jenkinsci/blueocean-plugin#3726
 JENKINS-41634:jenkinsci/blueocean-plugin#3727
@@ -11032,6 +11149,7 @@ JENKINS-41651:jenkinsci/blueocean-plugin#3734
 JENKINS-41652:jenkinsci/jenkins#17833
 JENKINS-41656:jenkinsci/git-plugin#3035
 JENKINS-41659:jenkinsci/blueocean-plugin#3735
+JENKINS-41661:jenkinsci/github-branch-source-plugin#1039
 JENKINS-41662:jenkinsci/blueocean-plugin#3736
 JENKINS-41663:jenkinsci/blueocean-plugin#3737
 JENKINS-41664:jenkinsci/blueocean-plugin#3738
@@ -11066,6 +11184,7 @@ JENKINS-41739:jenkinsci/blueocean-plugin#3753
 JENKINS-41740:jenkinsci/blueocean-plugin#3754
 JENKINS-41742:jenkinsci/jenkins#17844
 JENKINS-41745:jenkinsci/jenkins#17845
+JENKINS-41750:jenkinsci/github-branch-source-plugin#1040
 JENKINS-41756:jenkinsci/jenkins#17846
 JENKINS-41757:jenkinsci/jenkins#17847
 JENKINS-41765:jenkinsci/jenkins#21852
@@ -11082,13 +11201,17 @@ JENKINS-41783:jenkinsci/blueocean-plugin#5222
 JENKINS-41784:jenkinsci/blueocean-plugin#3761
 JENKINS-41785:jenkinsci/jenkins#21856
 JENKINS-41786:jenkinsci/blueocean-plugin#3762
+JENKINS-41790:jenkinsci/github-branch-source-plugin#1041
 JENKINS-41798:jenkinsci/blueocean-plugin#3763
 JENKINS-41804:jenkinsci/jenkins#21857
 JENKINS-41805:jenkinsci/jenkins#21858
 JENKINS-41806:jenkinsci/blueocean-plugin#3764
 JENKINS-41807:jenkinsci/jenkins#21859
 JENKINS-41812:jenkinsci/git-plugin#3037
+JENKINS-41815:jenkinsci/github-branch-source-plugin#1042
+JENKINS-41820:jenkinsci/github-branch-source-plugin#1043
 JENKINS-41825:jenkinsci/jenkins#21860
+JENKINS-41826:jenkinsci/github-branch-source-plugin#1044
 JENKINS-41828:jenkinsci/jenkins#21861
 JENKINS-41829:jenkinsci/blueocean-plugin#3765
 JENKINS-41830:jenkinsci/git-plugin#3038
@@ -11115,12 +11238,15 @@ JENKINS-41892:jenkinsci/jenkins#21866
 JENKINS-41897:jenkinsci/blueocean-plugin#3776
 JENKINS-41899:jenkinsci/jenkins#21867
 JENKINS-41901:jenkinsci/junit-plugin#1064
+JENKINS-41904:jenkinsci/github-branch-source-plugin#1045
 JENKINS-41906:jenkinsci/git-plugin#3041
 JENKINS-41909:jenkinsci/jenkins#21868
 JENKINS-41912:jenkinsci/blueocean-plugin#3777
 JENKINS-41913:jenkinsci/jenkins#21869
+JENKINS-41925:jenkinsci/github-branch-source-plugin#1046
 JENKINS-41926:jenkinsci/jenkins#21870
 JENKINS-41932:jenkinsci/jenkins#21871
+JENKINS-41933:jenkinsci/github-branch-source-plugin#1047
 JENKINS-41941:jenkinsci/blueocean-plugin#3778
 JENKINS-41942:jenkinsci/blueocean-plugin#3779
 JENKINS-41949:jenkinsci/jenkins#21872
@@ -11141,17 +11267,20 @@ JENKINS-41977:jenkinsci/jenkins#21874
 JENKINS-41987:jenkinsci/jenkins#21875
 JENKINS-41991:jenkinsci/blueocean-plugin#3789
 JENKINS-41992:jenkinsci/git-plugin#3042
+JENKINS-42000:jenkinsci/github-branch-source-plugin#1048
 JENKINS-42001:jenkinsci/blueocean-plugin#3790
 JENKINS-42003:jenkinsci/blueocean-plugin#3791
 JENKINS-42004:jenkinsci/git-plugin#3043
 JENKINS-42006:jenkinsci/blueocean-plugin#3792
 JENKINS-42013:jenkinsci/jenkins#21876
+JENKINS-42032:jenkinsci/github-branch-source-plugin#1049
 JENKINS-42035:jenkinsci/blueocean-plugin#3793
 JENKINS-42038:jenkinsci/blueocean-plugin#3794
 JENKINS-42040:jenkinsci/blueocean-plugin#3795
 JENKINS-42043:jenkinsci/jenkins#21877
 JENKINS-42050:jenkinsci/git-plugin#3044
 JENKINS-42055:jenkinsci/blueocean-plugin#3796
+JENKINS-42057:jenkinsci/github-branch-source-plugin#1050
 JENKINS-42058:jenkinsci/jenkins#21878
 JENKINS-42059:jenkinsci/blueocean-plugin#3797
 JENKINS-42061:jenkinsci/blueocean-plugin#3798
@@ -11165,6 +11294,7 @@ JENKINS-42080:jenkinsci/blueocean-plugin#5226
 JENKINS-42081:jenkinsci/blueocean-plugin#3803
 JENKINS-42085:jenkinsci/jenkins#21880
 JENKINS-42086:jenkinsci/blueocean-plugin#3804
+JENKINS-42089:jenkinsci/github-branch-source-plugin#1051
 JENKINS-42096:jenkinsci/jenkins#21881
 JENKINS-42100:jenkinsci/jenkins#21882
 JENKINS-42103:jenkinsci/blueocean-plugin#3805
@@ -11192,6 +11322,7 @@ JENKINS-42137:jenkinsci/blueocean-plugin#3825
 JENKINS-42141:jenkinsci/jenkins#21884
 JENKINS-42163:jenkinsci/blueocean-plugin#3826
 JENKINS-42164:jenkinsci/jenkins#21885
+JENKINS-42172:jenkinsci/github-branch-source-plugin#1052
 JENKINS-42173:jenkinsci/blueocean-plugin#3827
 JENKINS-42176:jenkinsci/jenkins#21886
 JENKINS-42180:jenkinsci/jenkins#21887
@@ -11206,6 +11337,7 @@ JENKINS-42202:jenkinsci/jenkins#21892
 JENKINS-42204:jenkinsci/git-plugin#3045
 JENKINS-42206:jenkinsci/blueocean-plugin#3830
 JENKINS-42208:jenkinsci/jenkins#21893
+JENKINS-42213:jenkinsci/github-branch-source-plugin#1053
 JENKINS-42218:jenkinsci/blueocean-plugin#3831
 JENKINS-42225:jenkinsci/junit-plugin#1066
 JENKINS-42228:jenkinsci/jenkins#21894
@@ -11215,10 +11347,13 @@ JENKINS-42238:jenkinsci/blueocean-plugin#3832
 JENKINS-42239:jenkinsci/blueocean-plugin#5228
 JENKINS-42241:jenkinsci/blueocean-plugin#3833
 JENKINS-42242:jenkinsci/blueocean-plugin#3834
+JENKINS-42243:jenkinsci/github-branch-source-plugin#1054
 JENKINS-42248:jenkinsci/jenkins#21896
 JENKINS-42249:jenkinsci/blueocean-plugin#3835
+JENKINS-42254:jenkinsci/github-branch-source-plugin#1055
 JENKINS-42263:jenkinsci/remoting#1225
 JENKINS-42266:jenkinsci/jenkins#21897
+JENKINS-42270:jenkinsci/github-branch-source-plugin#1056
 JENKINS-42273:jenkinsci/blueocean-plugin#3836
 JENKINS-42274:jenkinsci/blueocean-plugin#3837
 JENKINS-42282:jenkinsci/blueocean-plugin#3838
@@ -11252,15 +11387,18 @@ JENKINS-42376:jenkinsci/jenkins#21900
 JENKINS-42384:jenkinsci/jenkins#21901
 JENKINS-42385:jenkinsci/blueocean-plugin#3857
 JENKINS-42386:jenkinsci/jenkins#21902
+JENKINS-42387:jenkinsci/github-branch-source-plugin#1057
 JENKINS-42390:jenkinsci/jenkins#21903
 JENKINS-42395:jenkinsci/blueocean-plugin#3858
 JENKINS-42396:jenkinsci/jenkins#21904
+JENKINS-42400:jenkinsci/github-branch-source-plugin#1058
 JENKINS-42408:jenkinsci/blueocean-plugin#5230
 JENKINS-42413:jenkinsci/jenkins#21905
 JENKINS-42417:jenkinsci/blueocean-plugin#3859
 JENKINS-42418:jenkinsci/blueocean-plugin#3860
 JENKINS-42419:jenkinsci/blueocean-plugin#3861
 JENKINS-42425:jenkinsci/blueocean-plugin#3862
+JENKINS-42427:jenkinsci/github-branch-source-plugin#1059
 JENKINS-42430:jenkinsci/blueocean-plugin#3863
 JENKINS-42434:jenkinsci/blueocean-plugin#3864
 JENKINS-42436:jenkinsci/jenkins#21906
@@ -11281,11 +11419,13 @@ JENKINS-42490:jenkinsci/blueocean-plugin#3872
 JENKINS-42501:jenkinsci/blueocean-plugin#3873
 JENKINS-42502:jenkinsci/blueocean-plugin#3874
 JENKINS-42503:jenkinsci/jenkins#21910
+JENKINS-42504:jenkinsci/github-branch-source-plugin#1060
 JENKINS-42507:jenkinsci/blueocean-plugin#3875
 JENKINS-42513:jenkinsci/jenkins#21911
 JENKINS-42514:jenkinsci/jenkins#21912
 JENKINS-42515:jenkinsci/blueocean-plugin#3876
 JENKINS-42518:jenkinsci/blueocean-plugin#3877
+JENKINS-42519:jenkinsci/github-branch-source-plugin#1061
 JENKINS-42520:jenkinsci/blueocean-plugin#3878
 JENKINS-42523:jenkinsci/blueocean-plugin#3879
 JENKINS-42524:jenkinsci/jenkins#21913
@@ -11306,6 +11446,7 @@ JENKINS-42576:jenkinsci/jenkins#21918
 JENKINS-42577:jenkinsci/jenkins#21919
 JENKINS-42585:jenkinsci/jenkins#21920
 JENKINS-42586:jenkinsci/jenkins#21921
+JENKINS-42588:jenkinsci/github-branch-source-plugin#1062
 JENKINS-42590:jenkinsci/jenkins#21922
 JENKINS-42594:jenkinsci/blueocean-plugin#3887
 JENKINS-42597:jenkinsci/git-plugin#3053
@@ -11371,6 +11512,7 @@ JENKINS-42809:jenkinsci/blueocean-plugin#3912
 JENKINS-42816:jenkinsci/jenkins#21944
 JENKINS-42817:jenkinsci/git-plugin#3062
 JENKINS-42821:jenkinsci/blueocean-plugin#3913
+JENKINS-42822:jenkinsci/github-branch-source-plugin#1063
 JENKINS-42828:jenkinsci/blueocean-plugin#3914
 JENKINS-42834:jenkinsci/jenkins#21945
 JENKINS-42841:jenkinsci/jenkins#21946
@@ -11383,6 +11525,7 @@ JENKINS-42852:jenkinsci/jenkins#21951
 JENKINS-42854:jenkinsci/jenkins#21952
 JENKINS-42860:jenkinsci/git-plugin#3063
 JENKINS-42861:jenkinsci/jenkins#21953
+JENKINS-42864:jenkinsci/github-branch-source-plugin#1064
 JENKINS-42865:jenkinsci/blueocean-plugin#3915
 JENKINS-42866:jenkinsci/blueocean-plugin#3916
 JENKINS-42867:jenkinsci/blueocean-plugin#3917
@@ -11429,6 +11572,7 @@ JENKINS-42984:jenkinsci/blueocean-plugin#3940
 JENKINS-42986:jenkinsci/blueocean-plugin#3941
 JENKINS-42987:jenkinsci/blueocean-plugin#3942
 JENKINS-42990:jenkinsci/blueocean-plugin#3943
+JENKINS-42992:jenkinsci/github-branch-source-plugin#1065
 JENKINS-42993:jenkinsci/blueocean-plugin#3944
 JENKINS-42994:jenkinsci/blueocean-plugin#3945
 JENKINS-42995:jenkinsci/blueocean-plugin#3946
@@ -11453,6 +11597,7 @@ JENKINS-43052:jenkinsci/git-plugin#3068
 JENKINS-43067:jenkinsci/jenkins#21968
 JENKINS-43076:jenkinsci/jenkins#21969
 JENKINS-43079:jenkinsci/blueocean-plugin#3955
+JENKINS-43080:jenkinsci/github-branch-source-plugin#1066
 JENKINS-43082:jenkinsci/blueocean-plugin#3956
 JENKINS-43083:jenkinsci/blueocean-plugin#3957
 JENKINS-43096:jenkinsci/blueocean-plugin#3958
@@ -11470,10 +11615,12 @@ JENKINS-43122:jenkinsci/jenkins#21973
 JENKINS-43125:jenkinsci/blueocean-plugin#3964
 JENKINS-43128:jenkinsci/jenkins#21974
 JENKINS-43131:jenkinsci/jenkins#21975
+JENKINS-43132:jenkinsci/github-branch-source-plugin#1067
 JENKINS-43133:jenkinsci/blueocean-plugin#3965
 JENKINS-43134:jenkinsci/blueocean-plugin#3966
 JENKINS-43135:jenkinsci/blueocean-plugin#3967
 JENKINS-43136:jenkinsci/blueocean-plugin#5243
+JENKINS-43138:jenkinsci/github-branch-source-plugin#1068
 JENKINS-43142:jenkinsci/remoting#1230
 JENKINS-43144:jenkinsci/jenkins#21976
 JENKINS-43145:jenkinsci/jenkins#21977
@@ -11523,11 +11670,13 @@ JENKINS-43278:jenkinsci/blueocean-plugin#3999
 JENKINS-43279:jenkinsci/jenkins#21985
 JENKINS-43284:jenkinsci/packaging#630
 JENKINS-43286:jenkinsci/jenkins#21986
+JENKINS-43290:jenkinsci/github-branch-source-plugin#1069
 JENKINS-43291:jenkinsci/blueocean-plugin#4000
 JENKINS-43292:jenkinsci/blueocean-plugin#4001
 JENKINS-43295:jenkinsci/blueocean-plugin#4002
 JENKINS-43308:jenkinsci/git-plugin#3071
 JENKINS-43312:jenkinsci/blueocean-plugin#4003
+JENKINS-43313:jenkinsci/github-branch-source-plugin#1070
 JENKINS-43315:jenkinsci/blueocean-plugin#4004
 JENKINS-43316:jenkinsci/blueocean-plugin#4005
 JENKINS-43317:jenkinsci/blueocean-plugin#4006
@@ -11562,6 +11711,7 @@ JENKINS-43407:jenkinsci/jenkins#21997
 JENKINS-43408:jenkinsci/blueocean-plugin#5245
 JENKINS-43411:jenkinsci/blueocean-plugin#4020
 JENKINS-43414:jenkinsci/git-plugin#3073
+JENKINS-43418:jenkinsci/github-branch-source-plugin#1071
 JENKINS-43419:jenkinsci/blueocean-plugin#4021
 JENKINS-43421:jenkinsci/blueocean-plugin#4022
 JENKINS-43423:jenkinsci/git-plugin#3074
@@ -11570,6 +11720,7 @@ JENKINS-43426:jenkinsci/git-plugin#3075
 JENKINS-43427:jenkinsci/git-plugin#3076
 JENKINS-43428:jenkinsci/jenkins#21999
 JENKINS-43431:jenkinsci/jenkins#22000
+JENKINS-43433:jenkinsci/github-branch-source-plugin#1072
 JENKINS-43435:jenkinsci/blueocean-plugin#4023
 JENKINS-43442:jenkinsci/blueocean-plugin#4024
 JENKINS-43444:jenkinsci/jenkins#22001
@@ -11582,6 +11733,7 @@ JENKINS-43471:jenkinsci/blueocean-plugin#4027
 JENKINS-43472:jenkinsci/jenkins#22004
 JENKINS-43473:jenkinsci/junit-plugin#1072
 JENKINS-43485:jenkinsci/git-plugin#3078
+JENKINS-43487:jenkinsci/github-branch-source-plugin#1073
 JENKINS-43492:jenkinsci/jenkins#22005
 JENKINS-43494:jenkinsci/jenkins#22006
 JENKINS-43495:jenkinsci/packaging#631
@@ -11604,6 +11756,7 @@ JENKINS-43549:jenkinsci/blueocean-plugin#5247
 JENKINS-43550:jenkinsci/jenkins#22015
 JENKINS-43553:jenkinsci/jenkins#22016
 JENKINS-43559:jenkinsci/jenkins#22017
+JENKINS-43561:jenkinsci/github-branch-source-plugin#1074
 JENKINS-43563:jenkinsci/git-plugin#3079
 JENKINS-43565:jenkinsci/git-plugin#3080
 JENKINS-43570:jenkinsci/blueocean-plugin#4032
@@ -11614,6 +11767,7 @@ JENKINS-43581:jenkinsci/jenkins#22020
 JENKINS-43584:jenkinsci/jenkins#22021
 JENKINS-43588:jenkinsci/blueocean-plugin#4034
 JENKINS-43589:jenkinsci/jenkins#22022
+JENKINS-43597:jenkinsci/github-branch-source-plugin#1075
 JENKINS-43600:jenkinsci/blueocean-plugin#4035
 JENKINS-43601:jenkinsci/junit-plugin#1074
 JENKINS-43606:jenkinsci/jenkins#22023
@@ -11628,6 +11782,7 @@ JENKINS-43630:jenkinsci/git-plugin#3081
 JENKINS-43640:jenkinsci/blueocean-plugin#4036
 JENKINS-43645:jenkinsci/blueocean-plugin#4037
 JENKINS-43653:jenkinsci/jenkins#22029
+JENKINS-43655:jenkinsci/github-branch-source-plugin#1076
 JENKINS-43659:jenkinsci/blueocean-plugin#4038
 JENKINS-43666:jenkinsci/jenkins#22030
 JENKINS-43670:jenkinsci/jenkins#22031
@@ -11655,6 +11810,7 @@ JENKINS-43747:jenkinsci/blueocean-plugin#4050
 JENKINS-43748:jenkinsci/blueocean-plugin#4051
 JENKINS-43751:jenkinsci/blueocean-plugin#4052
 JENKINS-43754:jenkinsci/git-plugin#3084
+JENKINS-43755:jenkinsci/github-branch-source-plugin#1077
 JENKINS-43760:jenkinsci/jenkins#22038
 JENKINS-43761:jenkinsci/git-plugin#3085
 JENKINS-43762:jenkinsci/blueocean-plugin#4053
@@ -11666,6 +11822,7 @@ JENKINS-43780:jenkinsci/jenkins#22040
 JENKINS-43781:jenkinsci/jenkins#22041
 JENKINS-43786:jenkinsci/jenkins#22042
 JENKINS-43792:jenkinsci/blueocean-plugin#4055
+JENKINS-43806:jenkinsci/github-branch-source-plugin#1078
 JENKINS-43808:jenkinsci/blueocean-plugin#4056
 JENKINS-43817:jenkinsci/git-plugin#3087
 JENKINS-43818:jenkinsci/git-plugin#3088
@@ -11729,6 +11886,7 @@ JENKINS-43953:jenkinsci/blueocean-plugin#4089
 JENKINS-43954:jenkinsci/blueocean-plugin#4090
 JENKINS-43955:jenkinsci/blueocean-plugin#4091
 JENKINS-43956:jenkinsci/blueocean-plugin#4092
+JENKINS-43958:jenkinsci/github-branch-source-plugin#1079
 JENKINS-43968:jenkinsci/blueocean-plugin#4093
 JENKINS-43970:jenkinsci/blueocean-plugin#4094
 JENKINS-43975:jenkinsci/blueocean-plugin#4095
@@ -11738,6 +11896,7 @@ JENKINS-43979:jenkinsci/jenkins#22058
 JENKINS-43985:jenkinsci/remoting#1235
 JENKINS-43988:jenkinsci/blueocean-plugin#4098
 JENKINS-43989:jenkinsci/jenkins#22059
+JENKINS-43996:jenkinsci/github-branch-source-plugin#1080
 JENKINS-43998:jenkinsci/jenkins#22060
 JENKINS-44001:jenkinsci/remoting#1236
 JENKINS-44010:jenkinsci/jenkins#22061
@@ -11785,6 +11944,7 @@ JENKINS-44148:jenkinsci/jenkins#22078
 JENKINS-44162:jenkinsci/blueocean-plugin#4110
 JENKINS-44167:jenkinsci/blueocean-plugin#4111
 JENKINS-44168:jenkinsci/jenkins#22079
+JENKINS-44170:jenkinsci/github-branch-source-plugin#1081
 JENKINS-44176:jenkinsci/blueocean-plugin#4112
 JENKINS-44178:jenkinsci/blueocean-plugin#4113
 JENKINS-44182:jenkinsci/blueocean-plugin#4114
@@ -11816,6 +11976,7 @@ JENKINS-44282:jenkinsci/jenkins#22086
 JENKINS-44284:jenkinsci/jenkins#22087
 JENKINS-44287:jenkinsci/jenkins#22088
 JENKINS-44290:jenkinsci/remoting#1242
+JENKINS-44295:jenkinsci/github-branch-source-plugin#1082
 JENKINS-44296:jenkinsci/git-plugin#3104
 JENKINS-44303:jenkinsci/blueocean-plugin#4130
 JENKINS-44304:jenkinsci/jenkins#22089
@@ -11830,6 +11991,7 @@ JENKINS-44342:jenkinsci/blueocean-plugin#4134
 JENKINS-44343:jenkinsci/git-plugin#3106
 JENKINS-44350:jenkinsci/blueocean-plugin#4135
 JENKINS-44353:jenkinsci/blueocean-plugin#4136
+JENKINS-44360:jenkinsci/github-branch-source-plugin#1083
 JENKINS-44361:jenkinsci/jenkins#22092
 JENKINS-44368:jenkinsci/jenkins#22093
 JENKINS-44375:jenkinsci/blueocean-plugin#5251
@@ -11881,6 +12043,7 @@ JENKINS-44552:jenkinsci/git-plugin#3110
 JENKINS-44554:jenkinsci/blueocean-plugin#4156
 JENKINS-44556:jenkinsci/packaging#638
 JENKINS-44559:jenkinsci/jenkins#22111
+JENKINS-44562:jenkinsci/github-branch-source-plugin#1084
 JENKINS-44563:jenkinsci/jenkins#22112
 JENKINS-44564:jenkinsci/jenkins#22113
 JENKINS-44571:jenkinsci/blueocean-plugin#4157
@@ -11892,8 +12055,10 @@ JENKINS-44589:jenkinsci/jenkins#22114
 JENKINS-44592:jenkinsci/blueocean-plugin#4162
 JENKINS-44593:jenkinsci/blueocean-plugin#4163
 JENKINS-44595:jenkinsci/blueocean-plugin#4164
+JENKINS-44598:jenkinsci/github-branch-source-plugin#1085
 JENKINS-44602:jenkinsci/jenkins#22115
 JENKINS-44608:jenkinsci/jenkins#22116
+JENKINS-44611:jenkinsci/github-branch-source-plugin#1086
 JENKINS-44614:jenkinsci/blueocean-plugin#4165
 JENKINS-44622:jenkinsci/blueocean-plugin#4166
 JENKINS-44623:jenkinsci/remoting#1245
@@ -11929,6 +12094,7 @@ JENKINS-44699:jenkinsci/blueocean-plugin#4183
 JENKINS-44700:jenkinsci/junit-plugin#1077
 JENKINS-44701:jenkinsci/blueocean-plugin#4184
 JENKINS-44713:jenkinsci/blueocean-plugin#4185
+JENKINS-44715:jenkinsci/github-branch-source-plugin#1087
 JENKINS-44716:jenkinsci/blueocean-plugin#4186
 JENKINS-44717:jenkinsci/jenkins#22124
 JENKINS-44718:jenkinsci/blueocean-plugin#4187
@@ -11955,6 +12121,7 @@ JENKINS-44776:jenkinsci/blueocean-plugin#4198
 JENKINS-44777:jenkinsci/jenkins#22127
 JENKINS-44778:jenkinsci/jenkins#22128
 JENKINS-44785:jenkinsci/remoting#1246
+JENKINS-44788:jenkinsci/github-branch-source-plugin#1088
 JENKINS-44802:jenkinsci/git-plugin#3120
 JENKINS-44812:jenkinsci/blueocean-plugin#4199
 JENKINS-44815:jenkinsci/jenkins#22129
@@ -11967,6 +12134,7 @@ JENKINS-44826:jenkinsci/git-plugin#3122
 JENKINS-44829:jenkinsci/blueocean-plugin#4202
 JENKINS-44831:jenkinsci/blueocean-plugin#4203
 JENKINS-44838:jenkinsci/git-plugin#3123
+JENKINS-44849:jenkinsci/github-branch-source-plugin#1089
 JENKINS-44851:jenkinsci/jenkins#22132
 JENKINS-44853:jenkinsci/git-plugin#3124
 JENKINS-44863:jenkinsci/blueocean-plugin#4204
@@ -11999,6 +12167,8 @@ JENKINS-44934:jenkinsci/blueocean-plugin#4221
 JENKINS-44935:jenkinsci/blueocean-plugin#4222
 JENKINS-44942:jenkinsci/jenkins#22141
 JENKINS-44947:jenkinsci/jenkins#22142
+JENKINS-44948:jenkinsci/github-branch-source-plugin#1090
+JENKINS-44954:jenkinsci/github-branch-source-plugin#1091
 JENKINS-44959:jenkinsci/blueocean-plugin#4223
 JENKINS-44960:jenkinsci/blueocean-plugin#4224
 JENKINS-44961:jenkinsci/blueocean-plugin#4225
@@ -12015,6 +12185,7 @@ JENKINS-44986:jenkinsci/junit-plugin#1078
 JENKINS-44989:jenkinsci/jenkins#22145
 JENKINS-44995:jenkinsci/blueocean-plugin#4232
 JENKINS-45007:jenkinsci/git-plugin#3125
+JENKINS-45008:jenkinsci/github-branch-source-plugin#1092
 JENKINS-45011:jenkinsci/blueocean-plugin#4233
 JENKINS-45014:jenkinsci/blueocean-plugin#4234
 JENKINS-45015:jenkinsci/blueocean-plugin#4235
@@ -12078,6 +12249,7 @@ JENKINS-45233:jenkinsci/remoting#1253
 JENKINS-45235:jenkinsci/jenkins#22158
 JENKINS-45238:jenkinsci/blueocean-plugin#4265
 JENKINS-45240:jenkinsci/blueocean-plugin#4266
+JENKINS-45242:jenkinsci/github-branch-source-plugin#1093
 JENKINS-45243:jenkinsci/git-plugin#3133
 JENKINS-45244:jenkinsci/jenkins#22159
 JENKINS-45246:jenkinsci/git-plugin#3134
@@ -12089,9 +12261,11 @@ JENKINS-45262:jenkinsci/blueocean-plugin#4269
 JENKINS-45267:jenkinsci/blueocean-plugin#4270
 JENKINS-45269:jenkinsci/blueocean-plugin#4271
 JENKINS-45272:jenkinsci/remoting#1254
+JENKINS-45274:jenkinsci/github-branch-source-plugin#1094
 JENKINS-45275:jenkinsci/jenkins#22161
 JENKINS-45280:jenkinsci/git-plugin#3135
 JENKINS-45283:jenkinsci/blueocean-plugin#4272
+JENKINS-45285:jenkinsci/github-branch-source-plugin#1095
 JENKINS-45287:jenkinsci/packaging#642
 JENKINS-45290:jenkinsci/remoting#1255
 JENKINS-45292:jenkinsci/blueocean-plugin#4273
@@ -12103,12 +12277,16 @@ JENKINS-45316:jenkinsci/git-plugin#3136
 JENKINS-45318:jenkinsci/jenkins#22163
 JENKINS-45319:jenkinsci/jenkins#22164
 JENKINS-45320:jenkinsci/jenkins#22165
+JENKINS-45323:jenkinsci/github-branch-source-plugin#1096
 JENKINS-45328:jenkinsci/blueocean-plugin#4276
 JENKINS-45332:jenkinsci/jenkins#22166
 JENKINS-45333:jenkinsci/blueocean-plugin#4277
 JENKINS-45334:jenkinsci/blueocean-plugin#4278
+JENKINS-45343:jenkinsci/github-branch-source-plugin#1097
+JENKINS-45344:jenkinsci/github-branch-source-plugin#1098
 JENKINS-45349:jenkinsci/remoting#1257
 JENKINS-45352:jenkinsci/git-plugin#3137
+JENKINS-45359:jenkinsci/github-branch-source-plugin#1099
 JENKINS-45360:jenkinsci/blueocean-plugin#4279
 JENKINS-45364:jenkinsci/blueocean-plugin#4280
 JENKINS-45365:jenkinsci/blueocean-plugin#4281
@@ -12129,6 +12307,7 @@ JENKINS-45394:jenkinsci/blueocean-plugin#4291
 JENKINS-45408:jenkinsci/blueocean-plugin#4292
 JENKINS-45416:jenkinsci/blueocean-plugin#4293
 JENKINS-45418:jenkinsci/git-plugin#3140
+JENKINS-45435:jenkinsci/github-branch-source-plugin#1100
 JENKINS-45438:jenkinsci/jenkins#22169
 JENKINS-45442:jenkinsci/blueocean-plugin#4294
 JENKINS-45447:jenkinsci/git-plugin#3141
@@ -12136,6 +12315,7 @@ JENKINS-45458:jenkinsci/blueocean-plugin#4295
 JENKINS-45459:jenkinsci/jenkins#22170
 JENKINS-45462:jenkinsci/blueocean-plugin#4296
 JENKINS-45463:jenkinsci/jenkins#22171
+JENKINS-45467:jenkinsci/github-branch-source-plugin#1101
 JENKINS-45470:jenkinsci/blueocean-plugin#4297
 JENKINS-45472:jenkinsci/git-plugin#3142
 JENKINS-45474:jenkinsci/blueocean-plugin#4298
@@ -12164,6 +12344,7 @@ JENKINS-45535:jenkinsci/blueocean-plugin#4308
 JENKINS-45538:jenkinsci/jenkins#22179
 JENKINS-45544:jenkinsci/jenkins#22180
 JENKINS-45545:jenkinsci/jenkins#22181
+JENKINS-45551:jenkinsci/github-branch-source-plugin#1102
 JENKINS-45553:jenkinsci/jenkins#22182
 JENKINS-45554:jenkinsci/blueocean-plugin#4309
 JENKINS-45558:jenkinsci/blueocean-plugin#4310
@@ -12175,6 +12356,7 @@ JENKINS-45568:jenkinsci/jenkins#22183
 JENKINS-45570:jenkinsci/git-plugin#3146
 JENKINS-45571:jenkinsci/jenkins#22184
 JENKINS-45573:jenkinsci/jenkins#22185
+JENKINS-45574:jenkinsci/github-branch-source-plugin#1103
 JENKINS-45579:jenkinsci/blueocean-plugin#4315
 JENKINS-45581:jenkinsci/git-plugin#3147
 JENKINS-45586:jenkinsci/git-plugin#3148
@@ -12190,6 +12372,7 @@ JENKINS-45614:jenkinsci/blueocean-plugin#4320
 JENKINS-45615:jenkinsci/blueocean-plugin#4321
 JENKINS-45622:jenkinsci/jenkins#22189
 JENKINS-45625:jenkinsci/jenkins#22190
+JENKINS-45626:jenkinsci/github-branch-source-plugin#1104
 JENKINS-45627:jenkinsci/git-plugin#3150
 JENKINS-45628:jenkinsci/jenkins#22191
 JENKINS-45630:jenkinsci/git-plugin#3151
@@ -12200,6 +12383,7 @@ JENKINS-45661:jenkinsci/jenkins#22194
 JENKINS-45662:jenkinsci/blueocean-plugin#4323
 JENKINS-45663:jenkinsci/git-plugin#3152
 JENKINS-45664:jenkinsci/blueocean-plugin#4324
+JENKINS-45666:jenkinsci/github-branch-source-plugin#1105
 JENKINS-45671:jenkinsci/blueocean-plugin#4325
 JENKINS-45673:jenkinsci/blueocean-plugin#4326
 JENKINS-45679:jenkinsci/jenkins#22195
@@ -12213,10 +12397,14 @@ JENKINS-45698:jenkinsci/blueocean-plugin#5260
 JENKINS-45703:jenkinsci/blueocean-plugin#4327
 JENKINS-45705:jenkinsci/git-plugin#3154
 JENKINS-45706:jenkinsci/blueocean-plugin#4328
+JENKINS-45707:jenkinsci/github-branch-source-plugin#1106
 JENKINS-45717:jenkinsci/git-plugin#3155
 JENKINS-45719:jenkinsci/blueocean-plugin#4329
+JENKINS-45722:jenkinsci/github-branch-source-plugin#1107
 JENKINS-45728:jenkinsci/blueocean-plugin#5261
 JENKINS-45729:jenkinsci/git-plugin#3156
+JENKINS-45730:jenkinsci/github-branch-source-plugin#1108
+JENKINS-45731:jenkinsci/github-branch-source-plugin#1109
 JENKINS-45735:jenkinsci/git-plugin#3157
 JENKINS-45737:jenkinsci/jenkins#22198
 JENKINS-45743:jenkinsci/blueocean-plugin#4330
@@ -12231,6 +12419,7 @@ JENKINS-45761:jenkinsci/blueocean-plugin#4333
 JENKINS-45763:jenkinsci/jenkins#22202
 JENKINS-45765:jenkinsci/git-plugin#3159
 JENKINS-45766:jenkinsci/blueocean-plugin#4334
+JENKINS-45767:jenkinsci/github-branch-source-plugin#1110
 JENKINS-45771:jenkinsci/git-plugin#3160
 JENKINS-45781:jenkinsci/jenkins#22203
 JENKINS-45783:jenkinsci/jenkins#22204
@@ -12241,6 +12430,7 @@ JENKINS-45804:jenkinsci/blueocean-plugin#4335
 JENKINS-45811:jenkinsci/jenkins#22206
 JENKINS-45815:jenkinsci/git-plugin#3161
 JENKINS-45817:jenkinsci/blueocean-plugin#4336
+JENKINS-45830:jenkinsci/github-branch-source-plugin#1111
 JENKINS-45837:jenkinsci/jenkins#22207
 JENKINS-45841:jenkinsci/jenkins#22208
 JENKINS-45842:jenkinsci/jenkins#22209
@@ -12249,9 +12439,11 @@ JENKINS-45847:jenkinsci/blueocean-plugin#4337
 JENKINS-45849:jenkinsci/blueocean-plugin#4338
 JENKINS-45850:jenkinsci/blueocean-plugin#4339
 JENKINS-45859:jenkinsci/git-plugin#3163
+JENKINS-45860:jenkinsci/github-branch-source-plugin#1112
 JENKINS-45864:jenkinsci/jenkins#22210
 JENKINS-45869:jenkinsci/blueocean-plugin#4340
 JENKINS-45871:jenkinsci/junit-plugin#1082
+JENKINS-45874:jenkinsci/github-branch-source-plugin#1113
 JENKINS-45881:jenkinsci/jenkins#22211
 JENKINS-45883:jenkinsci/junit-plugin#1083
 JENKINS-45890:jenkinsci/jenkins#22212
@@ -12280,8 +12472,10 @@ JENKINS-45940:jenkinsci/junit-plugin#1085
 JENKINS-45944:jenkinsci/blueocean-plugin#4346
 JENKINS-45947:jenkinsci/blueocean-plugin#4347
 JENKINS-45952:jenkinsci/jenkins#22224
+JENKINS-45953:jenkinsci/github-branch-source-plugin#1114
 JENKINS-45959:jenkinsci/jenkins#22225
 JENKINS-45962:jenkinsci/git-plugin#3166
+JENKINS-45966:jenkinsci/github-branch-source-plugin#1115
 JENKINS-45969:jenkinsci/jenkins#22226
 JENKINS-45971:jenkinsci/jenkins#22227
 JENKINS-45977:jenkinsci/jenkins#22228
@@ -12300,20 +12494,25 @@ JENKINS-46020:jenkinsci/packaging#643
 JENKINS-46025:jenkinsci/blueocean-plugin#4353
 JENKINS-46034:jenkinsci/jenkins#22232
 JENKINS-46041:jenkinsci/jenkins#22233
+JENKINS-46047:jenkinsci/github-branch-source-plugin#1116
 JENKINS-46050:jenkinsci/git-plugin#3170
 JENKINS-46052:jenkinsci/git-plugin#3171
 JENKINS-46058:jenkinsci/blueocean-plugin#4354
 JENKINS-46059:jenkinsci/jenkins#22234
 JENKINS-46067:jenkinsci/jenkins#22235
+JENKINS-46068:jenkinsci/github-branch-source-plugin#1117
 JENKINS-46069:jenkinsci/blueocean-plugin#5263
 JENKINS-46070:jenkinsci/blueocean-plugin#4355
 JENKINS-46078:jenkinsci/blueocean-plugin#4356
+JENKINS-46079:jenkinsci/github-branch-source-plugin#1118
 JENKINS-46081:jenkinsci/git-plugin#3172
 JENKINS-46082:jenkinsci/jenkins#22236
+JENKINS-46086:jenkinsci/github-branch-source-plugin#1119
 JENKINS-46092:jenkinsci/jenkins#22237
 JENKINS-46104:jenkinsci/blueocean-plugin#5264
 JENKINS-46111:jenkinsci/blueocean-plugin#4357
 JENKINS-46112:jenkinsci/blueocean-plugin#4358
+JENKINS-46119:jenkinsci/github-branch-source-plugin#1120
 JENKINS-46123:jenkinsci/jenkins#22238
 JENKINS-46125:jenkinsci/blueocean-plugin#4359
 JENKINS-46126:jenkinsci/blueocean-plugin#4360
@@ -12334,6 +12533,7 @@ JENKINS-46187:jenkinsci/blueocean-plugin#4366
 JENKINS-46193:jenkinsci/blueocean-plugin#4367
 JENKINS-46196:jenkinsci/git-plugin#3173
 JENKINS-46202:jenkinsci/git-plugin#3174
+JENKINS-46203:jenkinsci/github-branch-source-plugin#1121
 JENKINS-46205:jenkinsci/jenkins#22245
 JENKINS-46207:jenkinsci/git-plugin#3175
 JENKINS-46208:jenkinsci/git-plugin#3176
@@ -12359,6 +12559,7 @@ JENKINS-46279:jenkinsci/git-plugin#3178
 JENKINS-46282:jenkinsci/jenkins#22251
 JENKINS-46287:jenkinsci/blueocean-plugin#4379
 JENKINS-46288:jenkinsci/jenkins#22252
+JENKINS-46295:jenkinsci/github-branch-source-plugin#1122
 JENKINS-46298:jenkinsci/jenkins#22253
 JENKINS-46302:jenkinsci/remoting#1265
 JENKINS-46303:jenkinsci/blueocean-plugin#4380
@@ -12369,12 +12570,15 @@ JENKINS-46310:jenkinsci/blueocean-plugin#4383
 JENKINS-46316:jenkinsci/blueocean-plugin#4384
 JENKINS-46324:jenkinsci/blueocean-plugin#4385
 JENKINS-46330:jenkinsci/jenkins#22254
+JENKINS-46331:jenkinsci/github-branch-source-plugin#1123
 JENKINS-46335:jenkinsci/blueocean-plugin#4386
 JENKINS-46339:jenkinsci/blueocean-plugin#4387
 JENKINS-46345:jenkinsci/blueocean-plugin#4388
 JENKINS-46347:jenkinsci/blueocean-plugin#4389
 JENKINS-46348:jenkinsci/blueocean-plugin#4390
+JENKINS-46364:jenkinsci/github-branch-source-plugin#1124
 JENKINS-46365:jenkinsci/blueocean-plugin#4391
+JENKINS-46366:jenkinsci/github-branch-source-plugin#1125
 JENKINS-46372:jenkinsci/blueocean-plugin#4392
 JENKINS-46373:jenkinsci/jenkins#22255
 JENKINS-46374:jenkinsci/blueocean-plugin#4393
@@ -12400,6 +12604,7 @@ JENKINS-46440:jenkinsci/blueocean-plugin#4398
 JENKINS-46441:jenkinsci/blueocean-plugin#4399
 JENKINS-46442:jenkinsci/blueocean-plugin#4400
 JENKINS-46443:jenkinsci/blueocean-plugin#5273
+JENKINS-46449:jenkinsci/github-branch-source-plugin#1126
 JENKINS-46452:jenkinsci/blueocean-plugin#4401
 JENKINS-46458:jenkinsci/blueocean-plugin#5274
 JENKINS-46462:jenkinsci/blueocean-plugin#5275
@@ -12416,6 +12621,7 @@ JENKINS-46515:jenkinsci/remoting#1267
 JENKINS-46518:jenkinsci/jenkins#22264
 JENKINS-46521:jenkinsci/blueocean-plugin#4405
 JENKINS-46523:jenkinsci/jenkins#22265
+JENKINS-46524:jenkinsci/github-branch-source-plugin#1127
 JENKINS-46530:jenkinsci/junit-plugin#1086
 JENKINS-46531:jenkinsci/jenkins#22266
 JENKINS-46532:jenkinsci/blueocean-plugin#4406
@@ -12447,6 +12653,7 @@ JENKINS-46637:jenkinsci/jenkins#22281
 JENKINS-46638:jenkinsci/jenkins#22282
 JENKINS-46639:jenkinsci/blueocean-plugin#4412
 JENKINS-46640:jenkinsci/jenkins#22283
+JENKINS-46644:jenkinsci/github-branch-source-plugin#1128
 JENKINS-46650:jenkinsci/git-plugin#3187
 JENKINS-46652:jenkinsci/jenkins#22284
 JENKINS-46653:jenkinsci/jenkins#22285
@@ -12485,6 +12692,7 @@ JENKINS-46750:jenkinsci/jenkins#22298
 JENKINS-46754:jenkinsci/jenkins#22299
 JENKINS-46759:jenkinsci/jenkins#22300
 JENKINS-46760:jenkinsci/remoting#1272
+JENKINS-46763:jenkinsci/github-branch-source-plugin#1129
 JENKINS-46771:jenkinsci/jenkins#22301
 JENKINS-46772:jenkinsci/jenkins#22302
 JENKINS-46775:jenkinsci/jenkins#22303
@@ -12497,6 +12705,8 @@ JENKINS-46793:jenkinsci/blueocean-plugin#5278
 JENKINS-46797:jenkinsci/jenkins#22306
 JENKINS-46799:jenkinsci/blueocean-plugin#4429
 JENKINS-46801:jenkinsci/blueocean-plugin#4430
+JENKINS-46802:jenkinsci/github-branch-source-plugin#1130
+JENKINS-46803:jenkinsci/github-branch-source-plugin#1131
 JENKINS-46806:jenkinsci/blueocean-plugin#4431
 JENKINS-46812:jenkinsci/blueocean-plugin#4432
 JENKINS-46813:jenkinsci/blueocean-plugin#4433
@@ -12509,6 +12719,7 @@ JENKINS-46840:jenkinsci/blueocean-plugin#4435
 JENKINS-46848:jenkinsci/jenkins#22310
 JENKINS-46861:jenkinsci/jenkins#22311
 JENKINS-46862:jenkinsci/blueocean-plugin#5279
+JENKINS-46863:jenkinsci/github-branch-source-plugin#1132
 JENKINS-46864:jenkinsci/remoting#1274
 JENKINS-46866:jenkinsci/blueocean-plugin#4436
 JENKINS-46867:jenkinsci/blueocean-plugin#4437
@@ -12542,6 +12753,7 @@ JENKINS-46954:jenkinsci/git-plugin#3195
 JENKINS-46956:jenkinsci/jenkins#22319
 JENKINS-46959:jenkinsci/blueocean-plugin#4447
 JENKINS-46964:jenkinsci/jenkins#22320
+JENKINS-46967:jenkinsci/github-branch-source-plugin#1133
 JENKINS-46968:jenkinsci/jenkins#22321
 JENKINS-46970:jenkinsci/jenkins#22322
 JENKINS-46972:jenkinsci/blueocean-plugin#5283
@@ -12554,6 +12766,7 @@ JENKINS-46989:jenkinsci/jenkins#22326
 JENKINS-46990:jenkinsci/jenkins#22327
 JENKINS-46996:jenkinsci/blueocean-plugin#4450
 JENKINS-46998:jenkinsci/blueocean-plugin#4451
+JENKINS-46999:jenkinsci/github-branch-source-plugin#1134
 JENKINS-47003:jenkinsci/blueocean-plugin#4452
 JENKINS-47004:jenkinsci/blueocean-plugin#5284
 JENKINS-47010:jenkinsci/jenkins#22328
@@ -12563,6 +12776,7 @@ JENKINS-47018:jenkinsci/git-plugin#3196
 JENKINS-47019:jenkinsci/jenkins#22331
 JENKINS-47020:jenkinsci/jenkins#22332
 JENKINS-47022:jenkinsci/blueocean-plugin#4453
+JENKINS-47023:jenkinsci/github-branch-source-plugin#1135
 JENKINS-47029:jenkinsci/jenkins#22333
 JENKINS-47032:jenkinsci/blueocean-plugin#4454
 JENKINS-47041:jenkinsci/blueocean-plugin#4455
@@ -12576,6 +12790,7 @@ JENKINS-47054:jenkinsci/blueocean-plugin#4460
 JENKINS-47056:jenkinsci/jenkins#22336
 JENKINS-47057:jenkinsci/blueocean-plugin#4461
 JENKINS-47058:jenkinsci/jenkins#22337
+JENKINS-47067:jenkinsci/github-branch-source-plugin#1136
 JENKINS-47068:jenkinsci/blueocean-plugin#4462
 JENKINS-47073:jenkinsci/blueocean-plugin#5285
 JENKINS-47080:jenkinsci/blueocean-plugin#4463
@@ -12583,6 +12798,7 @@ JENKINS-47083:jenkinsci/blueocean-plugin#4464
 JENKINS-47085:jenkinsci/blueocean-plugin#4465
 JENKINS-47086:jenkinsci/jenkins#22338
 JENKINS-47087:jenkinsci/blueocean-plugin#4466
+JENKINS-47099:jenkinsci/github-branch-source-plugin#1137
 JENKINS-47104:jenkinsci/jenkins#22339
 JENKINS-47109:jenkinsci/blueocean-plugin#5286
 JENKINS-47114:jenkinsci/blueocean-plugin#4467
@@ -12600,10 +12816,13 @@ JENKINS-47148:jenkinsci/blueocean-plugin#4470
 JENKINS-47149:jenkinsci/blueocean-plugin#4471
 JENKINS-47151:jenkinsci/blueocean-plugin#4472
 JENKINS-47152:jenkinsci/git-plugin#3197
+JENKINS-47154:jenkinsci/github-branch-source-plugin#1138
+JENKINS-47155:jenkinsci/github-branch-source-plugin#1139
 JENKINS-47158:jenkinsci/blueocean-plugin#4473
 JENKINS-47160:jenkinsci/blueocean-plugin#5288
 JENKINS-47168:jenkinsci/jenkins#22345
 JENKINS-47169:jenkinsci/git-plugin#3198
+JENKINS-47171:jenkinsci/github-branch-source-plugin#1140
 JENKINS-47181:jenkinsci/jenkins#22346
 JENKINS-47184:jenkinsci/jenkins#22347
 JENKINS-47198:jenkinsci/git-plugin#3199
@@ -12613,6 +12832,7 @@ JENKINS-47214:jenkinsci/blueocean-plugin#5289
 JENKINS-47217:jenkinsci/jenkins#22348
 JENKINS-47218:jenkinsci/jenkins#22349
 JENKINS-47219:jenkinsci/blueocean-plugin#4476
+JENKINS-47221:jenkinsci/github-branch-source-plugin#1141
 JENKINS-47234:jenkinsci/remoting#1277
 JENKINS-47237:jenkinsci/blueocean-plugin#4477
 JENKINS-47241:jenkinsci/blueocean-plugin#4478
@@ -12631,6 +12851,7 @@ JENKINS-47262:jenkinsci/blueocean-plugin#4487
 JENKINS-47263:jenkinsci/jenkins#22352
 JENKINS-47279:jenkinsci/jenkins#22353
 JENKINS-47286:jenkinsci/blueocean-plugin#4488
+JENKINS-47296:jenkinsci/github-branch-source-plugin#1142
 JENKINS-47297:jenkinsci/blueocean-plugin#4489
 JENKINS-47302:jenkinsci/remoting#1278
 JENKINS-47303:jenkinsci/blueocean-plugin#4490
@@ -12655,8 +12876,10 @@ JENKINS-47357:jenkinsci/blueocean-plugin#4499
 JENKINS-47360:jenkinsci/blueocean-plugin#4500
 JENKINS-47361:jenkinsci/blueocean-plugin#4501
 JENKINS-47365:jenkinsci/blueocean-plugin#4502
+JENKINS-47366:jenkinsci/github-branch-source-plugin#1143
 JENKINS-47368:jenkinsci/blueocean-plugin#4503
 JENKINS-47372:jenkinsci/jenkins#22359
+JENKINS-47377:jenkinsci/github-branch-source-plugin#1144
 JENKINS-47378:jenkinsci/blueocean-plugin#4504
 JENKINS-47379:jenkinsci/blueocean-plugin#4505
 JENKINS-47380:jenkinsci/blueocean-plugin#4506
@@ -12679,6 +12902,7 @@ JENKINS-47426:jenkinsci/jenkins#22364
 JENKINS-47429:jenkinsci/jenkins#22365
 JENKINS-47431:jenkinsci/jenkins#22366
 JENKINS-47433:jenkinsci/git-plugin#3201
+JENKINS-47434:jenkinsci/github-branch-source-plugin#1145
 JENKINS-47439:jenkinsci/jenkins#22367
 JENKINS-47446:jenkinsci/blueocean-plugin#4517
 JENKINS-47448:jenkinsci/jenkins#22368
@@ -12703,6 +12927,7 @@ JENKINS-47509:jenkinsci/blueocean-plugin#4527
 JENKINS-47511:jenkinsci/blueocean-plugin#5292
 JENKINS-47513:jenkinsci/blueocean-plugin#4528
 JENKINS-47514:jenkinsci/git-plugin#3204
+JENKINS-47515:jenkinsci/github-branch-source-plugin#1146
 JENKINS-47517:jenkinsci/jenkins#22374
 JENKINS-47524:jenkinsci/git-plugin#3205
 JENKINS-47526:jenkinsci/git-plugin#3206
@@ -12721,6 +12946,7 @@ JENKINS-47579:jenkinsci/blueocean-plugin#4534
 JENKINS-47580:jenkinsci/blueocean-plugin#4535
 JENKINS-47583:jenkinsci/blueocean-plugin#4536
 JENKINS-47584:jenkinsci/blueocean-plugin#4537
+JENKINS-47585:jenkinsci/github-branch-source-plugin#1147
 JENKINS-47592:jenkinsci/blueocean-plugin#4538
 JENKINS-47596:jenkinsci/blueocean-plugin#5294
 JENKINS-47599:jenkinsci/git-plugin#3209
@@ -12778,6 +13004,7 @@ JENKINS-47762:jenkinsci/junit-plugin#1090
 JENKINS-47768:jenkinsci/jenkins#22394
 JENKINS-47772:jenkinsci/junit-plugin#1091
 JENKINS-47774:jenkinsci/blueocean-plugin#4559
+JENKINS-47775:jenkinsci/github-branch-source-plugin#1148
 JENKINS-47783:jenkinsci/blueocean-plugin#4560
 JENKINS-47788:jenkinsci/blueocean-plugin#4561
 JENKINS-47789:jenkinsci/git-plugin#3222
@@ -12808,6 +13035,7 @@ JENKINS-47895:jenkinsci/jenkins#22400
 JENKINS-47896:jenkinsci/jenkins#22401
 JENKINS-47897:jenkinsci/blueocean-plugin#4574
 JENKINS-47901:jenkinsci/remoting#1282
+JENKINS-47902:jenkinsci/github-branch-source-plugin#1149
 JENKINS-47909:jenkinsci/jenkins#22402
 JENKINS-47918:jenkinsci/blueocean-plugin#4575
 JENKINS-47921:jenkinsci/jenkins#22403
@@ -12829,6 +13057,7 @@ JENKINS-47984:jenkinsci/blueocean-plugin#4582
 JENKINS-48018:jenkinsci/jenkins#22408
 JENKINS-48020:jenkinsci/junit-plugin#1093
 JENKINS-48027:jenkinsci/blueocean-plugin#4583
+JENKINS-48035:jenkinsci/github-branch-source-plugin#1150
 JENKINS-48043:jenkinsci/jenkins#22409
 JENKINS-48053:jenkinsci/blueocean-plugin#4584
 JENKINS-48055:jenkinsci/jenkins#22410
@@ -12876,8 +13105,10 @@ JENKINS-48199:jenkinsci/blueocean-plugin#4594
 JENKINS-48201:jenkinsci/git-plugin#3234
 JENKINS-48204:jenkinsci/blueocean-plugin#4595
 JENKINS-48205:jenkinsci/blueocean-plugin#5300
+JENKINS-48214:jenkinsci/github-branch-source-plugin#1151
 JENKINS-48219:jenkinsci/blueocean-plugin#4596
 JENKINS-48220:jenkinsci/jenkins#22427
+JENKINS-48226:jenkinsci/github-branch-source-plugin#1152
 JENKINS-48227:jenkinsci/jenkins#22428
 JENKINS-48234:jenkinsci/jenkins#22429
 JENKINS-48243:jenkinsci/jenkins#22430
@@ -12898,8 +13129,10 @@ JENKINS-48285:jenkinsci/blueocean-plugin#4603
 JENKINS-48287:jenkinsci/git-plugin#3236
 JENKINS-48292:jenkinsci/blueocean-plugin#4604
 JENKINS-48293:jenkinsci/blueocean-plugin#5350
+JENKINS-48294:jenkinsci/github-branch-source-plugin#1153
 JENKINS-48296:jenkinsci/git-plugin#3237
 JENKINS-48301:jenkinsci/jenkins#22433
+JENKINS-48303:jenkinsci/github-branch-source-plugin#1154
 JENKINS-48305:jenkinsci/blueocean-plugin#4605
 JENKINS-48306:jenkinsci/blueocean-plugin#4606
 JENKINS-48307:jenkinsci/blueocean-plugin#5301
@@ -12932,6 +13165,7 @@ JENKINS-48393:jenkinsci/blueocean-plugin#4613
 JENKINS-48401:jenkinsci/jenkins#22445
 JENKINS-48405:jenkinsci/jenkins#22446
 JENKINS-48407:jenkinsci/jenkins#22447
+JENKINS-48408:jenkinsci/github-branch-source-plugin#1155
 JENKINS-48416:jenkinsci/blueocean-plugin#4614
 JENKINS-48440:jenkinsci/blueocean-plugin#4615
 JENKINS-48446:jenkinsci/jenkins#22448
@@ -12969,6 +13203,7 @@ JENKINS-48573:jenkinsci/blueocean-plugin#4625
 JENKINS-48574:jenkinsci/jenkins#22464
 JENKINS-48576:jenkinsci/blueocean-plugin#5303
 JENKINS-48578:jenkinsci/jenkins#22465
+JENKINS-48581:jenkinsci/github-branch-source-plugin#1156
 JENKINS-48582:jenkinsci/blueocean-plugin#5304
 JENKINS-48583:jenkinsci/junit-plugin#1099
 JENKINS-48587:jenkinsci/blueocean-plugin#4626
@@ -12983,6 +13218,7 @@ JENKINS-48604:jenkinsci/jenkins#22470
 JENKINS-48611:jenkinsci/remoting#1292
 JENKINS-48614:jenkinsci/jenkins#22471
 JENKINS-48615:jenkinsci/jenkins#22472
+JENKINS-48619:jenkinsci/github-branch-source-plugin#1157
 JENKINS-48620:jenkinsci/blueocean-plugin#4627
 JENKINS-48625:jenkinsci/git-plugin#3247
 JENKINS-48627:jenkinsci/jenkins#22473
@@ -13030,6 +13266,7 @@ JENKINS-48821:jenkinsci/jenkins#22497
 JENKINS-48822:jenkinsci/git-plugin#3250
 JENKINS-48830:jenkinsci/jenkins#22498
 JENKINS-48839:jenkinsci/junit-plugin#1101
+JENKINS-48848:jenkinsci/github-branch-source-plugin#1158
 JENKINS-48849:jenkinsci/blueocean-plugin#5306
 JENKINS-48850:jenkinsci/remoting#1299
 JENKINS-48859:jenkinsci/blueocean-plugin#4635
@@ -13045,6 +13282,7 @@ JENKINS-48895:jenkinsci/remoting#1301
 JENKINS-48896:jenkinsci/jenkins#22501
 JENKINS-48899:jenkinsci/jenkins#22502
 JENKINS-48903:jenkinsci/blueocean-plugin#4641
+JENKINS-48906:jenkinsci/github-branch-source-plugin#1159
 JENKINS-48910:jenkinsci/jenkins#22503
 JENKINS-48915:jenkinsci/jenkins#22504
 JENKINS-48922:jenkinsci/jenkins#22505
@@ -13080,6 +13318,7 @@ JENKINS-49036:jenkinsci/blueocean-plugin#4647
 JENKINS-49037:jenkinsci/git-plugin#3256
 JENKINS-49043:jenkinsci/junit-plugin#1103
 JENKINS-49044:jenkinsci/jenkins#22522
+JENKINS-49045:jenkinsci/github-branch-source-plugin#1160
 JENKINS-49050:jenkinsci/blueocean-plugin#4648
 JENKINS-49054:jenkinsci/jenkins#22523
 JENKINS-49060:jenkinsci/jenkins#22524
@@ -13099,11 +13338,13 @@ JENKINS-49131:jenkinsci/blueocean-plugin#4652
 JENKINS-49132:jenkinsci/blueocean-plugin#4653
 JENKINS-49138:jenkinsci/jenkins#22534
 JENKINS-49147:jenkinsci/jenkins#22535
+JENKINS-49149:jenkinsci/github-branch-source-plugin#1161
 JENKINS-49151:jenkinsci/jenkins#22536
 JENKINS-49156:jenkinsci/jenkins#22537
 JENKINS-49160:jenkinsci/git-plugin#3257
 JENKINS-49169:jenkinsci/jenkins#22538
 JENKINS-49182:jenkinsci/blueocean-plugin#4654
+JENKINS-49187:jenkinsci/github-branch-source-plugin#1162
 JENKINS-49188:jenkinsci/packaging#646
 JENKINS-49189:jenkinsci/blueocean-plugin#4655
 JENKINS-49190:jenkinsci/blueocean-plugin#4656
@@ -13120,6 +13361,7 @@ JENKINS-49217:jenkinsci/jenkins#22545
 JENKINS-49221:jenkinsci/remoting#1303
 JENKINS-49248:jenkinsci/blueocean-plugin#4657
 JENKINS-49258:jenkinsci/jenkins#22546
+JENKINS-49259:jenkinsci/github-branch-source-plugin#1163
 JENKINS-49263:jenkinsci/jenkins#22547
 JENKINS-49269:jenkinsci/jenkins#22548
 JENKINS-49272:jenkinsci/blueocean-plugin#4658
@@ -13137,12 +13379,14 @@ JENKINS-49319:jenkinsci/jenkins#22554
 JENKINS-49322:jenkinsci/jenkins#22555
 JENKINS-49327:jenkinsci/jenkins#22556
 JENKINS-49331:jenkinsci/jenkins#22557
+JENKINS-49336:jenkinsci/github-branch-source-plugin#1164
 JENKINS-49339:jenkinsci/junit-plugin#1104
 JENKINS-49346:jenkinsci/git-plugin#3259
 JENKINS-49347:jenkinsci/blueocean-plugin#4663
 JENKINS-49348:jenkinsci/blueocean-plugin#4664
 JENKINS-49349:jenkinsci/git-plugin#3260
 JENKINS-49354:jenkinsci/blueocean-plugin#4665
+JENKINS-49362:jenkinsci/github-branch-source-plugin#1165
 JENKINS-49364:jenkinsci/blueocean-plugin#4666
 JENKINS-49374:jenkinsci/jenkins#22558
 JENKINS-49375:jenkinsci/jenkins#22559
@@ -13179,11 +13423,13 @@ JENKINS-49477:jenkinsci/blueocean-plugin#4672
 JENKINS-49480:jenkinsci/remoting#1307
 JENKINS-49497:jenkinsci/git-plugin#3263
 JENKINS-49498:jenkinsci/jenkins#22578
+JENKINS-49507:jenkinsci/github-branch-source-plugin#1166
 JENKINS-49512:jenkinsci/jenkins#22579
 JENKINS-49516:jenkinsci/blueocean-plugin#4673
 JENKINS-49519:jenkinsci/blueocean-plugin#4674
 JENKINS-49520:jenkinsci/jenkins#22580
 JENKINS-49523:jenkinsci/jenkins#22581
+JENKINS-49526:jenkinsci/github-branch-source-plugin#1167
 JENKINS-49537:jenkinsci/jenkins#22582
 JENKINS-49540:jenkinsci/jenkins#22583
 JENKINS-49541:jenkinsci/jenkins#22584
@@ -13228,6 +13474,7 @@ JENKINS-49698:jenkinsci/blueocean-plugin#4685
 JENKINS-49702:jenkinsci/blueocean-plugin#4686
 JENKINS-49703:jenkinsci/git-plugin#3268
 JENKINS-49724:jenkinsci/jenkins#22605
+JENKINS-49729:jenkinsci/github-branch-source-plugin#1168
 JENKINS-49737:jenkinsci/jenkins#22606
 JENKINS-49742:jenkinsci/jenkins#22607
 JENKINS-49743:jenkinsci/blueocean-plugin#4687
@@ -13244,6 +13491,7 @@ JENKINS-49788:jenkinsci/jenkins#22612
 JENKINS-49790:jenkinsci/blueocean-plugin#4690
 JENKINS-49795:jenkinsci/jenkins#22613
 JENKINS-49796:jenkinsci/git-plugin#3271
+JENKINS-49800:jenkinsci/github-branch-source-plugin#1169
 JENKINS-49815:jenkinsci/blueocean-plugin#4691
 JENKINS-49816:jenkinsci/remoting#1310
 JENKINS-49818:jenkinsci/blueocean-plugin#4692
@@ -13271,6 +13519,7 @@ JENKINS-49932:jenkinsci/blueocean-plugin#5357
 JENKINS-49934:jenkinsci/blueocean-plugin#5358
 JENKINS-49941:jenkinsci/blueocean-plugin#4696
 JENKINS-49943:jenkinsci/jenkins#22623
+JENKINS-49945:jenkinsci/github-branch-source-plugin#1170
 JENKINS-49948:jenkinsci/blueocean-plugin#4697
 JENKINS-49953:jenkinsci/jenkins#22624
 JENKINS-49958:jenkinsci/remoting#1311
@@ -13287,6 +13536,7 @@ JENKINS-49992:jenkinsci/blueocean-plugin#4701
 JENKINS-49994:jenkinsci/remoting#1313
 JENKINS-50030:jenkinsci/jenkins#22630
 JENKINS-50049:jenkinsci/blueocean-plugin#4702
+JENKINS-50055:jenkinsci/github-branch-source-plugin#1171
 JENKINS-50056:jenkinsci/jenkins#22631
 JENKINS-50061:jenkinsci/jenkins#22632
 JENKINS-50064:jenkinsci/jenkins#22633
@@ -13329,12 +13579,14 @@ JENKINS-50249:jenkinsci/jenkins#22648
 JENKINS-50257:jenkinsci/jenkins#22649
 JENKINS-50259:jenkinsci/jenkins#22650
 JENKINS-50272:jenkinsci/jenkins#22651
+JENKINS-50279:jenkinsci/github-branch-source-plugin#1172
 JENKINS-50291:jenkinsci/jenkins#22652
 JENKINS-50296:jenkinsci/jenkins#22653
 JENKINS-50301:jenkinsci/jenkins#22654
 JENKINS-50313:jenkinsci/jenkins#22655
 JENKINS-50316:jenkinsci/blueocean-plugin#4713
 JENKINS-50321:jenkinsci/git-plugin#3278
+JENKINS-50323:jenkinsci/github-branch-source-plugin#1173
 JENKINS-50324:jenkinsci/jenkins#22656
 JENKINS-50325:jenkinsci/blueocean-plugin#4714
 JENKINS-50326:jenkinsci/jenkins#22657
@@ -13371,10 +13623,12 @@ JENKINS-50458:jenkinsci/jenkins#22670
 JENKINS-50462:jenkinsci/blueocean-plugin#4726
 JENKINS-50464:jenkinsci/blueocean-plugin#4727
 JENKINS-50465:jenkinsci/jenkins#22671
+JENKINS-50466:jenkinsci/github-branch-source-plugin#1174
 JENKINS-50468:jenkinsci/jenkins#22672
 JENKINS-50469:jenkinsci/blueocean-plugin#5316
 JENKINS-50471:jenkinsci/git-plugin#3284
 JENKINS-50481:jenkinsci/jenkins#22673
+JENKINS-50482:jenkinsci/github-branch-source-plugin#1175
 JENKINS-50487:jenkinsci/blueocean-plugin#4728
 JENKINS-50493:jenkinsci/jenkins#22674
 JENKINS-50498:jenkinsci/remoting#1320
@@ -13384,11 +13638,14 @@ JENKINS-50512:jenkinsci/blueocean-plugin#5359
 JENKINS-50513:jenkinsci/blueocean-plugin#5360
 JENKINS-50514:jenkinsci/blueocean-plugin#5361
 JENKINS-50515:jenkinsci/blueocean-plugin#5362
+JENKINS-50522:jenkinsci/github-branch-source-plugin#1176
 JENKINS-50530:jenkinsci/blueocean-plugin#4730
 JENKINS-50531:jenkinsci/blueocean-plugin#4731
 JENKINS-50532:jenkinsci/blueocean-plugin#4732
+JENKINS-50549:jenkinsci/github-branch-source-plugin#1177
 JENKINS-50555:jenkinsci/blueocean-plugin#4733
 JENKINS-50556:jenkinsci/git-plugin#3285
+JENKINS-50564:jenkinsci/github-branch-source-plugin#1178
 JENKINS-50570:jenkinsci/jenkins#22676
 JENKINS-50572:jenkinsci/blueocean-plugin#4734
 JENKINS-50573:jenkinsci/git-plugin#3286
@@ -13417,7 +13674,9 @@ JENKINS-50729:jenkinsci/git-plugin#3289
 JENKINS-50730:jenkinsci/remoting#1321
 JENKINS-50734:jenkinsci/jenkins#22689
 JENKINS-50743:jenkinsci/jenkins#22690
+JENKINS-50747:jenkinsci/github-branch-source-plugin#1179
 JENKINS-50748:jenkinsci/jenkins#22691
+JENKINS-50755:jenkinsci/github-branch-source-plugin#1180
 JENKINS-50767:jenkinsci/jenkins#22692
 JENKINS-50777:jenkinsci/git-plugin#3290
 JENKINS-50778:jenkinsci/blueocean-plugin#4741
@@ -13438,6 +13697,7 @@ JENKINS-50827:jenkinsci/blueocean-plugin#5367
 JENKINS-50828:jenkinsci/blueocean-plugin#5368
 JENKINS-50829:jenkinsci/blueocean-plugin#5369
 JENKINS-50831:jenkinsci/git-plugin#3292
+JENKINS-50832:jenkinsci/github-branch-source-plugin#1181
 JENKINS-50845:jenkinsci/jenkins#22699
 JENKINS-50847:jenkinsci/jenkins#22700
 JENKINS-50854:jenkinsci/jenkins#22701
@@ -13445,6 +13705,7 @@ JENKINS-50856:jenkinsci/blueocean-plugin#4745
 JENKINS-50859:jenkinsci/jenkins#22702
 JENKINS-50867:jenkinsci/jenkins#22703
 JENKINS-50868:jenkinsci/blueocean-plugin#4746
+JENKINS-50871:jenkinsci/github-branch-source-plugin#1182
 JENKINS-50872:jenkinsci/jenkins#22704
 JENKINS-50873:jenkinsci/junit-plugin#1106
 JENKINS-50881:jenkinsci/jenkins#22705
@@ -13458,6 +13719,7 @@ JENKINS-50905:jenkinsci/blueocean-plugin#4749
 JENKINS-50908:jenkinsci/jenkins#22709
 JENKINS-50923:jenkinsci/blueocean-plugin#4750
 JENKINS-50933:jenkinsci/remoting#1322
+JENKINS-50937:jenkinsci/github-branch-source-plugin#1183
 JENKINS-50939:jenkinsci/jenkins#22710
 JENKINS-50941:jenkinsci/blueocean-plugin#4751
 JENKINS-50942:jenkinsci/blueocean-plugin#4752
@@ -13472,9 +13734,11 @@ JENKINS-50969:jenkinsci/jenkins#22712
 JENKINS-50986:jenkinsci/packaging#648
 JENKINS-50987:jenkinsci/jenkins#22713
 JENKINS-50991:jenkinsci/git-plugin#3295
+JENKINS-50999:jenkinsci/github-branch-source-plugin#1184
 JENKINS-51000:jenkinsci/jenkins#22714
 JENKINS-51004:jenkinsci/remoting#1324
 JENKINS-51007:jenkinsci/jenkins#22715
+JENKINS-51020:jenkinsci/github-branch-source-plugin#1185
 JENKINS-51022:jenkinsci/blueocean-plugin#4754
 JENKINS-51032:jenkinsci/jenkins#22716
 JENKINS-51037:jenkinsci/jenkins#22717
@@ -13485,6 +13749,7 @@ JENKINS-51062:jenkinsci/jenkins#22718
 JENKINS-51064:jenkinsci/jenkins#22719
 JENKINS-51066:jenkinsci/blueocean-plugin#4757
 JENKINS-51082:jenkinsci/jenkins#22720
+JENKINS-51092:jenkinsci/github-branch-source-plugin#1186
 JENKINS-51099:jenkinsci/jenkins#22721
 JENKINS-51100:jenkinsci/jenkins#22722
 JENKINS-51108:jenkinsci/remoting#1325
@@ -13495,6 +13760,7 @@ JENKINS-51114:jenkinsci/jenkins#22724
 JENKINS-51134:jenkinsci/git-plugin#3297
 JENKINS-51135:jenkinsci/jenkins#22725
 JENKINS-51136:jenkinsci/jenkins#22726
+JENKINS-51146:jenkinsci/github-branch-source-plugin#1187
 JENKINS-51155:jenkinsci/jenkins#22727
 JENKINS-51158:jenkinsci/jenkins#22728
 JENKINS-51160:jenkinsci/jenkins#22729
@@ -13657,6 +13923,7 @@ JENKINS-51906:jenkinsci/jenkins#22822
 JENKINS-51907:jenkinsci/git-plugin#3316
 JENKINS-51913:jenkinsci/jenkins#22823
 JENKINS-51921:jenkinsci/blueocean-plugin#4782
+JENKINS-51930:jenkinsci/github-branch-source-plugin#1188
 JENKINS-51935:jenkinsci/jenkins#22824
 JENKINS-51936:jenkinsci/git-plugin#3317
 JENKINS-51950:jenkinsci/git-plugin#3318
@@ -13672,6 +13939,7 @@ JENKINS-51995:jenkinsci/jenkins#22831
 JENKINS-51998:jenkinsci/jenkins#22832
 JENKINS-51999:jenkinsci/git-plugin#3319
 JENKINS-52000:jenkinsci/jenkins#22833
+JENKINS-52002:jenkinsci/github-branch-source-plugin#1189
 JENKINS-52005:jenkinsci/blueocean-plugin#4784
 JENKINS-52008:jenkinsci/jenkins#22834
 JENKINS-52010:jenkinsci/jenkins#22835
@@ -13695,6 +13963,7 @@ JENKINS-52116:jenkinsci/jenkins#22844
 JENKINS-52121:jenkinsci/jenkins#22845
 JENKINS-52125:jenkinsci/remoting#1342
 JENKINS-52130:jenkinsci/blueocean-plugin#4792
+JENKINS-52147:jenkinsci/github-branch-source-plugin#1190
 JENKINS-52148:jenkinsci/git-plugin#3321
 JENKINS-52150:jenkinsci/jenkins#22846
 JENKINS-52153:jenkinsci/jenkins#22847
@@ -13718,6 +13987,7 @@ JENKINS-52204:jenkinsci/remoting#1343
 JENKINS-52206:jenkinsci/jenkins#19861
 JENKINS-52213:jenkinsci/jenkins#19862
 JENKINS-52217:jenkinsci/jenkins#19863
+JENKINS-52220:jenkinsci/github-branch-source-plugin#1191
 JENKINS-52223:jenkinsci/jenkins#19864
 JENKINS-52227:jenkinsci/blueocean-plugin#4794
 JENKINS-52229:jenkinsci/jenkins#19865
@@ -13756,9 +14026,13 @@ JENKINS-52350:jenkinsci/jenkins#19884
 JENKINS-52351:jenkinsci/jenkins#19885
 JENKINS-52356:jenkinsci/jenkins#19886
 JENKINS-52358:jenkinsci/jenkins#19887
+JENKINS-52364:jenkinsci/github-branch-source-plugin#1192
 JENKINS-52367:jenkinsci/jenkins#19888
 JENKINS-52378:jenkinsci/git-plugin#3322
 JENKINS-52381:jenkinsci/jenkins#19889
+JENKINS-52382:jenkinsci/github-branch-source-plugin#1193
+JENKINS-52397:jenkinsci/github-branch-source-plugin#1194
+JENKINS-52406:jenkinsci/github-branch-source-plugin#1195
 JENKINS-52409:jenkinsci/jenkins#19890
 JENKINS-52414:jenkinsci/jenkins#19891
 JENKINS-52417:jenkinsci/jenkins#19892
@@ -13774,6 +14048,7 @@ JENKINS-52494:jenkinsci/blueocean-plugin#5371
 JENKINS-52500:jenkinsci/jenkins#19896
 JENKINS-52510:jenkinsci/blueocean-plugin#4805
 JENKINS-52511:jenkinsci/git-plugin#3325
+JENKINS-52513:jenkinsci/github-branch-source-plugin#1196
 JENKINS-52523:jenkinsci/jenkins#19897
 JENKINS-52534:jenkinsci/jenkins#19898
 JENKINS-52549:jenkinsci/junit-plugin#1110
@@ -13802,6 +14077,7 @@ JENKINS-52692:jenkinsci/jenkins#19910
 JENKINS-52694:jenkinsci/jenkins#19911
 JENKINS-52702:jenkinsci/jenkins#19912
 JENKINS-52704:jenkinsci/blueocean-plugin#5324
+JENKINS-52706:jenkinsci/github-branch-source-plugin#1197
 JENKINS-52707:jenkinsci/jenkins#19913
 JENKINS-52710:jenkinsci/remoting#1347
 JENKINS-52711:jenkinsci/junit-plugin#1112
@@ -13902,9 +14178,12 @@ JENKINS-53192:jenkinsci/blueocean-plugin#5326
 JENKINS-53195:jenkinsci/junit-plugin#1113
 JENKINS-53196:jenkinsci/junit-plugin#1114
 JENKINS-53197:jenkinsci/blueocean-plugin#4838
+JENKINS-53198:jenkinsci/github-branch-source-plugin#1198
 JENKINS-53202:jenkinsci/jenkins#19960
 JENKINS-53203:jenkinsci/jenkins#19961
+JENKINS-53204:jenkinsci/github-branch-source-plugin#1199
 JENKINS-53208:jenkinsci/jenkins#19962
+JENKINS-53219:jenkinsci/github-branch-source-plugin#1200
 JENKINS-53223:jenkinsci/jenkins#19963
 JENKINS-53236:jenkinsci/junit-plugin#1115
 JENKINS-53237:jenkinsci/junit-plugin#1116
@@ -13943,12 +14222,15 @@ JENKINS-53385:jenkinsci/jenkins#19978
 JENKINS-53398:jenkinsci/blueocean-plugin#4850
 JENKINS-53401:jenkinsci/jenkins#19979
 JENKINS-53404:jenkinsci/packaging#656
+JENKINS-53407:jenkinsci/github-branch-source-plugin#1201
 JENKINS-53409:jenkinsci/jenkins#19980
 JENKINS-53431:jenkinsci/jenkins#19981
 JENKINS-53432:jenkinsci/git-plugin#3342
 JENKINS-53435:jenkinsci/jenkins#19982
 JENKINS-53436:jenkinsci/jenkins#19983
 JENKINS-53438:jenkinsci/jenkins#19984
+JENKINS-53447:jenkinsci/github-branch-source-plugin#1202
+JENKINS-53451:jenkinsci/github-branch-source-plugin#1203
 JENKINS-53455:jenkinsci/jenkins#19985
 JENKINS-53459:jenkinsci/jenkins#19986
 JENKINS-53461:jenkinsci/remoting#1354
@@ -13978,14 +14260,17 @@ JENKINS-53587:jenkinsci/blueocean-plugin#4857
 JENKINS-53591:jenkinsci/jenkins#20002
 JENKINS-53593:jenkinsci/jenkins#20003
 JENKINS-53599:jenkinsci/remoting#1356
+JENKINS-53600:jenkinsci/github-branch-source-plugin#1204
 JENKINS-53606:jenkinsci/jenkins#20004
 JENKINS-53608:jenkinsci/jenkins#20005
 JENKINS-53611:jenkinsci/jenkins#20006
+JENKINS-53624:jenkinsci/github-branch-source-plugin#1205
 JENKINS-53637:jenkinsci/blueocean-plugin#4858
 JENKINS-53648:jenkinsci/jenkins#20007
 JENKINS-53652:jenkinsci/remoting#1357
 JENKINS-53654:jenkinsci/jenkins#20008
 JENKINS-53655:jenkinsci/jenkins#20009
+JENKINS-53657:jenkinsci/github-branch-source-plugin#1206
 JENKINS-53667:jenkinsci/blueocean-plugin#4859
 JENKINS-53671:jenkinsci/jenkins#20010
 JENKINS-53673:jenkinsci/blueocean-plugin#4860
@@ -14011,6 +14296,8 @@ JENKINS-53736:jenkinsci/jenkins#20022
 JENKINS-53741:jenkinsci/jenkins#20023
 JENKINS-53747:jenkinsci/jenkins#20024
 JENKINS-53751:jenkinsci/blueocean-plugin#4865
+JENKINS-53752:jenkinsci/github-branch-source-plugin#1207
+JENKINS-53753:jenkinsci/github-branch-source-plugin#1208
 JENKINS-53754:jenkinsci/git-plugin#3345
 JENKINS-53762:jenkinsci/blueocean-plugin#4866
 JENKINS-53766:jenkinsci/blueocean-plugin#4867
@@ -14030,6 +14317,7 @@ JENKINS-53810:jenkinsci/jenkins#20034
 JENKINS-53816:jenkinsci/blueocean-plugin#4870
 JENKINS-53826:jenkinsci/jenkins#20035
 JENKINS-53827:jenkinsci/jenkins#20036
+JENKINS-53828:jenkinsci/github-branch-source-plugin#1209
 JENKINS-53829:jenkinsci/jenkins#20037
 JENKINS-53832:jenkinsci/jenkins#20038
 JENKINS-53842:jenkinsci/blueocean-plugin#4871
@@ -14046,9 +14334,11 @@ JENKINS-53884:jenkinsci/jenkins#20046
 JENKINS-53885:jenkinsci/jenkins#20047
 JENKINS-53886:jenkinsci/jenkins#20048
 JENKINS-53894:jenkinsci/jenkins#20049
+JENKINS-53895:jenkinsci/github-branch-source-plugin#1210
 JENKINS-53900:jenkinsci/blueocean-plugin#4873
 JENKINS-53904:jenkinsci/jenkins#20050
 JENKINS-53906:jenkinsci/jenkins#20051
+JENKINS-53912:jenkinsci/github-branch-source-plugin#1211
 JENKINS-53915:jenkinsci/jenkins#20052
 JENKINS-53918:jenkinsci/jenkins#20053
 JENKINS-53924:jenkinsci/jenkins#20054
@@ -14073,9 +14363,14 @@ JENKINS-54019:jenkinsci/blueocean-plugin#4879
 JENKINS-54020:jenkinsci/jenkins#20062
 JENKINS-54022:jenkinsci/git-plugin#3351
 JENKINS-54029:jenkinsci/jenkins#20063
+JENKINS-54030:jenkinsci/github-branch-source-plugin#1212
+JENKINS-54033:jenkinsci/github-branch-source-plugin#1213
 JENKINS-54034:jenkinsci/blueocean-plugin#4880
 JENKINS-54040:jenkinsci/jenkins#20064
+JENKINS-54045:jenkinsci/github-branch-source-plugin#1214
+JENKINS-54046:jenkinsci/github-branch-source-plugin#1215
 JENKINS-54048:jenkinsci/git-plugin#3352
+JENKINS-54051:jenkinsci/github-branch-source-plugin#1216
 JENKINS-54053:jenkinsci/git-plugin#3353
 JENKINS-54058:jenkinsci/remoting#1359
 JENKINS-54061:jenkinsci/jenkins#20065
@@ -14087,6 +14382,7 @@ JENKINS-54104:jenkinsci/blueocean-plugin#4882
 JENKINS-54106:jenkinsci/git-plugin#3355
 JENKINS-54121:jenkinsci/jenkins#20067
 JENKINS-54123:jenkinsci/jenkins#20068
+JENKINS-54126:jenkinsci/github-branch-source-plugin#1217
 JENKINS-54134:jenkinsci/jenkins#20069
 JENKINS-54135:jenkinsci/jenkins#20070
 JENKINS-54136:jenkinsci/jenkins#20071
@@ -14106,6 +14402,7 @@ JENKINS-54199:jenkinsci/blueocean-plugin#4884
 JENKINS-54202:jenkinsci/remoting#1361
 JENKINS-54203:jenkinsci/jenkins#20080
 JENKINS-54205:jenkinsci/blueocean-plugin#5331
+JENKINS-54206:jenkinsci/github-branch-source-plugin#1218
 JENKINS-54211:jenkinsci/jenkins#20081
 JENKINS-54216:jenkinsci/jenkins#20082
 JENKINS-54220:jenkinsci/blueocean-plugin#4885
@@ -14115,6 +14412,7 @@ JENKINS-54245:jenkinsci/packaging#657
 JENKINS-54252:jenkinsci/remoting#1362
 JENKINS-54259:jenkinsci/jenkins#20085
 JENKINS-54261:jenkinsci/jenkins#20086
+JENKINS-54265:jenkinsci/github-branch-source-plugin#1219
 JENKINS-54268:jenkinsci/blueocean-plugin#4886
 JENKINS-54270:jenkinsci/junit-plugin#1120
 JENKINS-54276:jenkinsci/blueocean-plugin#4887
@@ -14136,6 +14434,7 @@ JENKINS-54367:jenkinsci/jenkins#20095
 JENKINS-54370:jenkinsci/jenkins#20096
 JENKINS-54372:jenkinsci/git-plugin#3358
 JENKINS-54381:jenkinsci/blueocean-plugin#4891
+JENKINS-54403:jenkinsci/github-branch-source-plugin#1220
 JENKINS-54409:jenkinsci/jenkins#20097
 JENKINS-54410:jenkinsci/blueocean-plugin#5373
 JENKINS-54451:jenkinsci/jenkins#20098
@@ -14143,6 +14442,7 @@ JENKINS-54457:jenkinsci/blueocean-plugin#4892
 JENKINS-54459:jenkinsci/jenkins#20099
 JENKINS-54464:jenkinsci/blueocean-plugin#4893
 JENKINS-54476:jenkinsci/jenkins#20100
+JENKINS-54495:jenkinsci/github-branch-source-plugin#1221
 JENKINS-54496:jenkinsci/jenkins#20101
 JENKINS-54502:jenkinsci/jenkins#20102
 JENKINS-54508:jenkinsci/jenkins#20103
@@ -14171,6 +14471,7 @@ JENKINS-54599:jenkinsci/jenkins#20118
 JENKINS-54603:jenkinsci/remoting#1364
 JENKINS-54604:jenkinsci/jenkins#20119
 JENKINS-54605:jenkinsci/blueocean-plugin#4896
+JENKINS-54610:jenkinsci/github-branch-source-plugin#1222
 JENKINS-54612:jenkinsci/git-plugin#3362
 JENKINS-54613:jenkinsci/jenkins#20120
 JENKINS-54627:jenkinsci/jenkins#20121
@@ -14196,6 +14497,7 @@ JENKINS-54836:jenkinsci/jenkins#20134
 JENKINS-54850:jenkinsci/jenkins#20135
 JENKINS-54854:jenkinsci/jenkins#20136
 JENKINS-54863:jenkinsci/jenkins#20137
+JENKINS-54866:jenkinsci/github-branch-source-plugin#1223
 JENKINS-54868:jenkinsci/git-plugin#3365
 JENKINS-54875:jenkinsci/blueocean-plugin#4901
 JENKINS-54876:jenkinsci/blueocean-plugin#4902
@@ -14207,9 +14509,11 @@ JENKINS-54895:jenkinsci/git-plugin#3366
 JENKINS-54896:jenkinsci/jenkins#20140
 JENKINS-54902:jenkinsci/blueocean-plugin#4905
 JENKINS-54903:jenkinsci/jenkins#20141
+JENKINS-54917:jenkinsci/github-branch-source-plugin#1224
 JENKINS-54933:jenkinsci/jenkins#20142
 JENKINS-54938:jenkinsci/jenkins#20143
 JENKINS-54950:jenkinsci/jenkins#20144
+JENKINS-54956:jenkinsci/github-branch-source-plugin#1225
 JENKINS-54957:jenkinsci/jenkins#20145
 JENKINS-54959:jenkinsci/jenkins#20146
 JENKINS-54969:jenkinsci/jenkins#20147
@@ -14269,6 +14573,7 @@ JENKINS-55245:jenkinsci/jenkins#20184
 JENKINS-55251:jenkinsci/remoting#1366
 JENKINS-55257:jenkinsci/jenkins#20185
 JENKINS-55270:jenkinsci/jenkins#20186
+JENKINS-55283:jenkinsci/github-branch-source-plugin#1226
 JENKINS-55292:jenkinsci/jenkins#20187
 JENKINS-55297:jenkinsci/git-plugin#3370
 JENKINS-55311:jenkinsci/blueocean-plugin#5333
@@ -14282,6 +14587,7 @@ JENKINS-55359:jenkinsci/blueocean-plugin#4917
 JENKINS-55361:jenkinsci/jenkins#20191
 JENKINS-55371:jenkinsci/jenkins#20192
 JENKINS-55385:jenkinsci/jenkins#20193
+JENKINS-55388:jenkinsci/github-branch-source-plugin#1227
 JENKINS-55393:jenkinsci/blueocean-plugin#4918
 JENKINS-55395:jenkinsci/blueocean-plugin#4919
 JENKINS-55398:jenkinsci/jenkins#20194
@@ -14292,6 +14598,7 @@ JENKINS-55438:jenkinsci/blueocean-plugin#4921
 JENKINS-55448:jenkinsci/jenkins#20197
 JENKINS-55449:jenkinsci/jenkins#20198
 JENKINS-55450:jenkinsci/jenkins#20199
+JENKINS-55453:jenkinsci/github-branch-source-plugin#1228
 JENKINS-55457:jenkinsci/git-plugin#3371
 JENKINS-55471:jenkinsci/git-plugin#3372
 JENKINS-55477:jenkinsci/jenkins#20200
@@ -14324,12 +14631,14 @@ JENKINS-55592:jenkinsci/git-plugin#3379
 JENKINS-55593:jenkinsci/junit-plugin#1123
 JENKINS-55597:jenkinsci/remoting#1368
 JENKINS-55599:jenkinsci/blueocean-plugin#4927
+JENKINS-55602:jenkinsci/github-branch-source-plugin#1229
 JENKINS-55604:jenkinsci/jenkins#20214
 JENKINS-55605:jenkinsci/blueocean-plugin#4928
 JENKINS-55623:jenkinsci/blueocean-plugin#4929
 JENKINS-55624:jenkinsci/git-plugin#3380
 JENKINS-55640:jenkinsci/jenkins#20215
 JENKINS-55641:jenkinsci/jenkins#20216
+JENKINS-55644:jenkinsci/github-branch-source-plugin#1230
 JENKINS-55647:jenkinsci/jenkins#20217
 JENKINS-55652:jenkinsci/jenkins#20218
 JENKINS-55653:jenkinsci/jenkins#20219
@@ -14346,14 +14655,18 @@ JENKINS-55700:jenkinsci/remoting#1369
 JENKINS-55702:jenkinsci/jenkins#20226
 JENKINS-55704:jenkinsci/jenkins#20227
 JENKINS-55714:jenkinsci/git-plugin#3382
+JENKINS-55726:jenkinsci/github-branch-source-plugin#1231
+JENKINS-55728:jenkinsci/github-branch-source-plugin#1232
 JENKINS-55729:jenkinsci/jenkins#20228
 JENKINS-55738:jenkinsci/jenkins#20229
 JENKINS-55756:jenkinsci/jenkins#20230
+JENKINS-55761:jenkinsci/github-branch-source-plugin#1233
 JENKINS-55762:jenkinsci/jenkins#20231
 JENKINS-55763:jenkinsci/blueocean-plugin#5335
 JENKINS-55765:jenkinsci/git-plugin#3383
 JENKINS-55768:jenkinsci/jenkins#20232
 JENKINS-55772:jenkinsci/jenkins#20233
+JENKINS-55778:jenkinsci/github-branch-source-plugin#1234
 JENKINS-55780:jenkinsci/jenkins#20234
 JENKINS-55781:jenkinsci/git-plugin#3384
 JENKINS-55786:jenkinsci/git-plugin#3385
@@ -14361,6 +14674,7 @@ JENKINS-55791:jenkinsci/jenkins#20235
 JENKINS-55810:jenkinsci/jenkins#20236
 JENKINS-55813:jenkinsci/jenkins#20237
 JENKINS-55820:jenkinsci/jenkins#20238
+JENKINS-55822:jenkinsci/github-branch-source-plugin#1235
 JENKINS-55827:jenkinsci/git-plugin#3386
 JENKINS-55828:jenkinsci/junit-plugin#1124
 JENKINS-55829:jenkinsci/jenkins#20239
@@ -14370,6 +14684,7 @@ JENKINS-55841:jenkinsci/junit-plugin#1126
 JENKINS-55847:jenkinsci/jenkins#20241
 JENKINS-55848:jenkinsci/jenkins#20242
 JENKINS-55849:jenkinsci/blueocean-plugin#4931
+JENKINS-55850:jenkinsci/github-branch-source-plugin#1236
 JENKINS-55874:jenkinsci/jenkins#20243
 JENKINS-55876:jenkinsci/git-plugin#3387
 JENKINS-55878:jenkinsci/jenkins#20244
@@ -14384,6 +14699,7 @@ JENKINS-55930:jenkinsci/jenkins#20248
 JENKINS-55936:jenkinsci/jenkins#20249
 JENKINS-55939:jenkinsci/git-plugin#3391
 JENKINS-55945:jenkinsci/jenkins#20250
+JENKINS-55949:jenkinsci/github-branch-source-plugin#1237
 JENKINS-55950:jenkinsci/jenkins#20251
 JENKINS-55951:jenkinsci/jenkins#20252
 JENKINS-55952:jenkinsci/jenkins#20253
@@ -14420,6 +14736,7 @@ JENKINS-56102:jenkinsci/jenkins#20270
 JENKINS-56104:jenkinsci/git-plugin#3397
 JENKINS-56107:jenkinsci/git-plugin#3398
 JENKINS-56109:jenkinsci/jenkins#20271
+JENKINS-56111:jenkinsci/github-branch-source-plugin#1238
 JENKINS-56114:jenkinsci/jenkins#20272
 JENKINS-56116:jenkinsci/git-plugin#3399
 JENKINS-56126:jenkinsci/jenkins#20273
@@ -14455,6 +14772,7 @@ JENKINS-56225:jenkinsci/jenkins#20292
 JENKINS-56227:jenkinsci/jenkins#20293
 JENKINS-56243:jenkinsci/jenkins#20294
 JENKINS-56249:jenkinsci/jenkins#20295
+JENKINS-56255:jenkinsci/github-branch-source-plugin#1239
 JENKINS-56281:jenkinsci/jenkins#20296
 JENKINS-56284:jenkinsci/git-plugin#3406
 JENKINS-56293:jenkinsci/jenkins#20297
@@ -14480,23 +14798,27 @@ JENKINS-56382:jenkinsci/blueocean-plugin#4941
 JENKINS-56383:jenkinsci/blueocean-plugin#4942
 JENKINS-56390:jenkinsci/git-plugin#3409
 JENKINS-56392:jenkinsci/blueocean-plugin#4943
+JENKINS-56395:jenkinsci/github-branch-source-plugin#1240
 JENKINS-56397:jenkinsci/jenkins#20310
 JENKINS-56398:jenkinsci/jenkins#20311
 JENKINS-56403:jenkinsci/jenkins#20312
 JENKINS-56404:jenkinsci/git-plugin#3410
 JENKINS-56407:jenkinsci/jenkins#20313
 JENKINS-56415:jenkinsci/jenkins#20314
+JENKINS-56422:jenkinsci/github-branch-source-plugin#1241
 JENKINS-56426:jenkinsci/git-plugin#3411
 JENKINS-56429:jenkinsci/jenkins#20315
 JENKINS-56434:jenkinsci/packaging#668
 JENKINS-56436:jenkinsci/jenkins#20316
 JENKINS-56437:jenkinsci/jenkins#20317
+JENKINS-56441:jenkinsci/github-branch-source-plugin#1242
 JENKINS-56445:jenkinsci/blueocean-plugin#4944
 JENKINS-56453:jenkinsci/git-plugin#3412
 JENKINS-56458:jenkinsci/jenkins#20318
 JENKINS-56460:jenkinsci/blueocean-plugin#4945
 JENKINS-56463:jenkinsci/jenkins#20319
 JENKINS-56465:jenkinsci/jenkins#20320
+JENKINS-56468:jenkinsci/github-branch-source-plugin#1243
 JENKINS-56469:jenkinsci/blueocean-plugin#4946
 JENKINS-56474:jenkinsci/remoting#1372
 JENKINS-56477:jenkinsci/jenkins#20321
@@ -14516,6 +14838,7 @@ JENKINS-56555:jenkinsci/remoting#1373
 JENKINS-56560:jenkinsci/remoting#1374
 JENKINS-56562:jenkinsci/blueocean-plugin#4948
 JENKINS-56564:jenkinsci/jenkins#20331
+JENKINS-56565:jenkinsci/github-branch-source-plugin#1244
 JENKINS-56568:jenkinsci/jenkins#20332
 JENKINS-56574:jenkinsci/jenkins#20333
 JENKINS-56575:jenkinsci/jenkins#20334
@@ -14559,6 +14882,7 @@ JENKINS-56809:jenkinsci/jenkins#20358
 JENKINS-56812:jenkinsci/jenkins#20359
 JENKINS-56833:jenkinsci/blueocean-plugin#4955
 JENKINS-56838:jenkinsci/git-plugin#3420
+JENKINS-56854:jenkinsci/github-branch-source-plugin#1245
 JENKINS-56856:jenkinsci/jenkins#20360
 JENKINS-56866:jenkinsci/blueocean-plugin#4956
 JENKINS-56868:jenkinsci/jenkins#20361
@@ -14589,11 +14913,14 @@ JENKINS-56977:jenkinsci/blueocean-plugin#4963
 JENKINS-56980:jenkinsci/jenkins#20375
 JENKINS-56991:jenkinsci/jenkins#20376
 JENKINS-56995:jenkinsci/jenkins#20377
+JENKINS-56996:jenkinsci/github-branch-source-plugin#1246
 JENKINS-57007:jenkinsci/jenkins#20378
 JENKINS-57009:jenkinsci/jenkins#20379
 JENKINS-57010:jenkinsci/remoting#1376
+JENKINS-57014:jenkinsci/github-branch-source-plugin#1247
 JENKINS-57015:jenkinsci/packaging#670
 JENKINS-57021:jenkinsci/jenkins#20380
+JENKINS-57026:jenkinsci/github-branch-source-plugin#1248
 JENKINS-57071:jenkinsci/jenkins#20381
 JENKINS-57074:jenkinsci/jenkins#20382
 JENKINS-57084:jenkinsci/jenkins#20383
@@ -14613,13 +14940,16 @@ JENKINS-57146:jenkinsci/remoting#1378
 JENKINS-57148:jenkinsci/jenkins#20393
 JENKINS-57151:jenkinsci/jenkins#20394
 JENKINS-57152:jenkinsci/jenkins#20395
+JENKINS-57153:jenkinsci/github-branch-source-plugin#1249
 JENKINS-57167:jenkinsci/jenkins#20396
 JENKINS-57177:jenkinsci/blueocean-plugin#4964
 JENKINS-57185:jenkinsci/jenkins#20397
 JENKINS-57186:jenkinsci/jenkins#20398
 JENKINS-57194:jenkinsci/jenkins#20399
+JENKINS-57195:jenkinsci/github-branch-source-plugin#1250
 JENKINS-57200:jenkinsci/jenkins#20400
 JENKINS-57205:jenkinsci/git-plugin#3426
+JENKINS-57206:jenkinsci/github-branch-source-plugin#1251
 JENKINS-57209:jenkinsci/blueocean-plugin#4965
 JENKINS-57211:jenkinsci/jenkins#20401
 JENKINS-57213:jenkinsci/blueocean-plugin#4966
@@ -14630,6 +14960,7 @@ JENKINS-57228:jenkinsci/remoting#1379
 JENKINS-57243:jenkinsci/blueocean-plugin#4968
 JENKINS-57244:jenkinsci/jenkins#20404
 JENKINS-57246:jenkinsci/git-plugin#3427
+JENKINS-57257:jenkinsci/github-branch-source-plugin#1252
 JENKINS-57258:jenkinsci/jenkins#20405
 JENKINS-57261:jenkinsci/jenkins#20406
 JENKINS-57263:jenkinsci/jenkins#20407
@@ -14638,19 +14969,26 @@ JENKINS-57271:jenkinsci/jenkins#20408
 JENKINS-57273:jenkinsci/jenkins#20409
 JENKINS-57275:jenkinsci/git-plugin#3428
 JENKINS-57276:jenkinsci/jenkins#20410
+JENKINS-57279:jenkinsci/github-branch-source-plugin#1253
 JENKINS-57301:jenkinsci/blueocean-plugin#4970
+JENKINS-57303:jenkinsci/github-branch-source-plugin#1254
 JENKINS-57304:jenkinsci/jenkins#20411
 JENKINS-57305:jenkinsci/blueocean-plugin#4971
+JENKINS-57315:jenkinsci/github-branch-source-plugin#1255
 JENKINS-57326:jenkinsci/git-plugin#3429
 JENKINS-57331:jenkinsci/packaging#671
 JENKINS-57340:jenkinsci/git-plugin#3430
 JENKINS-57349:jenkinsci/jenkins#20412
+JENKINS-57351:jenkinsci/github-branch-source-plugin#1256
 JENKINS-57362:jenkinsci/git-plugin#3431
+JENKINS-57371:jenkinsci/github-branch-source-plugin#1257
 JENKINS-57383:jenkinsci/jenkins#20413
 JENKINS-57386:jenkinsci/blueocean-plugin#4972
 JENKINS-57388:jenkinsci/junit-plugin#1129
+JENKINS-57411:jenkinsci/github-branch-source-plugin#1258
 JENKINS-57412:jenkinsci/jenkins#20414
 JENKINS-57419:jenkinsci/packaging#672
+JENKINS-57430:jenkinsci/github-branch-source-plugin#1259
 JENKINS-57453:jenkinsci/remoting#1380
 JENKINS-57454:jenkinsci/jenkins#20415
 JENKINS-57455:jenkinsci/jenkins#20416
@@ -14660,6 +14998,7 @@ JENKINS-57473:jenkinsci/blueocean-plugin#4973
 JENKINS-57477:jenkinsci/jenkins#20419
 JENKINS-57484:jenkinsci/jenkins#20420
 JENKINS-57490:jenkinsci/jenkins#20421
+JENKINS-57492:jenkinsci/github-branch-source-plugin#1260
 JENKINS-57493:jenkinsci/git-plugin#3432
 JENKINS-57504:jenkinsci/jenkins#20422
 JENKINS-57511:jenkinsci/blueocean-plugin#4974
@@ -14673,12 +15012,14 @@ JENKINS-57536:jenkinsci/jenkins#20428
 JENKINS-57538:jenkinsci/blueocean-plugin#4976
 JENKINS-57546:jenkinsci/blueocean-plugin#4977
 JENKINS-57555:jenkinsci/jenkins#20429
+JENKINS-57557:jenkinsci/github-branch-source-plugin#1261
 JENKINS-57560:jenkinsci/git-plugin#3433
 JENKINS-57565:jenkinsci/jenkins#20430
 JENKINS-57567:jenkinsci/jenkins#20431
 JENKINS-57569:jenkinsci/jenkins#20432
 JENKINS-57573:jenkinsci/jenkins#20433
 JENKINS-57578:jenkinsci/jenkins#20434
+JENKINS-57583:jenkinsci/github-branch-source-plugin#1262
 JENKINS-57587:jenkinsci/git-plugin#3434
 JENKINS-57599:jenkinsci/jenkins#20435
 JENKINS-57601:jenkinsci/remoting#1381
@@ -14722,6 +15063,7 @@ JENKINS-57907:jenkinsci/jenkins#20456
 JENKINS-57915:jenkinsci/junit-plugin#1132
 JENKINS-57922:jenkinsci/jenkins#20457
 JENKINS-57929:jenkinsci/blueocean-plugin#4981
+JENKINS-57942:jenkinsci/github-branch-source-plugin#1263
 JENKINS-57959:jenkinsci/jenkins#20458
 JENKINS-57979:jenkinsci/jenkins#20459
 JENKINS-57980:jenkinsci/jenkins#20460
@@ -14745,12 +15087,15 @@ JENKINS-58088:jenkinsci/jenkins#20471
 JENKINS-58090:jenkinsci/jenkins#20472
 JENKINS-58093:jenkinsci/jenkins#20473
 JENKINS-58101:jenkinsci/jenkins#20474
+JENKINS-58111:jenkinsci/github-branch-source-plugin#1264
+JENKINS-58115:jenkinsci/github-branch-source-plugin#1265
 JENKINS-58130:jenkinsci/jenkins#20475
 JENKINS-58144:jenkinsci/jenkins#20476
 JENKINS-58156:jenkinsci/jenkins#20477
 JENKINS-58157:jenkinsci/jenkins#20478
 JENKINS-58163:jenkinsci/remoting#1386
 JENKINS-58166:jenkinsci/blueocean-plugin#4986
+JENKINS-58172:jenkinsci/github-branch-source-plugin#1266
 JENKINS-58178:jenkinsci/git-plugin#3443
 JENKINS-58183:jenkinsci/jenkins#20479
 JENKINS-58188:jenkinsci/remoting#1387
@@ -14761,6 +15106,7 @@ JENKINS-58224:jenkinsci/git-plugin#3444
 JENKINS-58239:jenkinsci/jenkins#20481
 JENKINS-58240:jenkinsci/jenkins#20482
 JENKINS-58248:jenkinsci/jenkins#20483
+JENKINS-58287:jenkinsci/github-branch-source-plugin#1267
 JENKINS-58294:jenkinsci/jenkins#20484
 JENKINS-58295:jenkinsci/jenkins#20485
 JENKINS-58296:jenkinsci/jenkins#20486
@@ -14780,9 +15126,11 @@ JENKINS-58406:jenkinsci/blueocean-plugin#4993
 JENKINS-58408:jenkinsci/jenkins#20493
 JENKINS-58421:jenkinsci/junit-plugin#1133
 JENKINS-58422:jenkinsci/blueocean-plugin#4994
+JENKINS-58426:jenkinsci/github-branch-source-plugin#1268
 JENKINS-58431:jenkinsci/jenkins#20494
 JENKINS-58434:jenkinsci/jenkins#20495
 JENKINS-58443:jenkinsci/jenkins#20496
+JENKINS-58450:jenkinsci/github-branch-source-plugin#1269
 JENKINS-58468:jenkinsci/git-plugin#3447
 JENKINS-58471:jenkinsci/git-plugin#3448
 JENKINS-58483:jenkinsci/jenkins#20497
@@ -14819,6 +15167,7 @@ JENKINS-58681:jenkinsci/jenkins#20515
 JENKINS-58689:jenkinsci/remoting#1390
 JENKINS-58692:jenkinsci/jenkins#20516
 JENKINS-58694:jenkinsci/jenkins#20517
+JENKINS-58696:jenkinsci/github-branch-source-plugin#1270
 JENKINS-58700:jenkinsci/jenkins#20518
 JENKINS-58702:jenkinsci/junit-plugin#1134
 JENKINS-58704:jenkinsci/blueocean-plugin#4999
@@ -14837,6 +15186,7 @@ JENKINS-58850:jenkinsci/blueocean-plugin#5000
 JENKINS-58852:jenkinsci/junit-plugin#1135
 JENKINS-58855:jenkinsci/jenkins#20528
 JENKINS-58860:jenkinsci/jenkins#20529
+JENKINS-58862:jenkinsci/github-branch-source-plugin#1271
 JENKINS-58867:jenkinsci/jenkins#20530
 JENKINS-58874:jenkinsci/jenkins#20531
 JENKINS-58884:jenkinsci/blueocean-plugin#5001
@@ -14852,13 +15202,16 @@ JENKINS-58921:jenkinsci/jenkins#20538
 JENKINS-58932:jenkinsci/jenkins#20539
 JENKINS-58936:jenkinsci/jenkins#20540
 JENKINS-58938:jenkinsci/jenkins#20541
+JENKINS-58939:jenkinsci/github-branch-source-plugin#1272
 JENKINS-58941:jenkinsci/jenkins#20542
+JENKINS-58942:jenkinsci/github-branch-source-plugin#1273
 JENKINS-58948:jenkinsci/blueocean-plugin#5004
 JENKINS-58950:jenkinsci/jenkins#20543
 JENKINS-58959:jenkinsci/jenkins#20544
 JENKINS-58960:jenkinsci/jenkins#20545
 JENKINS-58964:jenkinsci/git-plugin#3455
 JENKINS-58969:jenkinsci/blueocean-plugin#5005
+JENKINS-58971:jenkinsci/github-branch-source-plugin#1274
 JENKINS-58981:jenkinsci/jenkins#20546
 JENKINS-58992:jenkinsci/blueocean-plugin#5006
 JENKINS-58993:jenkinsci/jenkins#20547
@@ -14867,11 +15220,14 @@ JENKINS-58996:jenkinsci/jenkins#20549
 JENKINS-58998:jenkinsci/jenkins#20550
 JENKINS-59008:jenkinsci/git-plugin#3456
 JENKINS-59015:jenkinsci/jenkins#20551
+JENKINS-59016:jenkinsci/github-branch-source-plugin#1275
 JENKINS-59017:jenkinsci/jenkins#20552
 JENKINS-59034:jenkinsci/git-plugin#3457
+JENKINS-59039:jenkinsci/github-branch-source-plugin#1276
 JENKINS-59040:jenkinsci/jenkins#20553
 JENKINS-59047:jenkinsci/remoting#1391
 JENKINS-59058:jenkinsci/jenkins#20554
+JENKINS-59059:jenkinsci/github-branch-source-plugin#1277
 JENKINS-59065:jenkinsci/jenkins#20555
 JENKINS-59067:jenkinsci/blueocean-plugin#5007
 JENKINS-59071:jenkinsci/git-plugin#3458
@@ -14908,6 +15264,7 @@ JENKINS-59172:jenkinsci/junit-plugin#1136
 JENKINS-59181:jenkinsci/jenkins#20576
 JENKINS-59183:jenkinsci/git-plugin#3461
 JENKINS-59185:jenkinsci/git-plugin#3462
+JENKINS-59186:jenkinsci/github-branch-source-plugin#1278
 JENKINS-59194:jenkinsci/jenkins#20577
 JENKINS-59199:jenkinsci/jenkins#20578
 JENKINS-59203:jenkinsci/jenkins#20579
@@ -14943,6 +15300,8 @@ JENKINS-59311:jenkinsci/jenkins#20600
 JENKINS-59314:jenkinsci/jenkins#20601
 JENKINS-59316:jenkinsci/jenkins#20602
 JENKINS-59317:jenkinsci/git-plugin#3469
+JENKINS-59318:jenkinsci/github-branch-source-plugin#1279
+JENKINS-59321:jenkinsci/github-branch-source-plugin#1280
 JENKINS-59323:jenkinsci/jenkins#20603
 JENKINS-59324:jenkinsci/jenkins#20604
 JENKINS-59327:jenkinsci/git-plugin#3470
@@ -14976,6 +15335,7 @@ JENKINS-59463:jenkinsci/junit-plugin#1138
 JENKINS-59468:jenkinsci/jenkins#20621
 JENKINS-59476:jenkinsci/jenkins#20622
 JENKINS-59477:jenkinsci/remoting#1396
+JENKINS-59485:jenkinsci/github-branch-source-plugin#1281
 JENKINS-59486:jenkinsci/jenkins#20623
 JENKINS-59494:jenkinsci/jenkins#20624
 JENKINS-59497:jenkinsci/git-plugin#3475
@@ -14987,14 +15347,17 @@ JENKINS-59516:jenkinsci/git-plugin#3476
 JENKINS-59538:jenkinsci/jenkins#20629
 JENKINS-59540:jenkinsci/git-plugin#3477
 JENKINS-59544:jenkinsci/jenkins#20630
+JENKINS-59546:jenkinsci/github-branch-source-plugin#1282
 JENKINS-59547:jenkinsci/jenkins#20631
 JENKINS-59550:jenkinsci/jenkins#20632
 JENKINS-59552:jenkinsci/jenkins#20633
 JENKINS-59561:jenkinsci/git-plugin#3478
 JENKINS-59569:jenkinsci/git-plugin#3479
+JENKINS-59576:jenkinsci/github-branch-source-plugin#1283
 JENKINS-59580:jenkinsci/jenkins#20634
 JENKINS-59598:jenkinsci/git-plugin#3480
 JENKINS-59622:jenkinsci/git-plugin#3481
+JENKINS-59624:jenkinsci/github-branch-source-plugin#1284
 JENKINS-59625:jenkinsci/jenkins#20635
 JENKINS-59628:jenkinsci/jenkins#20636
 JENKINS-59631:jenkinsci/jenkins#20637
@@ -15003,6 +15366,7 @@ JENKINS-59656:jenkinsci/jenkins#20639
 JENKINS-59662:jenkinsci/jenkins#20640
 JENKINS-59665:jenkinsci/jenkins#20641
 JENKINS-59672:jenkinsci/jenkins#20642
+JENKINS-59673:jenkinsci/github-branch-source-plugin#1285
 JENKINS-59679:jenkinsci/jenkins#20643
 JENKINS-59681:jenkinsci/jenkins#20644
 JENKINS-59684:jenkinsci/jenkins#20645
@@ -15014,6 +15378,7 @@ JENKINS-59722:jenkinsci/jenkins#20648
 JENKINS-59733:jenkinsci/jenkins#20649
 JENKINS-59736:jenkinsci/git-plugin#3483
 JENKINS-59747:jenkinsci/jenkins#20650
+JENKINS-59751:jenkinsci/github-branch-source-plugin#1286
 JENKINS-59757:jenkinsci/blueocean-plugin#5019
 JENKINS-59758:jenkinsci/jenkins#20651
 JENKINS-59761:jenkinsci/jenkins#20652
@@ -15105,6 +15470,7 @@ JENKINS-60204:jenkinsci/git-plugin#3496
 JENKINS-60207:jenkinsci/jenkins#20711
 JENKINS-60218:jenkinsci/blueocean-plugin#5027
 JENKINS-60221:jenkinsci/remoting#1400
+JENKINS-60225:jenkinsci/github-branch-source-plugin#1287
 JENKINS-60229:jenkinsci/jenkins#20712
 JENKINS-60230:jenkinsci/jenkins#20713
 JENKINS-60234:jenkinsci/blueocean-plugin#5028
@@ -15133,6 +15499,7 @@ JENKINS-60326:jenkinsci/jenkins#20730
 JENKINS-60333:jenkinsci/jenkins#20731
 JENKINS-60348:jenkinsci/jenkins#20732
 JENKINS-60351:jenkinsci/jenkins#20733
+JENKINS-60353:jenkinsci/github-branch-source-plugin#1288
 JENKINS-60355:jenkinsci/jenkins#20734
 JENKINS-60357:jenkinsci/jenkins#20735
 JENKINS-60360:jenkinsci/git-plugin#3499
@@ -15144,6 +15511,7 @@ JENKINS-60394:jenkinsci/jenkins#20739
 JENKINS-60406:jenkinsci/jenkins#20740
 JENKINS-60409:jenkinsci/jenkins#20741
 JENKINS-60410:jenkinsci/jenkins#20742
+JENKINS-60413:jenkinsci/github-branch-source-plugin#1289
 JENKINS-60414:jenkinsci/jenkins#20743
 JENKINS-60415:jenkinsci/jenkins#20744
 JENKINS-60429:jenkinsci/jenkins#20745
@@ -15159,6 +15527,7 @@ JENKINS-60461:jenkinsci/git-plugin#3501
 JENKINS-60468:jenkinsci/jenkins#20753
 JENKINS-60471:jenkinsci/jenkins#20754
 JENKINS-60476:jenkinsci/jenkins#20755
+JENKINS-60480:jenkinsci/github-branch-source-plugin#1290
 JENKINS-60484:jenkinsci/jenkins#20756
 JENKINS-60494:jenkinsci/blueocean-plugin#5033
 JENKINS-60502:jenkinsci/jenkins#20757
@@ -15179,6 +15548,7 @@ JENKINS-60559:jenkinsci/jenkins#20769
 JENKINS-60562:jenkinsci/jenkins#20770
 JENKINS-60563:jenkinsci/jenkins#20771
 JENKINS-60564:jenkinsci/git-plugin#3503
+JENKINS-60566:jenkinsci/github-branch-source-plugin#1291
 JENKINS-60573:jenkinsci/jenkins#20772
 JENKINS-60575:jenkinsci/blueocean-plugin#5035
 JENKINS-60577:jenkinsci/jenkins#20773
@@ -15214,10 +15584,12 @@ JENKINS-60684:jenkinsci/jenkins#20788
 JENKINS-60686:jenkinsci/jenkins#20789
 JENKINS-60701:jenkinsci/jenkins#20790
 JENKINS-60710:jenkinsci/jenkins#20791
+JENKINS-60714:jenkinsci/github-branch-source-plugin#1292
 JENKINS-60716:jenkinsci/jenkins#20792
 JENKINS-60721:jenkinsci/jenkins#20793
 JENKINS-60725:jenkinsci/jenkins#20794
 JENKINS-60727:jenkinsci/git-plugin#3511
+JENKINS-60730:jenkinsci/github-branch-source-plugin#1293
 JENKINS-60731:jenkinsci/jenkins#20795
 JENKINS-60734:jenkinsci/jenkins#20796
 JENKINS-60740:jenkinsci/jenkins#20797
@@ -15228,7 +15600,9 @@ JENKINS-60768:jenkinsci/jenkins#20801
 JENKINS-60769:jenkinsci/jenkins#20802
 JENKINS-60774:jenkinsci/blueocean-plugin#5041
 JENKINS-60777:jenkinsci/jenkins#20803
+JENKINS-60783:jenkinsci/github-branch-source-plugin#1294
 JENKINS-60788:jenkinsci/jenkins#20804
+JENKINS-60792:jenkinsci/github-branch-source-plugin#1295
 JENKINS-60808:jenkinsci/jenkins#20805
 JENKINS-60813:jenkinsci/jenkins#20806
 JENKINS-60816:jenkinsci/jenkins#20807
@@ -15248,6 +15622,7 @@ JENKINS-60866:jenkinsci/jenkins#20819
 JENKINS-60867:jenkinsci/jenkins#20820
 JENKINS-60871:jenkinsci/jenkins#20821
 JENKINS-60872:jenkinsci/jenkins#20822
+JENKINS-60874:jenkinsci/github-branch-source-plugin#1296
 JENKINS-60875:jenkinsci/git-plugin#3513
 JENKINS-60884:jenkinsci/jenkins#20823
 JENKINS-60887:jenkinsci/jenkins#20824
@@ -15341,6 +15716,7 @@ JENKINS-61281:jenkinsci/blueocean-plugin#5046
 JENKINS-61284:jenkinsci/jenkins#11370
 JENKINS-61285:jenkinsci/jenkins#11371
 JENKINS-61287:jenkinsci/jenkins#11372
+JENKINS-61290:jenkinsci/github-branch-source-plugin#1297
 JENKINS-61294:jenkinsci/jenkins#11373
 JENKINS-61300:jenkinsci/jenkins#11374
 JENKINS-61301:jenkinsci/jenkins#11375
@@ -15401,6 +15777,7 @@ JENKINS-61480:jenkinsci/jenkins#11421
 JENKINS-61482:jenkinsci/jenkins#11422
 JENKINS-61487:jenkinsci/jenkins#11423
 JENKINS-61489:jenkinsci/jenkins#11424
+JENKINS-61490:jenkinsci/github-branch-source-plugin#1298
 JENKINS-61494:jenkinsci/git-plugin#3535
 JENKINS-61496:jenkinsci/jenkins#11425
 JENKINS-61497:jenkinsci/jenkins#11426
@@ -15424,6 +15801,7 @@ JENKINS-61693:jenkinsci/jenkins#11439
 JENKINS-61694:jenkinsci/jenkins#11440
 JENKINS-61696:jenkinsci/jenkins#11441
 JENKINS-61705:jenkinsci/blueocean-plugin#5049
+JENKINS-61707:jenkinsci/github-branch-source-plugin#1299
 JENKINS-61708:jenkinsci/remoting#1408
 JENKINS-61711:jenkinsci/jenkins#11442
 JENKINS-61717:jenkinsci/jenkins#11443
@@ -15469,6 +15847,7 @@ JENKINS-61871:jenkinsci/git-plugin#3545
 JENKINS-61872:jenkinsci/jenkins#11466
 JENKINS-61878:jenkinsci/jenkins#11467
 JENKINS-61879:jenkinsci/jenkins#11468
+JENKINS-61886:jenkinsci/github-branch-source-plugin#1300
 JENKINS-61889:jenkinsci/blueocean-plugin#5053
 JENKINS-61893:jenkinsci/jenkins#11469
 JENKINS-61895:jenkinsci/blueocean-plugin#5054
@@ -15479,6 +15858,7 @@ JENKINS-61907:jenkinsci/blueocean-plugin#5055
 JENKINS-61913:jenkinsci/jenkins#11473
 JENKINS-61920:jenkinsci/jenkins#11474
 JENKINS-61922:jenkinsci/git-plugin#3546
+JENKINS-61924:jenkinsci/github-branch-source-plugin#1301
 JENKINS-61926:jenkinsci/jenkins#11475
 JENKINS-61932:jenkinsci/jenkins#11476
 JENKINS-61955:jenkinsci/jenkins#11477
@@ -15518,10 +15898,13 @@ JENKINS-62068:jenkinsci/jenkins#11497
 JENKINS-62073:jenkinsci/jenkins#11498
 JENKINS-62075:jenkinsci/jenkins#11499
 JENKINS-62078:jenkinsci/git-plugin#3556
+JENKINS-62080:jenkinsci/github-branch-source-plugin#1302
 JENKINS-62088:jenkinsci/jenkins#11500
 JENKINS-62089:jenkinsci/jenkins#11501
+JENKINS-62093:jenkinsci/github-branch-source-plugin#1303
 JENKINS-62094:jenkinsci/jenkins#11502
 JENKINS-62096:jenkinsci/junit-plugin#1147
+JENKINS-62116:jenkinsci/github-branch-source-plugin#1304
 JENKINS-62117:jenkinsci/jenkins#11503
 JENKINS-62122:jenkinsci/jenkins#11504
 JENKINS-62126:jenkinsci/jenkins#11505
@@ -15533,6 +15916,7 @@ JENKINS-62150:jenkinsci/jenkins#11509
 JENKINS-62152:jenkinsci/jenkins#11510
 JENKINS-62153:jenkinsci/jenkins#11511
 JENKINS-62155:jenkinsci/blueocean-plugin#5339
+JENKINS-62157:jenkinsci/github-branch-source-plugin#1305
 JENKINS-62163:jenkinsci/jenkins#11512
 JENKINS-62164:jenkinsci/jenkins#11513
 JENKINS-62165:jenkinsci/jenkins#11514
@@ -15541,12 +15925,14 @@ JENKINS-62175:jenkinsci/jenkins#11516
 JENKINS-62178:jenkinsci/jenkins#11517
 JENKINS-62181:jenkinsci/jenkins#11518
 JENKINS-62183:jenkinsci/git-plugin#3558
+JENKINS-62220:jenkinsci/github-branch-source-plugin#1306
 JENKINS-62223:jenkinsci/git-plugin#3559
 JENKINS-62224:jenkinsci/jenkins#11519
 JENKINS-62231:jenkinsci/jenkins#11520
 JENKINS-62244:jenkinsci/jenkins#11521
 JENKINS-62245:jenkinsci/jenkins#11522
 JENKINS-62246:jenkinsci/git-plugin#3560
+JENKINS-62249:jenkinsci/github-branch-source-plugin#1307
 JENKINS-62250:jenkinsci/blueocean-plugin#5059
 JENKINS-62261:jenkinsci/git-plugin#3561
 JENKINS-62264:jenkinsci/jenkins#11523
@@ -15620,6 +16006,8 @@ JENKINS-62582:jenkinsci/jenkins#11577
 JENKINS-62583:jenkinsci/git-plugin#3567
 JENKINS-62588:jenkinsci/git-plugin#3568
 JENKINS-62592:jenkinsci/git-plugin#3569
+JENKINS-62594:jenkinsci/github-branch-source-plugin#1308
+JENKINS-62595:jenkinsci/github-branch-source-plugin#1309
 JENKINS-62596:jenkinsci/jenkins#11578
 JENKINS-62597:jenkinsci/jenkins#11579
 JENKINS-62598:jenkinsci/remoting#1413
@@ -15631,8 +16019,10 @@ JENKINS-62614:jenkinsci/jenkins#11584
 JENKINS-62616:jenkinsci/remoting#1414
 JENKINS-62622:jenkinsci/jenkins#11585
 JENKINS-62628:jenkinsci/git-plugin#3570
+JENKINS-62652:jenkinsci/github-branch-source-plugin#1310
 JENKINS-62653:jenkinsci/junit-plugin#1148
 JENKINS-62654:jenkinsci/jenkins#11586
+JENKINS-62655:jenkinsci/github-branch-source-plugin#1311
 JENKINS-62661:jenkinsci/jenkins#11587
 JENKINS-62662:jenkinsci/blueocean-plugin#5065
 JENKINS-62666:jenkinsci/blueocean-plugin#5066
@@ -15644,12 +16034,14 @@ JENKINS-62695:jenkinsci/jenkins#11591
 JENKINS-62698:jenkinsci/jenkins#11592
 JENKINS-62704:jenkinsci/git-plugin#3571
 JENKINS-62714:jenkinsci/jenkins#11593
+JENKINS-62722:jenkinsci/github-branch-source-plugin#1312
 JENKINS-62723:jenkinsci/jenkins#11594
 JENKINS-62728:jenkinsci/packaging#678
 JENKINS-62738:jenkinsci/remoting#1415
 JENKINS-62747:jenkinsci/jenkins#11595
 JENKINS-62750:jenkinsci/jenkins#11596
 JENKINS-62757:jenkinsci/jenkins#11597
+JENKINS-62765:jenkinsci/github-branch-source-plugin#1313
 JENKINS-62774:jenkinsci/jenkins#11598
 JENKINS-62775:jenkinsci/junit-plugin#1149
 JENKINS-62778:jenkinsci/jenkins#11599
@@ -15667,7 +16059,11 @@ JENKINS-62889:jenkinsci/jenkins#11605
 JENKINS-62896:jenkinsci/jenkins#11606
 JENKINS-62905:jenkinsci/git-plugin#3574
 JENKINS-62912:jenkinsci/junit-plugin#1150
+JENKINS-62914:jenkinsci/github-branch-source-plugin#1314
+JENKINS-62922:jenkinsci/github-branch-source-plugin#1315
 JENKINS-62923:jenkinsci/jenkins#11607
+JENKINS-62924:jenkinsci/github-branch-source-plugin#1316
+JENKINS-62937:jenkinsci/github-branch-source-plugin#1317
 JENKINS-62942:jenkinsci/jenkins#11608
 JENKINS-62949:jenkinsci/jenkins#11609
 JENKINS-62984:jenkinsci/blueocean-plugin#5069
@@ -15688,6 +16084,7 @@ JENKINS-63052:jenkinsci/jenkins#11619
 JENKINS-63061:jenkinsci/jenkins#11620
 JENKINS-63068:jenkinsci/blueocean-plugin#5070
 JENKINS-63076:jenkinsci/jenkins#11621
+JENKINS-63078:jenkinsci/github-branch-source-plugin#1318
 JENKINS-63082:jenkinsci/jenkins#11622
 JENKINS-63104:jenkinsci/jenkins#11623
 JENKINS-63113:jenkinsci/junit-plugin#1152
@@ -15718,6 +16115,7 @@ JENKINS-63240:jenkinsci/jenkins#11644
 JENKINS-63241:jenkinsci/git-plugin#3577
 JENKINS-63256:jenkinsci/git-plugin#3578
 JENKINS-63260:jenkinsci/junit-plugin#1153
+JENKINS-63265:jenkinsci/github-branch-source-plugin#1319
 JENKINS-63267:jenkinsci/jenkins#11645
 JENKINS-63269:jenkinsci/jenkins#11646
 JENKINS-63274:jenkinsci/jenkins#11647
@@ -15741,6 +16139,7 @@ JENKINS-63335:jenkinsci/jenkins#11660
 JENKINS-63339:jenkinsci/junit-plugin#1154
 JENKINS-63342:jenkinsci/jenkins#11661
 JENKINS-63343:jenkinsci/jenkins#11662
+JENKINS-63348:jenkinsci/github-branch-source-plugin#1320
 JENKINS-63360:jenkinsci/jenkins#11663
 JENKINS-63361:jenkinsci/junit-plugin#1155
 JENKINS-63362:jenkinsci/jenkins#11664
@@ -15767,6 +16166,7 @@ JENKINS-63451:jenkinsci/jenkins#11678
 JENKINS-63457:jenkinsci/git-plugin#3583
 JENKINS-63458:jenkinsci/jenkins#11679
 JENKINS-63462:jenkinsci/jenkins#11680
+JENKINS-63466:jenkinsci/github-branch-source-plugin#1321
 JENKINS-63467:jenkinsci/jenkins#11681
 JENKINS-63471:jenkinsci/jenkins#11682
 JENKINS-63474:jenkinsci/jenkins#11683
@@ -15834,6 +16234,7 @@ JENKINS-63697:jenkinsci/jenkins#11719
 JENKINS-63698:jenkinsci/blueocean-plugin#5076
 JENKINS-63699:jenkinsci/jenkins#11720
 JENKINS-63704:jenkinsci/jenkins#11721
+JENKINS-63711:jenkinsci/github-branch-source-plugin#1322
 JENKINS-63712:jenkinsci/jenkins#11722
 JENKINS-63716:jenkinsci/jenkins#11723
 JENKINS-63718:jenkinsci/jenkins#11724
@@ -15864,9 +16265,11 @@ JENKINS-63798:jenkinsci/jenkins#11739
 JENKINS-63801:jenkinsci/jenkins#11740
 JENKINS-63803:jenkinsci/packaging#680
 JENKINS-63804:jenkinsci/remoting#1425
+JENKINS-63816:jenkinsci/github-branch-source-plugin#1323
 JENKINS-63818:jenkinsci/jenkins#11741
 JENKINS-63828:jenkinsci/jenkins#11742
 JENKINS-63833:jenkinsci/jenkins#11743
+JENKINS-63837:jenkinsci/github-branch-source-plugin#1324
 JENKINS-63840:jenkinsci/jenkins#11744
 JENKINS-63843:jenkinsci/git-plugin#3606
 JENKINS-63845:jenkinsci/jenkins#11745
@@ -15920,6 +16323,7 @@ JENKINS-64004:jenkinsci/jenkins#11781
 JENKINS-64010:jenkinsci/blueocean-plugin#5084
 JENKINS-64012:jenkinsci/jenkins#11782
 JENKINS-64014:jenkinsci/blueocean-plugin#5085
+JENKINS-64016:jenkinsci/github-branch-source-plugin#1325
 JENKINS-64025:jenkinsci/jenkins#11783
 JENKINS-64026:jenkinsci/git-plugin#3611
 JENKINS-64031:jenkinsci/git-plugin#3612
@@ -15959,6 +16363,7 @@ JENKINS-64178:jenkinsci/remoting#1427
 JENKINS-64182:jenkinsci/remoting#1428
 JENKINS-64194:jenkinsci/blueocean-plugin#5090
 JENKINS-64196:jenkinsci/jenkins#11806
+JENKINS-64201:jenkinsci/github-branch-source-plugin#1326
 JENKINS-64212:jenkinsci/packaging#681
 JENKINS-64218:jenkinsci/jenkins#11807
 JENKINS-64221:jenkinsci/jenkins#11808
@@ -15966,6 +16371,7 @@ JENKINS-64222:jenkinsci/jenkins#11809
 JENKINS-64226:jenkinsci/jenkins#11810
 JENKINS-64227:jenkinsci/jenkins#11811
 JENKINS-64237:jenkinsci/jenkins#11812
+JENKINS-64249:jenkinsci/github-branch-source-plugin#1327
 JENKINS-64252:jenkinsci/jenkins#11813
 JENKINS-64267:jenkinsci/jenkins#11814
 JENKINS-64272:jenkinsci/jenkins#11815
@@ -16002,9 +16408,11 @@ JENKINS-64362:jenkinsci/jenkins#11835
 JENKINS-64364:jenkinsci/junit-plugin#1167
 JENKINS-64366:jenkinsci/jenkins#11836
 JENKINS-64371:jenkinsci/git-plugin#3621
+JENKINS-64373:jenkinsci/github-branch-source-plugin#1328
 JENKINS-64383:jenkinsci/git-plugin#3622
 JENKINS-64384:jenkinsci/git-plugin#3623
 JENKINS-64387:jenkinsci/git-plugin#3624
+JENKINS-64389:jenkinsci/github-branch-source-plugin#1329
 JENKINS-64390:jenkinsci/jenkins#11837
 JENKINS-64391:jenkinsci/jenkins#11838
 JENKINS-64393:jenkinsci/jenkins#11839
@@ -16025,6 +16433,7 @@ JENKINS-64433:jenkinsci/jenkins#11850
 JENKINS-64435:jenkinsci/jenkins#11851
 JENKINS-64438:jenkinsci/jenkins#11852
 JENKINS-64439:jenkinsci/jenkins#11853
+JENKINS-64441:jenkinsci/github-branch-source-plugin#1330
 JENKINS-64445:jenkinsci/jenkins#11854
 JENKINS-64447:jenkinsci/jenkins#11855
 JENKINS-64449:jenkinsci/jenkins#11856
@@ -16035,6 +16444,8 @@ JENKINS-64465:jenkinsci/jenkins#11860
 JENKINS-64476:jenkinsci/jenkins#11861
 JENKINS-64479:jenkinsci/jenkins#11862
 JENKINS-64483:jenkinsci/jenkins#11863
+JENKINS-64493:jenkinsci/github-branch-source-plugin#1331
+JENKINS-64494:jenkinsci/github-branch-source-plugin#1332
 JENKINS-64497:jenkinsci/remoting#1430
 JENKINS-64501:jenkinsci/jenkins#11864
 JENKINS-64504:jenkinsci/jenkins#11865
@@ -16055,6 +16466,8 @@ JENKINS-64586:jenkinsci/junit-plugin#1170
 JENKINS-64587:jenkinsci/junit-plugin#1171
 JENKINS-64590:jenkinsci/jenkins#11873
 JENKINS-64592:jenkinsci/junit-plugin#1172
+JENKINS-64595:jenkinsci/github-branch-source-plugin#1333
+JENKINS-64601:jenkinsci/github-branch-source-plugin#1334
 JENKINS-64603:jenkinsci/git-plugin#3630
 JENKINS-64619:jenkinsci/jenkins#11874
 JENKINS-64621:jenkinsci/jenkins#11875
@@ -16072,6 +16485,7 @@ JENKINS-64655:jenkinsci/jenkins#11884
 JENKINS-64656:jenkinsci/git-plugin#3632
 JENKINS-64659:jenkinsci/jenkins#11885
 JENKINS-64660:jenkinsci/jenkins#11886
+JENKINS-64662:jenkinsci/github-branch-source-plugin#1335
 JENKINS-64665:jenkinsci/jenkins#11887
 JENKINS-64666:jenkinsci/jenkins#11888
 JENKINS-64669:jenkinsci/jenkins#11889
@@ -16086,9 +16500,11 @@ JENKINS-64703:jenkinsci/jenkins#11896
 JENKINS-64712:jenkinsci/git-plugin#3634
 JENKINS-64713:jenkinsci/git-plugin#3635
 JENKINS-64715:jenkinsci/jenkins#11897
+JENKINS-64718:jenkinsci/github-branch-source-plugin#1336
 JENKINS-64719:jenkinsci/git-plugin#3636
 JENKINS-64720:jenkinsci/git-plugin#3637
 JENKINS-64726:jenkinsci/jenkins#11898
+JENKINS-64733:jenkinsci/github-branch-source-plugin#1337
 JENKINS-64736:jenkinsci/jenkins#11899
 JENKINS-64745:jenkinsci/jenkins#11900
 JENKINS-64746:jenkinsci/jenkins#11901
@@ -16102,7 +16518,9 @@ JENKINS-64766:jenkinsci/jenkins#11906
 JENKINS-64767:jenkinsci/jenkins#11907
 JENKINS-64775:jenkinsci/jenkins#11908
 JENKINS-64777:jenkinsci/jenkins#11909
+JENKINS-64791:jenkinsci/github-branch-source-plugin#1338
 JENKINS-64797:jenkinsci/jenkins#11910
+JENKINS-64804:jenkinsci/github-branch-source-plugin#1339
 JENKINS-64805:jenkinsci/jenkins#11911
 JENKINS-64808:jenkinsci/blueocean-plugin#5341
 JENKINS-64811:jenkinsci/jenkins#11912
@@ -16110,6 +16528,7 @@ JENKINS-64816:jenkinsci/jenkins#11913
 JENKINS-64818:jenkinsci/jenkins#11914
 JENKINS-64820:jenkinsci/remoting#1433
 JENKINS-64822:jenkinsci/blueocean-plugin#5096
+JENKINS-64824:jenkinsci/github-branch-source-plugin#1340
 JENKINS-64826:jenkinsci/jenkins#11915
 JENKINS-64829:jenkinsci/jenkins#11916
 JENKINS-64831:jenkinsci/remoting#1434
@@ -16124,10 +16543,13 @@ JENKINS-64851:jenkinsci/git-plugin#3639
 JENKINS-64857:jenkinsci/jenkins#11922
 JENKINS-64861:jenkinsci/jenkins#11923
 JENKINS-64868:jenkinsci/jenkins#11924
+JENKINS-64870:jenkinsci/github-branch-source-plugin#1341
 JENKINS-64878:jenkinsci/jenkins#11925
+JENKINS-64896:jenkinsci/github-branch-source-plugin#1342
 JENKINS-64903:jenkinsci/jenkins#11926
 JENKINS-64906:jenkinsci/jenkins#11927
 JENKINS-64908:jenkinsci/jenkins#11928
+JENKINS-64911:jenkinsci/github-branch-source-plugin#1343
 JENKINS-64914:jenkinsci/jenkins#11929
 JENKINS-64922:jenkinsci/jenkins#11930
 JENKINS-64923:jenkinsci/git-plugin#3640
@@ -16141,14 +16563,18 @@ JENKINS-64961:jenkinsci/jenkins#11935
 JENKINS-64965:jenkinsci/jenkins#11936
 JENKINS-64972:jenkinsci/jenkins#11937
 JENKINS-64979:jenkinsci/jenkins#11938
+JENKINS-64987:jenkinsci/github-branch-source-plugin#1344
 JENKINS-64991:jenkinsci/jenkins#11939
 JENKINS-64992:jenkinsci/remoting#1436
 JENKINS-64993:jenkinsci/jenkins#11940
 JENKINS-64995:jenkinsci/blueocean-plugin#5098
+JENKINS-65006:jenkinsci/github-branch-source-plugin#1345
+JENKINS-65007:jenkinsci/github-branch-source-plugin#1346
 JENKINS-65014:jenkinsci/jenkins#11941
 JENKINS-65017:jenkinsci/jenkins#11942
 JENKINS-65021:jenkinsci/jenkins#11943
 JENKINS-65025:jenkinsci/jenkins#11944
+JENKINS-65029:jenkinsci/github-branch-source-plugin#1347
 JENKINS-65033:jenkinsci/jenkins#11945
 JENKINS-65034:jenkinsci/jenkins#11946
 JENKINS-65046:jenkinsci/remoting#1437
@@ -16157,6 +16583,8 @@ JENKINS-65055:jenkinsci/git-plugin#3642
 JENKINS-65060:jenkinsci/blueocean-plugin#5099
 JENKINS-65065:jenkinsci/blueocean-plugin#5100
 JENKINS-65066:jenkinsci/jenkins#11948
+JENKINS-65071:jenkinsci/github-branch-source-plugin#1348
+JENKINS-65072:jenkinsci/github-branch-source-plugin#1349
 JENKINS-65079:jenkinsci/remoting#1438
 JENKINS-65081:jenkinsci/blueocean-plugin#5101
 JENKINS-65082:jenkinsci/blueocean-plugin#5102
@@ -16177,6 +16605,7 @@ JENKINS-65143:jenkinsci/jenkins#11958
 JENKINS-65149:jenkinsci/jenkins#11959
 JENKINS-65151:jenkinsci/jenkins#11960
 JENKINS-65153:jenkinsci/blueocean-plugin#5103
+JENKINS-65156:jenkinsci/github-branch-source-plugin#1350
 JENKINS-65161:jenkinsci/jenkins#11961
 JENKINS-65172:jenkinsci/jenkins#11962
 JENKINS-65178:jenkinsci/jenkins#11963
@@ -16197,6 +16626,7 @@ JENKINS-65233:jenkinsci/jenkins#11974
 JENKINS-65237:jenkinsci/jenkins#11975
 JENKINS-65238:jenkinsci/jenkins#11976
 JENKINS-65239:jenkinsci/jenkins#11977
+JENKINS-65253:jenkinsci/github-branch-source-plugin#1351
 JENKINS-65256:jenkinsci/jenkins#11978
 JENKINS-65257:jenkinsci/git-plugin#3646
 JENKINS-65260:jenkinsci/jenkins#11979
@@ -16220,6 +16650,7 @@ JENKINS-65329:jenkinsci/jenkins#11991
 JENKINS-65336:jenkinsci/jenkins#11992
 JENKINS-65346:jenkinsci/jenkins#11993
 JENKINS-65351:jenkinsci/jenkins#11994
+JENKINS-65354:jenkinsci/github-branch-source-plugin#1352
 JENKINS-65358:jenkinsci/jenkins#11995
 JENKINS-65359:jenkinsci/git-plugin#3649
 JENKINS-65361:jenkinsci/jenkins#11996
@@ -16230,6 +16661,7 @@ JENKINS-65377:jenkinsci/jenkins#11997
 JENKINS-65385:jenkinsci/jenkins#11998
 JENKINS-65386:jenkinsci/jenkins#11999
 JENKINS-65388:jenkinsci/jenkins#12000
+JENKINS-65392:jenkinsci/github-branch-source-plugin#1353
 JENKINS-65395:jenkinsci/git-plugin#3652
 JENKINS-65398:jenkinsci/jenkins#12001
 JENKINS-65402:jenkinsci/jenkins#12002
@@ -16249,6 +16681,7 @@ JENKINS-65469:jenkinsci/jenkins#12011
 JENKINS-65483:jenkinsci/jenkins#12012
 JENKINS-65486:jenkinsci/jenkins#12013
 JENKINS-65492:jenkinsci/jenkins#12014
+JENKINS-65493:jenkinsci/github-branch-source-plugin#1354
 JENKINS-65495:jenkinsci/jenkins#12015
 JENKINS-65500:jenkinsci/jenkins#12016
 JENKINS-65501:jenkinsci/jenkins#12017
@@ -16296,16 +16729,20 @@ JENKINS-65667:jenkinsci/jenkins#12048
 JENKINS-65669:jenkinsci/jenkins#12049
 JENKINS-65676:jenkinsci/jenkins#12050
 JENKINS-65686:jenkinsci/blueocean-plugin#5111
+JENKINS-65693:jenkinsci/github-branch-source-plugin#1355
 JENKINS-65702:jenkinsci/jenkins#12051
 JENKINS-65703:jenkinsci/jenkins#12052
 JENKINS-65709:jenkinsci/jenkins#12053
+JENKINS-65725:jenkinsci/github-branch-source-plugin#1356
 JENKINS-65735:jenkinsci/jenkins#12054
 JENKINS-65736:jenkinsci/git-plugin#3660
+JENKINS-65746:jenkinsci/github-branch-source-plugin#1357
 JENKINS-65751:jenkinsci/jenkins#12055
 JENKINS-65753:jenkinsci/blueocean-plugin#5112
 JENKINS-65754:jenkinsci/packaging#683
 JENKINS-65755:jenkinsci/jenkins#12056
 JENKINS-65758:jenkinsci/jenkins#12057
+JENKINS-65765:jenkinsci/github-branch-source-plugin#1358
 JENKINS-65766:jenkinsci/jenkins#12058
 JENKINS-65791:jenkinsci/jenkins#12059
 JENKINS-65798:jenkinsci/git-plugin#3661
@@ -16313,6 +16750,7 @@ JENKINS-65807:jenkinsci/jenkins#12060
 JENKINS-65808:jenkinsci/jenkins#12061
 JENKINS-65809:jenkinsci/jenkins#12062
 JENKINS-65819:jenkinsci/jenkins#12063
+JENKINS-65822:jenkinsci/github-branch-source-plugin#1359
 JENKINS-65826:jenkinsci/jenkins#12064
 JENKINS-65827:jenkinsci/jenkins#12065
 JENKINS-65829:jenkinsci/jenkins#12066
@@ -16350,9 +16788,12 @@ JENKINS-65959:jenkinsci/git-plugin#3666
 JENKINS-65960:jenkinsci/jenkins#12091
 JENKINS-65964:jenkinsci/junit-plugin#1176
 JENKINS-65966:jenkinsci/jenkins#12092
+JENKINS-65970:jenkinsci/github-branch-source-plugin#1360
+JENKINS-65978:jenkinsci/github-branch-source-plugin#1361
 JENKINS-65988:jenkinsci/jenkins#12093
 JENKINS-65989:jenkinsci/jenkins#12094
 JENKINS-65990:jenkinsci/jenkins#12095
+JENKINS-65992:jenkinsci/github-branch-source-plugin#1362
 JENKINS-65993:jenkinsci/jenkins#12096
 JENKINS-66004:jenkinsci/jenkins#12097
 JENKINS-66017:jenkinsci/jenkins#12098
@@ -16369,17 +16810,21 @@ JENKINS-66086:jenkinsci/jenkins#12105
 JENKINS-66088:jenkinsci/jenkins#12106
 JENKINS-66091:jenkinsci/jenkins#12107
 JENKINS-66094:jenkinsci/jenkins#12108
+JENKINS-66100:jenkinsci/github-branch-source-plugin#1363
+JENKINS-66102:jenkinsci/github-branch-source-plugin#1364
 JENKINS-66104:jenkinsci/jenkins#12109
 JENKINS-66109:jenkinsci/jenkins#12110
 JENKINS-66133:jenkinsci/jenkins#12111
 JENKINS-66135:jenkinsci/junit-plugin#1177
 JENKINS-66139:jenkinsci/jenkins#12112
 JENKINS-66144:jenkinsci/jenkins#12113
+JENKINS-66148:jenkinsci/github-branch-source-plugin#1365
 JENKINS-66149:jenkinsci/git-plugin#3670
 JENKINS-66161:jenkinsci/jenkins#12114
 JENKINS-66172:jenkinsci/remoting#1445
 JENKINS-66174:jenkinsci/jenkins#12115
 JENKINS-66177:jenkinsci/jenkins#12116
+JENKINS-66185:jenkinsci/github-branch-source-plugin#1366
 JENKINS-66187:jenkinsci/jenkins#12117
 JENKINS-66190:jenkinsci/jenkins#12118
 JENKINS-66198:jenkinsci/jenkins#12119
@@ -16410,13 +16855,18 @@ JENKINS-66341:jenkinsci/jenkins#12137
 JENKINS-66343:jenkinsci/jenkins#12138
 JENKINS-66346:jenkinsci/jenkins#12139
 JENKINS-66347:jenkinsci/packaging#685
+JENKINS-66351:jenkinsci/github-branch-source-plugin#1367
 JENKINS-66352:jenkinsci/jenkins#12140
+JENKINS-66356:jenkinsci/github-branch-source-plugin#1368
 JENKINS-66359:jenkinsci/packaging#686
 JENKINS-66361:jenkinsci/packaging#687
+JENKINS-66366:jenkinsci/github-branch-source-plugin#1369
 JENKINS-66368:jenkinsci/packaging#688
 JENKINS-66377:jenkinsci/blueocean-plugin#5114
 JENKINS-66379:jenkinsci/jenkins#12141
+JENKINS-66381:jenkinsci/github-branch-source-plugin#1370
 JENKINS-66393:jenkinsci/jenkins#12142
+JENKINS-66401:jenkinsci/github-branch-source-plugin#1371
 JENKINS-66413:jenkinsci/jenkins#12143
 JENKINS-66420:jenkinsci/jenkins#12144
 JENKINS-66423:jenkinsci/jenkins#12145
@@ -16436,8 +16886,10 @@ JENKINS-66473:jenkinsci/git-plugin#3677
 JENKINS-66489:jenkinsci/jenkins#12151
 JENKINS-66490:jenkinsci/jenkins#12152
 JENKINS-66491:jenkinsci/jenkins#12153
+JENKINS-66503:jenkinsci/github-branch-source-plugin#1372
 JENKINS-66507:jenkinsci/jenkins#12154
 JENKINS-66508:jenkinsci/jenkins#12155
+JENKINS-66515:jenkinsci/github-branch-source-plugin#1373
 JENKINS-66521:jenkinsci/jenkins#12156
 JENKINS-66525:jenkinsci/git-plugin#3678
 JENKINS-66526:jenkinsci/remoting#1449
@@ -16457,6 +16909,7 @@ JENKINS-66592:jenkinsci/jenkins#12165
 JENKINS-66593:jenkinsci/jenkins#12166
 JENKINS-66599:jenkinsci/git-plugin#3682
 JENKINS-66602:jenkinsci/jenkins#12167
+JENKINS-66608:jenkinsci/github-branch-source-plugin#1374
 JENKINS-66610:jenkinsci/jenkins#12168
 JENKINS-66613:jenkinsci/jenkins#12169
 JENKINS-66623:jenkinsci/jenkins#12170
@@ -16471,9 +16924,12 @@ JENKINS-66651:jenkinsci/git-plugin#3683
 JENKINS-66656:jenkinsci/git-plugin#3684
 JENKINS-66658:jenkinsci/jenkins#12178
 JENKINS-66659:jenkinsci/jenkins#12179
+JENKINS-66661:jenkinsci/github-branch-source-plugin#1375
 JENKINS-66667:jenkinsci/jenkins#12180
+JENKINS-66675:jenkinsci/github-branch-source-plugin#1376
 JENKINS-66677:jenkinsci/jenkins#12181
 JENKINS-66678:jenkinsci/jenkins#12182
+JENKINS-66679:jenkinsci/github-branch-source-plugin#1377
 JENKINS-66680:jenkinsci/jenkins#12183
 JENKINS-66681:jenkinsci/jenkins#12184
 JENKINS-66692:jenkinsci/git-plugin#3685
@@ -16500,11 +16956,13 @@ JENKINS-66769:jenkinsci/jenkins#12203
 JENKINS-66771:jenkinsci/jenkins#12204
 JENKINS-66774:jenkinsci/git-plugin#3687
 JENKINS-66776:jenkinsci/jenkins#12205
+JENKINS-66782:jenkinsci/github-branch-source-plugin#1378
 JENKINS-66795:jenkinsci/jenkins#12206
 JENKINS-66797:jenkinsci/jenkins#12207
 JENKINS-66803:jenkinsci/git-plugin#3688
 JENKINS-66805:jenkinsci/junit-plugin#1180
 JENKINS-66808:jenkinsci/blueocean-plugin#5116
+JENKINS-66821:jenkinsci/github-branch-source-plugin#1379
 JENKINS-66823:jenkinsci/git-plugin#3689
 JENKINS-66833:jenkinsci/jenkins#12208
 JENKINS-66842:jenkinsci/blueocean-plugin#5117
@@ -16535,9 +16993,11 @@ JENKINS-66996:jenkinsci/jenkins#12227
 JENKINS-66998:jenkinsci/jenkins#12228
 JENKINS-67000:jenkinsci/remoting#1451
 JENKINS-67002:jenkinsci/jenkins#12229
+JENKINS-67005:jenkinsci/github-branch-source-plugin#1380
 JENKINS-67010:jenkinsci/git-plugin#3693
 JENKINS-67011:jenkinsci/jenkins#12230
 JENKINS-67021:jenkinsci/git-plugin#3694
+JENKINS-67023:jenkinsci/github-branch-source-plugin#1381
 JENKINS-67025:jenkinsci/jenkins#12231
 JENKINS-67028:jenkinsci/jenkins#12232
 JENKINS-67030:jenkinsci/jenkins#12233
@@ -16588,6 +17048,7 @@ JENKINS-67198:jenkinsci/jenkins#12271
 JENKINS-67204:jenkinsci/jenkins#12272
 JENKINS-67207:jenkinsci/jenkins#12273
 JENKINS-67214:jenkinsci/git-plugin#3698
+JENKINS-67221:jenkinsci/github-branch-source-plugin#1382
 JENKINS-67222:jenkinsci/jenkins#12274
 JENKINS-67225:jenkinsci/jenkins#12275
 JENKINS-67226:jenkinsci/jenkins#12276
@@ -16655,6 +17116,7 @@ JENKINS-67559:jenkinsci/jenkins#12318
 JENKINS-67570:jenkinsci/jenkins#12319
 JENKINS-67579:jenkinsci/jenkins#12320
 JENKINS-67586:jenkinsci/jenkins#12321
+JENKINS-67597:jenkinsci/github-branch-source-plugin#1383
 JENKINS-67600:jenkinsci/git-plugin#3706
 JENKINS-67601:jenkinsci/jenkins#12322
 JENKINS-67602:jenkinsci/jenkins#12323
@@ -16708,6 +17170,7 @@ JENKINS-67801:jenkinsci/junit-plugin#1184
 JENKINS-67810:jenkinsci/blueocean-plugin#5122
 JENKINS-67815:jenkinsci/jenkins#17876
 JENKINS-67823:jenkinsci/jenkins#17877
+JENKINS-67826:jenkinsci/github-branch-source-plugin#1384
 JENKINS-67827:jenkinsci/jenkins#17878
 JENKINS-67828:jenkinsci/jenkins#17879
 JENKINS-67829:jenkinsci/remoting#1459
@@ -16728,6 +17191,7 @@ JENKINS-67869:jenkinsci/jenkins#17891
 JENKINS-67881:jenkinsci/jenkins#17892
 JENKINS-67884:jenkinsci/jenkins#17893
 JENKINS-67885:jenkinsci/jenkins#17894
+JENKINS-67888:jenkinsci/github-branch-source-plugin#1385
 JENKINS-67894:jenkinsci/packaging#695
 JENKINS-67896:jenkinsci/git-plugin#3710
 JENKINS-67899:jenkinsci/jenkins#17895
@@ -16739,6 +17203,7 @@ JENKINS-67909:jenkinsci/jenkins#17900
 JENKINS-67911:jenkinsci/jenkins#17901
 JENKINS-67912:jenkinsci/jenkins#17902
 JENKINS-67913:jenkinsci/remoting#1460
+JENKINS-67918:jenkinsci/github-branch-source-plugin#1386
 JENKINS-67920:jenkinsci/git-plugin#3711
 JENKINS-67926:jenkinsci/jenkins#17903
 JENKINS-67928:jenkinsci/remoting#1461
@@ -16747,6 +17212,7 @@ JENKINS-67930:jenkinsci/jenkins#17905
 JENKINS-67933:jenkinsci/jenkins#17906
 JENKINS-67937:jenkinsci/jenkins#17907
 JENKINS-67939:jenkinsci/git-plugin#3712
+JENKINS-67946:jenkinsci/github-branch-source-plugin#1387
 JENKINS-67950:jenkinsci/jenkins#17908
 JENKINS-67953:jenkinsci/jenkins#17909
 JENKINS-67960:jenkinsci/jenkins#17910
@@ -16761,6 +17227,7 @@ JENKINS-67981:jenkinsci/git-plugin#3713
 JENKINS-67984:jenkinsci/git-plugin#3714
 JENKINS-67992:jenkinsci/jenkins#17918
 JENKINS-67995:jenkinsci/jenkins#17919
+JENKINS-67998:jenkinsci/github-branch-source-plugin#1388
 JENKINS-68001:jenkinsci/jenkins#17920
 JENKINS-68004:jenkinsci/blueocean-plugin#5124
 JENKINS-68015:jenkinsci/jenkins#17921
@@ -16792,6 +17259,7 @@ JENKINS-68106:jenkinsci/jenkins#17942
 JENKINS-68107:jenkinsci/jenkins#17943
 JENKINS-68111:jenkinsci/jenkins#17944
 JENKINS-68112:jenkinsci/git-plugin#3716
+JENKINS-68116:jenkinsci/github-branch-source-plugin#1389
 JENKINS-68119:jenkinsci/jenkins#17945
 JENKINS-68120:jenkinsci/jenkins#17946
 JENKINS-68121:jenkinsci/jenkins#17947
@@ -16802,6 +17270,7 @@ JENKINS-68132:jenkinsci/jenkins#17951
 JENKINS-68133:jenkinsci/jenkins#17952
 JENKINS-68137:jenkinsci/jenkins#17953
 JENKINS-68149:jenkinsci/jenkins#17954
+JENKINS-68151:jenkinsci/github-branch-source-plugin#1390
 JENKINS-68152:jenkinsci/jenkins#17955
 JENKINS-68155:jenkinsci/jenkins#17956
 JENKINS-68160:jenkinsci/jenkins#17957
@@ -16820,6 +17289,7 @@ JENKINS-68205:jenkinsci/jenkins#17967
 JENKINS-68208:jenkinsci/jenkins#17968
 JENKINS-68211:jenkinsci/jenkins#17969
 JENKINS-68215:jenkinsci/jenkins#17970
+JENKINS-68217:jenkinsci/github-branch-source-plugin#1391
 JENKINS-68218:jenkinsci/jenkins#17971
 JENKINS-68221:jenkinsci/jenkins#17972
 JENKINS-68224:jenkinsci/jenkins#17973
@@ -16836,7 +17306,9 @@ JENKINS-68248:jenkinsci/jenkins#17983
 JENKINS-68249:jenkinsci/jenkins#17984
 JENKINS-68251:jenkinsci/jenkins#17985
 JENKINS-68254:jenkinsci/jenkins#17986
+JENKINS-68259:jenkinsci/github-branch-source-plugin#1392
 JENKINS-68260:jenkinsci/jenkins#17987
+JENKINS-68261:jenkinsci/github-branch-source-plugin#1393
 JENKINS-68262:jenkinsci/jenkins#17988
 JENKINS-68263:jenkinsci/blueocean-plugin#5128
 JENKINS-68264:jenkinsci/jenkins#17989
@@ -16855,6 +17327,7 @@ JENKINS-68291:jenkinsci/jenkins#17998
 JENKINS-68293:jenkinsci/jenkins#17999
 JENKINS-68295:jenkinsci/jenkins#18000
 JENKINS-68296:jenkinsci/jenkins#18001
+JENKINS-68299:jenkinsci/github-branch-source-plugin#1394
 JENKINS-68300:jenkinsci/blueocean-plugin#5129
 JENKINS-68302:jenkinsci/jenkins#18002
 JENKINS-68303:jenkinsci/jenkins#18003
@@ -16864,12 +17337,14 @@ JENKINS-68310:jenkinsci/jenkins#18006
 JENKINS-68313:jenkinsci/jenkins#18007
 JENKINS-68316:jenkinsci/blueocean-plugin#5130
 JENKINS-68319:jenkinsci/jenkins#18008
+JENKINS-68321:jenkinsci/github-branch-source-plugin#1395
 JENKINS-68323:jenkinsci/jenkins#18009
 JENKINS-68330:jenkinsci/jenkins#18010
 JENKINS-68333:jenkinsci/jenkins#18011
 JENKINS-68335:jenkinsci/jenkins#18012
 JENKINS-68338:jenkinsci/jenkins#18013
 JENKINS-68346:jenkinsci/remoting#1465
+JENKINS-68354:jenkinsci/github-branch-source-plugin#1396
 JENKINS-68356:jenkinsci/jenkins#18014
 JENKINS-68357:jenkinsci/jenkins#18015
 JENKINS-68373:jenkinsci/jenkins#18016
@@ -16899,12 +17374,15 @@ JENKINS-68429:jenkinsci/jenkins#18035
 JENKINS-68430:jenkinsci/jenkins#18036
 JENKINS-68432:jenkinsci/git-plugin#3723
 JENKINS-68434:jenkinsci/jenkins#18037
+JENKINS-68437:jenkinsci/github-branch-source-plugin#1397
 JENKINS-68439:jenkinsci/jenkins#18038
 JENKINS-68443:jenkinsci/jenkins#18039
+JENKINS-68444:jenkinsci/github-branch-source-plugin#1398
 JENKINS-68446:jenkinsci/jenkins#18040
 JENKINS-68484:jenkinsci/jenkins#18041
 JENKINS-68485:jenkinsci/jenkins#18042
 JENKINS-68492:jenkinsci/jenkins#18043
+JENKINS-68493:jenkinsci/github-branch-source-plugin#1399
 JENKINS-68500:jenkinsci/jenkins#18044
 JENKINS-68517:jenkinsci/git-plugin#3724
 JENKINS-68523:jenkinsci/blueocean-plugin#5131
@@ -16915,6 +17393,7 @@ JENKINS-68537:jenkinsci/jenkins#18047
 JENKINS-68538:jenkinsci/jenkins#18048
 JENKINS-68541:jenkinsci/jenkins#18049
 JENKINS-68542:jenkinsci/remoting#1466
+JENKINS-68543:jenkinsci/github-branch-source-plugin#1400
 JENKINS-68552:jenkinsci/jenkins#18050
 JENKINS-68555:jenkinsci/git-plugin#3726
 JENKINS-68556:jenkinsci/jenkins#18051
@@ -16945,6 +17424,7 @@ JENKINS-68626:jenkinsci/jenkins#18066
 JENKINS-68627:jenkinsci/jenkins#18067
 JENKINS-68630:jenkinsci/jenkins#18068
 JENKINS-68631:jenkinsci/jenkins#18069
+JENKINS-68633:jenkinsci/github-branch-source-plugin#1401
 JENKINS-68638:jenkinsci/blueocean-plugin#5134
 JENKINS-68639:jenkinsci/jenkins#18070
 JENKINS-68640:jenkinsci/jenkins#18071
@@ -16989,6 +17469,7 @@ JENKINS-68750:jenkinsci/jenkins#18105
 JENKINS-68751:jenkinsci/git-plugin#3734
 JENKINS-68752:jenkinsci/jenkins#18106
 JENKINS-68761:jenkinsci/jenkins#18107
+JENKINS-68765:jenkinsci/github-branch-source-plugin#1402
 JENKINS-68767:jenkinsci/jenkins#18108
 JENKINS-68768:jenkinsci/jenkins#18109
 JENKINS-68769:jenkinsci/blueocean-plugin#5136
@@ -16999,6 +17480,7 @@ JENKINS-68799:jenkinsci/jenkins#18113
 JENKINS-68801:jenkinsci/jenkins#18114
 JENKINS-68805:jenkinsci/jenkins#18115
 JENKINS-68808:jenkinsci/jenkins#18116
+JENKINS-68809:jenkinsci/github-branch-source-plugin#1403
 JENKINS-68815:jenkinsci/jenkins#18117
 JENKINS-68816:jenkinsci/jenkins#18118
 JENKINS-68819:jenkinsci/jenkins#18119
@@ -17126,6 +17608,7 @@ JENKINS-69301:jenkinsci/jenkins#18225
 JENKINS-69309:jenkinsci/jenkins#18226
 JENKINS-69319:jenkinsci/jenkins#18227
 JENKINS-69320:jenkinsci/jenkins#18228
+JENKINS-69326:jenkinsci/github-branch-source-plugin#1404
 JENKINS-69329:jenkinsci/jenkins#18229
 JENKINS-69333:jenkinsci/jenkins#18230
 JENKINS-69334:jenkinsci/git-plugin#3742
@@ -17174,8 +17657,10 @@ JENKINS-69473:jenkinsci/git-plugin#3749
 JENKINS-69474:jenkinsci/jenkins#18262
 JENKINS-69478:jenkinsci/jenkins#18263
 JENKINS-69481:jenkinsci/git-plugin#3750
+JENKINS-69482:jenkinsci/github-branch-source-plugin#1405
 JENKINS-69484:jenkinsci/jenkins#18264
 JENKINS-69487:jenkinsci/jenkins#18265
+JENKINS-69488:jenkinsci/github-branch-source-plugin#1406
 JENKINS-69489:jenkinsci/jenkins#18266
 JENKINS-69496:jenkinsci/jenkins#18267
 JENKINS-69498:jenkinsci/jenkins#18268
@@ -17187,11 +17672,13 @@ JENKINS-69534:jenkinsci/jenkins#18271
 JENKINS-69537:jenkinsci/jenkins#18272
 JENKINS-69541:jenkinsci/jenkins#18273
 JENKINS-69543:jenkinsci/jenkins#18274
+JENKINS-69546:jenkinsci/github-branch-source-plugin#1407
 JENKINS-69549:jenkinsci/jenkins#18275
 JENKINS-69558:jenkinsci/jenkins#18276
 JENKINS-69564:jenkinsci/git-plugin#3751
 JENKINS-69570:jenkinsci/packaging#698
 JENKINS-69576:jenkinsci/jenkins#18277
+JENKINS-69577:jenkinsci/github-branch-source-plugin#1408
 JENKINS-69582:jenkinsci/jenkins#18278
 JENKINS-69584:jenkinsci/jenkins#18279
 JENKINS-69587:jenkinsci/jenkins#18280
@@ -17234,6 +17721,7 @@ JENKINS-69717:jenkinsci/jenkins#18309
 JENKINS-69721:jenkinsci/jenkins#18310
 JENKINS-69722:jenkinsci/jenkins#18311
 JENKINS-69727:jenkinsci/jenkins#18312
+JENKINS-69732:jenkinsci/github-branch-source-plugin#1409
 JENKINS-69734:jenkinsci/jenkins#18313
 JENKINS-69736:jenkinsci/git-plugin#3755
 JENKINS-69739:jenkinsci/jenkins#18314
@@ -17252,6 +17740,7 @@ JENKINS-69795:jenkinsci/jenkins#18325
 JENKINS-69801:jenkinsci/remoting#1475
 JENKINS-69811:jenkinsci/jenkins#18326
 JENKINS-69812:jenkinsci/jenkins#18327
+JENKINS-69815:jenkinsci/github-branch-source-plugin#1410
 JENKINS-69818:jenkinsci/jenkins#18328
 JENKINS-69821:jenkinsci/jenkins#18329
 JENKINS-69850:jenkinsci/jenkins#18330
@@ -17277,6 +17766,7 @@ JENKINS-69910:jenkinsci/jenkins#18343
 JENKINS-69911:jenkinsci/git-plugin#3760
 JENKINS-69912:jenkinsci/jenkins#18344
 JENKINS-69913:jenkinsci/git-plugin#3761
+JENKINS-69918:jenkinsci/github-branch-source-plugin#1411
 JENKINS-69919:jenkinsci/jenkins#18345
 JENKINS-69922:jenkinsci/jenkins#18346
 JENKINS-69923:jenkinsci/jenkins#18347
@@ -17344,6 +17834,7 @@ JENKINS-70157:jenkinsci/jenkins#18391
 JENKINS-70158:jenkinsci/git-plugin#3774
 JENKINS-70160:jenkinsci/git-plugin#3775
 JENKINS-70161:jenkinsci/remoting#1481
+JENKINS-70163:jenkinsci/github-branch-source-plugin#1412
 JENKINS-70168:jenkinsci/jenkins#18392
 JENKINS-70169:jenkinsci/jenkins#18393
 JENKINS-70178:jenkinsci/jenkins#18394
@@ -17365,6 +17856,7 @@ JENKINS-70227:jenkinsci/jenkins#18407
 JENKINS-70238:jenkinsci/jenkins#18408
 JENKINS-70240:jenkinsci/jenkins#18409
 JENKINS-70243:jenkinsci/jenkins#18410
+JENKINS-70244:jenkinsci/github-branch-source-plugin#1413
 JENKINS-70246:jenkinsci/jenkins#18411
 JENKINS-70247:jenkinsci/jenkins#18412
 JENKINS-70254:jenkinsci/jenkins#18413
@@ -17391,6 +17883,7 @@ JENKINS-70382:jenkinsci/jenkins#18427
 JENKINS-70385:jenkinsci/jenkins#18428
 JENKINS-70394:jenkinsci/jenkins#18429
 JENKINS-70414:jenkinsci/jenkins#18430
+JENKINS-70418:jenkinsci/github-branch-source-plugin#1414
 JENKINS-70421:jenkinsci/blueocean-plugin#5157
 JENKINS-70432:jenkinsci/jenkins#18431
 JENKINS-70433:jenkinsci/jenkins#18432
@@ -17398,7 +17891,9 @@ JENKINS-70435:jenkinsci/jenkins#18433
 JENKINS-70438:jenkinsci/jenkins#18434
 JENKINS-70440:jenkinsci/jenkins#18435
 JENKINS-70445:jenkinsci/blueocean-plugin#5158
+JENKINS-70447:jenkinsci/github-branch-source-plugin#1415
 JENKINS-70449:jenkinsci/jenkins#18436
+JENKINS-70459:jenkinsci/github-branch-source-plugin#1416
 JENKINS-70462:jenkinsci/jenkins#18437
 JENKINS-70463:jenkinsci/git-plugin#3778
 JENKINS-70478:jenkinsci/jenkins#18438
@@ -17409,11 +17904,14 @@ JENKINS-70487:jenkinsci/jenkins#18440
 JENKINS-70503:jenkinsci/jenkins#18441
 JENKINS-70508:jenkinsci/jenkins#18442
 JENKINS-70515:jenkinsci/jenkins#18443
+JENKINS-70519:jenkinsci/github-branch-source-plugin#1417
+JENKINS-70520:jenkinsci/github-branch-source-plugin#1418
 JENKINS-70531:jenkinsci/remoting#1482
 JENKINS-70533:jenkinsci/jenkins#18444
 JENKINS-70534:jenkinsci/git-plugin#3779
 JENKINS-70535:jenkinsci/jenkins#18445
 JENKINS-70540:jenkinsci/git-plugin#3780
+JENKINS-70546:jenkinsci/github-branch-source-plugin#1419
 JENKINS-70553:jenkinsci/remoting#1483
 JENKINS-70559:jenkinsci/blueocean-plugin#5161
 JENKINS-70571:jenkinsci/jenkins#18446
@@ -17554,6 +18052,7 @@ JENKINS-70975:jenkinsci/jenkins#18565
 JENKINS-70976:jenkinsci/jenkins#18566
 JENKINS-70977:jenkinsci/jenkins#18567
 JENKINS-70979:jenkinsci/git-plugin#3787
+JENKINS-70984:jenkinsci/github-branch-source-plugin#1420
 JENKINS-70988:jenkinsci/jenkins#18568
 JENKINS-70994:jenkinsci/jenkins#18569
 JENKINS-71001:jenkinsci/blueocean-plugin#5167
@@ -17712,6 +18211,8 @@ JENKINS-71573:jenkinsci/jenkins#18695
 JENKINS-71578:jenkinsci/jenkins#18696
 JENKINS-71591:jenkinsci/jenkins#18697
 JENKINS-71594:jenkinsci/jenkins#18698
+JENKINS-71599:jenkinsci/github-branch-source-plugin#1421
+JENKINS-71601:jenkinsci/github-branch-source-plugin#1422
 JENKINS-71602:jenkinsci/jenkins#18699
 JENKINS-71605:jenkinsci/packaging#702
 JENKINS-71621:jenkinsci/jenkins#18700
@@ -17741,6 +18242,7 @@ JENKINS-71728:jenkinsci/jenkins#18719
 JENKINS-71737:jenkinsci/jenkins#18720
 JENKINS-71742:jenkinsci/git-plugin#3801
 JENKINS-71744:jenkinsci/jenkins#18721
+JENKINS-71749:jenkinsci/github-branch-source-plugin#1423
 JENKINS-71759:jenkinsci/git-plugin#3802
 JENKINS-71762:jenkinsci/jenkins#18722
 JENKINS-71766:jenkinsci/jenkins#18723
@@ -17759,11 +18261,14 @@ JENKINS-71833:jenkinsci/jenkins#18733
 JENKINS-71842:jenkinsci/git-plugin#3803
 JENKINS-71846:jenkinsci/jenkins#18734
 JENKINS-71848:jenkinsci/jenkins#18735
+JENKINS-71849:jenkinsci/github-branch-source-plugin#1424
 JENKINS-71856:jenkinsci/remoting#1491
 JENKINS-71857:jenkinsci/blueocean-plugin#5178
+JENKINS-71862:jenkinsci/github-branch-source-plugin#1425
 JENKINS-71866:jenkinsci/jenkins#18736
 JENKINS-71876:jenkinsci/git-plugin#3804
 JENKINS-71880:jenkinsci/jenkins#18737
+JENKINS-71887:jenkinsci/github-branch-source-plugin#1426
 JENKINS-71890:jenkinsci/jenkins#18738
 JENKINS-71894:jenkinsci/jenkins#18739
 JENKINS-71905:jenkinsci/jenkins#18740
@@ -17792,6 +18297,7 @@ JENKINS-72016:jenkinsci/jenkins#18758
 JENKINS-72018:jenkinsci/jenkins#18759
 JENKINS-72020:jenkinsci/jenkins#18760
 JENKINS-72028:jenkinsci/jenkins#18761
+JENKINS-72030:jenkinsci/github-branch-source-plugin#1427
 JENKINS-72041:jenkinsci/blueocean-plugin#5180
 JENKINS-72043:jenkinsci/jenkins#18762
 JENKINS-72044:jenkinsci/git-plugin#3807
@@ -17816,6 +18322,7 @@ JENKINS-72114:jenkinsci/jenkins#18778
 JENKINS-72115:jenkinsci/jenkins#18779
 JENKINS-72124:jenkinsci/jenkins#18780
 JENKINS-72125:jenkinsci/git-plugin#3809
+JENKINS-72132:jenkinsci/github-branch-source-plugin#1428
 JENKINS-72138:jenkinsci/jenkins#18781
 JENKINS-72141:jenkinsci/jenkins#18782
 JENKINS-72143:jenkinsci/jenkins#18783
@@ -17856,10 +18363,12 @@ JENKINS-72277:jenkinsci/jenkins#18811
 JENKINS-72278:jenkinsci/jenkins#18812
 JENKINS-72283:jenkinsci/git-plugin#3814
 JENKINS-72288:jenkinsci/jenkins#18813
+JENKINS-72294:jenkinsci/github-branch-source-plugin#1429
 JENKINS-72295:jenkinsci/git-plugin#3815
 JENKINS-72321:jenkinsci/blueocean-plugin#5182
 JENKINS-72323:jenkinsci/jenkins#18814
 JENKINS-72326:jenkinsci/jenkins#18815
+JENKINS-72330:jenkinsci/github-branch-source-plugin#1430
 JENKINS-72332:jenkinsci/jenkins#18816
 JENKINS-72336:jenkinsci/git-plugin#3816
 JENKINS-72343:jenkinsci/jenkins#18817
@@ -17880,6 +18389,7 @@ JENKINS-72391:jenkinsci/remoting#1494
 JENKINS-72399:jenkinsci/jenkins#18827
 JENKINS-72407:jenkinsci/jenkins#18828
 JENKINS-72410:jenkinsci/jenkins#18829
+JENKINS-72412:jenkinsci/github-branch-source-plugin#1431
 JENKINS-72417:jenkinsci/jenkins#18830
 JENKINS-72421:jenkinsci/git-plugin#3819
 JENKINS-72426:jenkinsci/git-plugin#3820
@@ -17897,6 +18407,7 @@ JENKINS-72469:jenkinsci/jenkins#18838
 JENKINS-72474:jenkinsci/remoting#1495
 JENKINS-72479:jenkinsci/git-plugin#3823
 JENKINS-72487:jenkinsci/jenkins#18839
+JENKINS-72490:jenkinsci/github-branch-source-plugin#1432
 JENKINS-72491:jenkinsci/jenkins#18840
 JENKINS-72492:jenkinsci/jenkins#18841
 JENKINS-72500:jenkinsci/jenkins#18842
@@ -17915,6 +18426,7 @@ JENKINS-72574:jenkinsci/git-plugin#3827
 JENKINS-72576:jenkinsci/jenkins#16338
 JENKINS-72577:jenkinsci/jenkins#16339
 JENKINS-72579:jenkinsci/jenkins#16340
+JENKINS-72580:jenkinsci/github-branch-source-plugin#1433
 JENKINS-72585:jenkinsci/packaging#707
 JENKINS-72596:jenkinsci/blueocean-plugin#5184
 JENKINS-72602:jenkinsci/jenkins#16341
@@ -17926,9 +18438,12 @@ JENKINS-72622:jenkinsci/jenkins#16344
 JENKINS-72627:jenkinsci/jenkins#16345
 JENKINS-72636:jenkinsci/jenkins#16346
 JENKINS-72637:jenkinsci/jenkins#16347
+JENKINS-72644:jenkinsci/github-branch-source-plugin#1434
+JENKINS-72652:jenkinsci/github-branch-source-plugin#1435
 JENKINS-72655:jenkinsci/jenkins#16348
 JENKINS-72659:jenkinsci/jenkins#16349
 JENKINS-72665:jenkinsci/jenkins#16350
+JENKINS-72678:jenkinsci/github-branch-source-plugin#1436
 JENKINS-72679:jenkinsci/jenkins#16351
 JENKINS-72682:jenkinsci/git-plugin#3828
 JENKINS-72686:jenkinsci/remoting#1497
@@ -17979,6 +18494,7 @@ JENKINS-72879:jenkinsci/jenkins#16387
 JENKINS-72881:jenkinsci/remoting#1499
 JENKINS-72890:jenkinsci/jenkins#16388
 JENKINS-72891:jenkinsci/git-plugin#3833
+JENKINS-72894:jenkinsci/github-branch-source-plugin#1437
 JENKINS-72900:jenkinsci/jenkins#16389
 JENKINS-72904:jenkinsci/jenkins#16390
 JENKINS-72913:jenkinsci/blueocean-plugin#5188
@@ -18016,6 +18532,7 @@ JENKINS-73046:jenkinsci/jenkins#16419
 JENKINS-73047:jenkinsci/jenkins#16420
 JENKINS-73049:jenkinsci/jenkins#16421
 JENKINS-73050:jenkinsci/git-plugin#3835
+JENKINS-73053:jenkinsci/github-branch-source-plugin#1438
 JENKINS-73054:jenkinsci/git-plugin#3836
 JENKINS-73064:jenkinsci/jenkins#16422
 JENKINS-73079:jenkinsci/git-plugin#3837
@@ -18023,12 +18540,14 @@ JENKINS-73089:jenkinsci/jenkins#16423
 JENKINS-73090:jenkinsci/jenkins#16424
 JENKINS-73092:jenkinsci/jenkins#16425
 JENKINS-73093:jenkinsci/jenkins#16426
+JENKINS-73106:jenkinsci/github-branch-source-plugin#1439
 JENKINS-73108:jenkinsci/jenkins#16427
 JENKINS-73114:jenkinsci/jenkins#16428
 JENKINS-73127:jenkinsci/jenkins#16429
 JENKINS-73128:jenkinsci/jenkins#16430
 JENKINS-73129:jenkinsci/jenkins#16431
 JENKINS-73130:jenkinsci/jenkins#16432
+JENKINS-73151:jenkinsci/github-branch-source-plugin#1440
 JENKINS-73152:jenkinsci/jenkins#16433
 JENKINS-73156:jenkinsci/jenkins#16434
 JENKINS-73157:jenkinsci/jenkins#16435
@@ -18037,11 +18556,13 @@ JENKINS-73161:jenkinsci/jenkins#16437
 JENKINS-73168:jenkinsci/jenkins#16438
 JENKINS-73169:jenkinsci/jenkins#16439
 JENKINS-73170:jenkinsci/jenkins#16440
+JENKINS-73172:jenkinsci/github-branch-source-plugin#1441
 JENKINS-73186:jenkinsci/jenkins#16441
 JENKINS-73192:jenkinsci/jenkins#16442
 JENKINS-73209:jenkinsci/remoting#1500
 JENKINS-73216:jenkinsci/git-plugin#3838
 JENKINS-73220:jenkinsci/jenkins#16443
+JENKINS-73227:jenkinsci/github-branch-source-plugin#1442
 JENKINS-73229:jenkinsci/git-plugin#3839
 JENKINS-73236:jenkinsci/jenkins#16444
 JENKINS-73240:jenkinsci/git-plugin#3840
@@ -18054,6 +18575,7 @@ JENKINS-73251:jenkinsci/jenkins#16447
 JENKINS-73252:jenkinsci/jenkins#16448
 JENKINS-73265:jenkinsci/jenkins#16449
 JENKINS-73266:jenkinsci/jenkins#16450
+JENKINS-73271:jenkinsci/github-branch-source-plugin#1443
 JENKINS-73278:jenkinsci/jenkins#16451
 JENKINS-73284:jenkinsci/jenkins#16452
 JENKINS-73285:jenkinsci/jenkins#16453
@@ -18081,6 +18603,7 @@ JENKINS-73381:jenkinsci/jenkins#16471
 JENKINS-73384:jenkinsci/blueocean-plugin#5190
 JENKINS-73385:jenkinsci/jenkins#16472
 JENKINS-73386:jenkinsci/jenkins#16473
+JENKINS-73388:jenkinsci/github-branch-source-plugin#1444
 JENKINS-73391:jenkinsci/jenkins#16474
 JENKINS-73397:jenkinsci/jenkins#16475
 JENKINS-73400:jenkinsci/jenkins#16476
@@ -18100,6 +18623,7 @@ JENKINS-73446:jenkinsci/jenkins#16488
 JENKINS-73448:jenkinsci/jenkins#16489
 JENKINS-73453:jenkinsci/jenkins#16490
 JENKINS-73467:jenkinsci/jenkins#16491
+JENKINS-73474:jenkinsci/github-branch-source-plugin#1445
 JENKINS-73487:jenkinsci/jenkins#16492
 JENKINS-73493:jenkinsci/jenkins#16493
 JENKINS-73499:jenkinsci/jenkins#16494
@@ -18112,6 +18636,7 @@ JENKINS-73536:jenkinsci/blueocean-plugin#5347
 JENKINS-73539:jenkinsci/jenkins#16498
 JENKINS-73554:jenkinsci/jenkins#16499
 JENKINS-73557:jenkinsci/jenkins#16500
+JENKINS-73559:jenkinsci/github-branch-source-plugin#1446
 JENKINS-73562:jenkinsci/jenkins#16501
 JENKINS-73563:jenkinsci/jenkins#16502
 JENKINS-73564:jenkinsci/jenkins#16503
@@ -18168,7 +18693,10 @@ JENKINS-73771:jenkinsci/jenkins#16545
 JENKINS-73774:jenkinsci/jenkins#16546
 JENKINS-73775:jenkinsci/blueocean-plugin#5191
 JENKINS-73777:jenkinsci/jenkins#16547
+JENKINS-73783:jenkinsci/github-branch-source-plugin#1447
 JENKINS-73785:jenkinsci/jenkins#16548
+JENKINS-73787:jenkinsci/github-branch-source-plugin#1448
+JENKINS-73791:jenkinsci/github-branch-source-plugin#1449
 JENKINS-73797:jenkinsci/git-plugin#3856
 JENKINS-73800:jenkinsci/git-plugin#3857
 JENKINS-73801:jenkinsci/jenkins#16549
@@ -18176,6 +18704,7 @@ JENKINS-73803:jenkinsci/git-plugin#3858
 JENKINS-73804:jenkinsci/jenkins#16550
 JENKINS-73805:jenkinsci/jenkins#16551
 JENKINS-73809:jenkinsci/jenkins#16552
+JENKINS-73811:jenkinsci/github-branch-source-plugin#1450
 JENKINS-73813:jenkinsci/jenkins#16553
 JENKINS-73819:jenkinsci/jenkins#16554
 JENKINS-73821:jenkinsci/jenkins#16555
@@ -18195,6 +18724,8 @@ JENKINS-73866:jenkinsci/jenkins#16565
 JENKINS-73867:jenkinsci/jenkins#16566
 JENKINS-73874:jenkinsci/jenkins#16567
 JENKINS-73881:jenkinsci/jenkins#16568
+JENKINS-73887:jenkinsci/github-branch-source-plugin#1451
+JENKINS-73898:jenkinsci/github-branch-source-plugin#1452
 JENKINS-73901:jenkinsci/git-plugin#3862
 JENKINS-73905:jenkinsci/jenkins#16569
 JENKINS-73906:jenkinsci/jenkins#16570
@@ -18202,6 +18733,7 @@ JENKINS-73907:jenkinsci/jenkins#16571
 JENKINS-73908:jenkinsci/jenkins#16572
 JENKINS-73916:jenkinsci/jenkins#16573
 JENKINS-73917:jenkinsci/jenkins#16574
+JENKINS-73920:jenkinsci/github-branch-source-plugin#1453
 JENKINS-73926:jenkinsci/jenkins#16575
 JENKINS-73927:jenkinsci/jenkins#16576
 JENKINS-73942:jenkinsci/jenkins#16577
@@ -18240,6 +18772,7 @@ JENKINS-74888:jenkinsci/jenkins#16600
 JENKINS-74905:jenkinsci/jenkins#16601
 JENKINS-74918:jenkinsci/jenkins#16602
 JENKINS-74922:jenkinsci/blueocean-plugin#5196
+JENKINS-74926:jenkinsci/github-branch-source-plugin#1454
 JENKINS-74930:jenkinsci/jenkins#16603
 JENKINS-74944:jenkinsci/jenkins#16604
 JENKINS-74946:jenkinsci/jenkins#16605
@@ -18254,7 +18787,9 @@ JENKINS-74973:jenkinsci/jenkins#16612
 JENKINS-74984:jenkinsci/jenkins#16613
 JENKINS-75003:jenkinsci/jenkins#16614
 JENKINS-75005:jenkinsci/remoting#1505
+JENKINS-75055:jenkinsci/github-branch-source-plugin#1455
 JENKINS-75057:jenkinsci/git-plugin#3866
+JENKINS-75058:jenkinsci/github-branch-source-plugin#1456
 JENKINS-75065:jenkinsci/jenkins#16615
 JENKINS-75068:jenkinsci/jenkins#16616
 JENKINS-75072:jenkinsci/git-plugin#3867
@@ -18275,6 +18810,7 @@ JENKINS-75134:jenkinsci/jenkins#16629
 JENKINS-75136:jenkinsci/jenkins#16630
 JENKINS-75143:jenkinsci/git-plugin#3869
 JENKINS-75145:jenkinsci/jenkins#16631
+JENKINS-75148:jenkinsci/github-branch-source-plugin#1457
 JENKINS-75152:jenkinsci/jenkins#16632
 JENKINS-75153:jenkinsci/jenkins#16633
 JENKINS-75162:jenkinsci/git-plugin#3870
@@ -18322,11 +18858,13 @@ JENKINS-75333:jenkinsci/jenkins#16666
 JENKINS-75336:jenkinsci/jenkins#16667
 JENKINS-75337:jenkinsci/git-plugin#3875
 JENKINS-75341:jenkinsci/jenkins#16668
+JENKINS-75343:jenkinsci/github-branch-source-plugin#1458
 JENKINS-75347:jenkinsci/git-plugin#3876
 JENKINS-75350:jenkinsci/jenkins#16669
 JENKINS-75352:jenkinsci/jenkins#16670
 JENKINS-75364:jenkinsci/jenkins#16671
 JENKINS-75370:jenkinsci/jenkins#16672
+JENKINS-75371:jenkinsci/github-branch-source-plugin#1459
 JENKINS-75377:jenkinsci/git-plugin#3877
 JENKINS-75378:jenkinsci/jenkins#16673
 JENKINS-75379:jenkinsci/jenkins#16674
@@ -18350,11 +18888,15 @@ JENKINS-75463:jenkinsci/jenkins#16688
 JENKINS-75464:jenkinsci/jenkins#16689
 JENKINS-75465:jenkinsci/jenkins#16690
 JENKINS-75468:jenkinsci/jenkins#16691
+JENKINS-75471:jenkinsci/github-branch-source-plugin#1460
 JENKINS-75473:jenkinsci/jenkins#16692
 JENKINS-75476:jenkinsci/jenkins#16693
 JENKINS-75479:jenkinsci/blueocean-plugin#5199
+JENKINS-75485:jenkinsci/github-branch-source-plugin#1461
 JENKINS-75488:jenkinsci/jenkins#16694
 JENKINS-75492:jenkinsci/jenkins#16695
+JENKINS-75493:jenkinsci/github-branch-source-plugin#1462
+JENKINS-75500:jenkinsci/github-branch-source-plugin#1463
 JENKINS-75502:jenkinsci/jenkins#16696
 JENKINS-75515:jenkinsci/jenkins#16697
 JENKINS-75516:jenkinsci/jenkins#16698
@@ -18371,6 +18913,7 @@ JENKINS-75543:jenkinsci/git-plugin#3880
 JENKINS-75546:jenkinsci/jenkins#16707
 JENKINS-75554:jenkinsci/jenkins#16708
 JENKINS-75561:jenkinsci/jenkins#16709
+JENKINS-75564:jenkinsci/github-branch-source-plugin#1464
 JENKINS-75567:jenkinsci/jenkins#16710
 JENKINS-75568:jenkinsci/jenkins#16711
 JENKINS-75569:jenkinsci/jenkins#16712
@@ -18412,6 +18955,8 @@ JENKINS-75688:jenkinsci/jenkins#16744
 JENKINS-75692:jenkinsci/jenkins#16745
 JENKINS-75694:jenkinsci/jenkins#16746
 JENKINS-75701:jenkinsci/jenkins#16747
+JENKINS-75704:jenkinsci/github-branch-source-plugin#1465
+JENKINS-75714:jenkinsci/github-branch-source-plugin#1466
 JENKINS-75719:jenkinsci/jenkins#16748
 JENKINS-75725:jenkinsci/jenkins#16749
 JENKINS-75727:jenkinsci/jenkins#16750
@@ -18451,6 +18996,7 @@ JENKINS-75872:jenkinsci/jenkins#16779
 JENKINS-75878:jenkinsci/jenkins#16780
 JENKINS-75879:jenkinsci/jenkins#16781
 JENKINS-75885:jenkinsci/git-plugin#3886
+JENKINS-75889:jenkinsci/github-branch-source-plugin#1467
 JENKINS-75892:jenkinsci/jenkins#16782
 JENKINS-75893:jenkinsci/jenkins#16783
 JENKINS-75894:jenkinsci/git-plugin#3887
@@ -18468,9 +19014,11 @@ JENKINS-75931:jenkinsci/jenkins#16793
 JENKINS-75937:jenkinsci/jenkins#16794
 JENKINS-75944:jenkinsci/jenkins#16795
 JENKINS-75946:jenkinsci/blueocean-plugin#5201
+JENKINS-75950:jenkinsci/github-branch-source-plugin#1468
 JENKINS-75953:jenkinsci/jenkins#16796
 JENKINS-75967:jenkinsci/jenkins#16797
 JENKINS-75972:jenkinsci/jenkins#16798
+JENKINS-75976:jenkinsci/github-branch-source-plugin#1469
 JENKINS-75979:jenkinsci/git-plugin#3889
 JENKINS-75986:jenkinsci/jenkins#16799
 JENKINS-75990:jenkinsci/jenkins#16800
@@ -18481,13 +19029,21 @@ JENKINS-76025:jenkinsci/jenkins#16804
 JENKINS-76028:jenkinsci/jenkins#16805
 JENKINS-76029:jenkinsci/jenkins#16806
 JENKINS-76033:jenkinsci/jenkins#16807
+JENKINS-76035:jenkinsci/github-branch-source-plugin#1470
+JENKINS-76049:jenkinsci/github-branch-source-plugin#1471
 JENKINS-76050:jenkinsci/jenkins#16808
+JENKINS-76052:jenkinsci/github-branch-source-plugin#1472
+JENKINS-76053:jenkinsci/github-branch-source-plugin#1473
 JENKINS-76055:jenkinsci/git-plugin#3890
+JENKINS-76056:jenkinsci/github-branch-source-plugin#1474
 JENKINS-76061:jenkinsci/jenkins#16809
+JENKINS-76072:jenkinsci/github-branch-source-plugin#1475
+JENKINS-76074:jenkinsci/github-branch-source-plugin#1476
 JENKINS-76075:jenkinsci/jenkins#16810
 JENKINS-76081:jenkinsci/jenkins#16811
 JENKINS-76085:jenkinsci/jenkins#16812
 JENKINS-76092:jenkinsci/jenkins#16813
+JENKINS-76097:jenkinsci/github-branch-source-plugin#1477
 JENKINS-76100:jenkinsci/blueocean-plugin#5202
 JENKINS-76102:jenkinsci/jenkins#16814
 JENKINS-76103:jenkinsci/jenkins#16815
@@ -18495,6 +19051,7 @@ JENKINS-76106:jenkinsci/jenkins#16816
 JENKINS-76114:jenkinsci/jenkins#16817
 JENKINS-76115:jenkinsci/jenkins#16818
 JENKINS-76118:jenkinsci/jenkins#16819
+JENKINS-76124:jenkinsci/github-branch-source-plugin#1478
 JENKINS-76128:jenkinsci/jenkins#16820
 JENKINS-76130:jenkinsci/git-plugin#3891
 JENKINS-76133:jenkinsci/jenkins#16821
@@ -18505,13 +19062,18 @@ JENKINS-76167:jenkinsci/git-plugin#3894
 JENKINS-76170:jenkinsci/jenkins#16823
 JENKINS-76181:jenkinsci/jenkins#16824
 JENKINS-76192:jenkinsci/jenkins#16825
+JENKINS-76201:jenkinsci/github-branch-source-plugin#1479
 JENKINS-76202:jenkinsci/jenkins#16826
 JENKINS-76208:jenkinsci/jenkins#16827
 JENKINS-76217:jenkinsci/jenkins#16828
 JENKINS-76225:jenkinsci/jenkins#16829
+JENKINS-76228:jenkinsci/github-branch-source-plugin#1480
 JENKINS-76229:jenkinsci/jenkins#16830
 JENKINS-76233:jenkinsci/jenkins#16831
+JENKINS-76235:jenkinsci/github-branch-source-plugin#1481
+JENKINS-76236:jenkinsci/github-branch-source-plugin#1482
 JENKINS-76241:jenkinsci/jenkins#16832
+JENKINS-76244:jenkinsci/github-branch-source-plugin#1483
 JENKINS-76249:jenkinsci/jenkins#16833
 JENKINS-76253:jenkinsci/jenkins#16834
 JENKINS-76258:jenkinsci/jenkins#16835
@@ -18523,7 +19085,9 @@ JENKINS-76269:jenkinsci/jenkins#16840
 JENKINS-76275:jenkinsci/jenkins#16841
 JENKINS-76276:jenkinsci/jenkins#16842
 JENKINS-76278:jenkinsci/jenkins#16843
+JENKINS-76287:jenkinsci/github-branch-source-plugin#1484
 JENKINS-76289:jenkinsci/jenkins#16844
 JENKINS-76295:jenkinsci/jenkins#16845
 JENKINS-76296:jenkinsci/jenkins#16846
 JENKINS-76299:jenkinsci/jenkins#16847
+JENKINS-76302:jenkinsci/github-branch-source-plugin#1485
